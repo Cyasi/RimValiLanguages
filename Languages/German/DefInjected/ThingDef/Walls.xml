@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AvaliWall.label>tent wall</AvaliWall.label>
+  <AvaliWall.description>An impassable wall. Capable of holding up a roof.</AvaliWall.description>
+  <Blueprint_AvaliWall.label>tent wall (blueprint)</Blueprint_AvaliWall.label>
+  <Frame_AvaliWall.label>tent wall (building)</Frame_AvaliWall.label>
+  <Frame_AvaliWall.description>An impassable wall. Capable of holding up a roof.</Frame_AvaliWall.description>
+</LanguageData>

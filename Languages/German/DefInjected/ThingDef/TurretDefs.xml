@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AvaliBasicTurret.label>Avali turret</AvaliBasicTurret.label>
+  <AvaliBasicTurret.description>A lightweight railgun turret, designed for long range combat. It is somewhat less durrable than its human-built counterparts, but has great long range accuracy.</AvaliBasicTurret.description>
+  <AvaliBasicTurret.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</AvaliBasicTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <AvaliBasicTurret.comps.CompRefuelable.fuelLabel>Shots until barrel change</AvaliBasicTurret.comps.CompRefuelable.fuelLabel>
+  <AvaliBasicTurret.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</AvaliBasicTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <AvaliBasicTurretBullet.label>AvaliTurretBullet</AvaliBasicTurretBullet.label>
+
+  <AvaliBasicTurretGun.label>Basic avali turret gun</AvaliBasicTurretGun.label>
+  <AvaliBasicTurretGun.description>A automatic railgun, made to be mounted to an avali turret.</AvaliBasicTurretGun.description>
+  <AvaliBasicTurretGun.verbs.Verb_Shoot.label>Basic avali turret gun</AvaliBasicTurretGun.verbs.Verb_Shoot.label>
+
+  <AvaliMiniGunTurret.label>Avali turret</AvaliMiniGunTurret.label>
+  <AvaliMiniGunTurret.description>A heavy turret, with two avali miniguns onboard. Due to also being a railgun of avali design, it performs best at long range.</AvaliMiniGunTurret.description>
+  <AvaliMiniGunTurret.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</AvaliMiniGunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <AvaliMiniGunTurret.comps.CompRefuelable.fuelLabel>Shots until barrel change</AvaliMiniGunTurret.comps.CompRefuelable.fuelLabel>
+  <AvaliMiniGunTurret.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</AvaliMiniGunTurret.comps.CompRefuelable.outOfFuelMessage>
+
+  <AvaliMiniGunTurretBullet.label>AvaliTurretBullet</AvaliMiniGunTurretBullet.label>
+
+  <AvaliMiniGunTurretGun.label>Basic avali turret gun</AvaliMiniGunTurretGun.label>
+  <AvaliMiniGunTurretGun.description>A automatic railgun, made to be mounted to an avali turret.</AvaliMiniGunTurretGun.description>
+  <AvaliMiniGunTurretGun.verbs.Verb_Shoot.label>Basic avali turret gun</AvaliMiniGunTurretGun.verbs.Verb_Shoot.label>
+</LanguageData>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- data from Backstories.xml -->
+  
+  <NeoStoryChild.title>RitualNeo</NeoStoryChild.title>
+  <NeoStoryChild.story.title>title</NeoStoryChild.story.title>
+  <NeoStoryChild.shortTitle>Neo</NeoStoryChild.shortTitle>
+  <NeoStoryChild.storyDesc>As a child, Neo always wanted to be a pilot, or space explorer. Eventually, that dream became a reality, and Neo was trained to be an explorer.</NeoStoryChild.storyDesc>
+  <NeoStoryChild.story.baseDesc>storydesc</NeoStoryChild.story.baseDesc>
+
+
+  <NeoStoryAdult.title>RitualNeo</NeoStoryAdult.title>
+  <NeoStoryAdult.story.title>title</NeoStoryAdult.story.title>
+  <NeoStoryAdult.shortTitle>Neo</NeoStoryAdult.shortTitle>
+  <NeoStoryAdult.storyDesc>RitualNeo is a veteran space explorer. At one point, he was forced to test a form of FTL travel (Faster-Than-Light), and became stranded in an alternate dimension. And now, he's stranded here.</NeoStoryAdult.storyDesc>
+  <NeoStoryAdult.story.baseDesc>storydesc</NeoStoryAdult.story.baseDesc>
+
+
+  <Danny.title>Danny</Danny.title>
+  <Danny.story.title>title</Danny.story.title>
+  <Danny.shortTitle>Danny</Danny.shortTitle>
+  <Danny.storyDesc>Danny spent most of his life as a dreamer, out of place for being born into such a small pack. Once he was of age, he declared himself leader of his pack, which they gladly followed. He than began a campaign that lasted months, attempting to unify the avali local to him under a singular state. Tragedy struck, when during a battle, a stray bullet hit him right in the head. However... He survived. Danny woke up, dazed in an empty field, unsure of what was going on. He was found there by a neutral pack, who didn't seem to understand what he was saying. He still searches for his lost pack. Also, he may have a slight case of severe brain damage.</Danny.storyDesc>
+  <Danny.story.baseDesc>storydesc</Danny.story.baseDesc>
+
+
+  <EmilStoryChild.title>Eimilian</EmilStoryChild.title>
+  <EmilStoryChild.story.title>title</EmilStoryChild.story.title>
+  <EmilStoryChild.shortTitle>Eimilian</EmilStoryChild.shortTitle>
+  <EmilStoryChild.storyDesc>Eimilian was trained as an apprentice spec ops during his childhood. He learned how to do things other pawns might not in combat, but is more intrested in melee. However, he is a terrible cook.</EmilStoryChild.storyDesc>
+  <EmilStoryChild.story.baseDesc>storydesc</EmilStoryChild.story.baseDesc>
+
+
+  <EimilStoryAdult.title>Eimilian</EimilStoryAdult.title>
+  <EimilStoryAdult.story.title>title</EimilStoryAdult.story.title>
+  <EimilStoryAdult.shortTitle>Eimilian</EimilStoryAdult.shortTitle>
+  <EimilStoryAdult.storyDesc>As an adult, Eimilian was the leader of his pack. He learned from this, and also became better at things like negotiating with others.</EimilStoryAdult.storyDesc>
+  <EimilStoryAdult.story.baseDesc>storydesc</EimilStoryAdult.story.baseDesc>
+
+
+  <SommeilStoryAdult.title>Sommeil</SommeilStoryAdult.title>
+  <SommeilStoryAdult.story.title>title</SommeilStoryAdult.story.title>
+  <SommeilStoryAdult.shortTitle>Sommeil</SommeilStoryAdult.shortTitle>
+  <SommeilStoryAdult.storyDesc>Sommeil is a knight. Unlike most avali, he prefers more "traditional" technologies, rather than what those Illuminate avali use.</SommeilStoryAdult.storyDesc>
+  <SommeilStoryAdult.story.baseDesc>storydesc</SommeilStoryAdult.story.baseDesc>
+
+
+  <KBraidStoryChild.title>Braid</KBraidStoryChild.title>
+  <KBraidStoryChild.story.title>title</KBraidStoryChild.story.title>
+  <KBraidStoryChild.shortTitle>Braid</KBraidStoryChild.shortTitle>
+  <KBraidStoryChild.storyDesc>In his youthful years, Braid showed a lot of creativity and had a level of intelegance far more prevalent than his peers.</KBraidStoryChild.storyDesc>
+  <KBraidStoryChild.story.baseDesc>storydesc</KBraidStoryChild.story.baseDesc>
+
+
+  <KBraidStoryAdult.title>Braid</KBraidStoryAdult.title>
+  <KBraidStoryAdult.story.title>title</KBraidStoryAdult.story.title>
+  <KBraidStoryAdult.shortTitle>Braid</KBraidStoryAdult.shortTitle>
+  <KBraidStoryAdult.storyDesc>Braid's pack chose the path of the soldier, their fireteam proving themselves to be exeptional. However, on one assignment everything had gone horribly wrong and his whole pack was wiped out, leaving him all alone...</KBraidStoryAdult.storyDesc>
+  <KBraidStoryAdult.story.baseDesc>storydesc</KBraidStoryAdult.story.baseDesc>
+
+
+  <KEiliStoryChild.title>Eili</KEiliStoryChild.title>
+  <KEiliStoryChild.story.title>title</KEiliStoryChild.story.title>
+  <KEiliStoryChild.shortTitle>Eili</KEiliStoryChild.shortTitle>
+  <KEiliStoryChild.storyDesc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</KEiliStoryChild.storyDesc>
+  <KEiliStoryChild.story.baseDesc>storydesc</KEiliStoryChild.story.baseDesc>
+
+
+  <KEiliStoryAdult.title>Eili</KEiliStoryAdult.title>
+  <KEiliStoryAdult.story.title>title</KEiliStoryAdult.story.title>
+  <KEiliStoryAdult.shortTitle>Eili</KEiliStoryAdult.shortTitle>
+  <KEiliStoryAdult.storyDesc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</KEiliStoryAdult.storyDesc>
+  <KEiliStoryAdult.story.baseDesc>storydesc</KEiliStoryAdult.story.baseDesc>
+</LanguageData>

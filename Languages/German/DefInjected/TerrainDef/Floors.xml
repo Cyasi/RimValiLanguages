@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- <TungstenTile.label>Tungsten tile</TungstenTile.label> -->
+  <TungstenTile.label>Wolframkachel</TungstenTile.label>
+  <!-- <TungstenTile.description>Tungsten tiles, with a nice shine to them.</TungstenTile.description> -->
+  <TungstenTile.description>Wolframkachel, mit einem schönen Glanz.</TungstenTile.description>
+
+  <!-- <AeroTungstenTile.label>Aero-Tungsten Carbide tile</AeroTungstenTile.label> -->
+  <AeroTungstenTile.label>Aero-Wolfsramcarbid-Kachel</AeroTungstenTile.label>
+  <!-- <AeroTungstenTile.description>A metallic, white tile. It looks quite nice.</AeroTungstenTile.description> -->
+  <AeroTungstenTile.description>Eine metallisch, weiße Kachel. Sieht ganz gut aus.</AeroTungstenTile.description>
+
+  <!-- <AerogellTile.label>Ferrogel tile</AerogellTile.label> -->
+  <AerogellTile.label>Ferrogelkacheö</AerogellTile.label>
+  <!-- <AerogellTile.description>A bright orange tile made from ferrogel.</AerogellTile.description> -->
+  <AerogellTile.description>Eine leuchtend orange Kachel aus Ferrogel.</AerogellTile.description>
+</LanguageData>

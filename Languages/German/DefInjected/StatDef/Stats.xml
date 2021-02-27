@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- <ExplodeBombRadius.label>Explosion [Bomb] radius</ExplodeBombRadius.label> -->
+  <ExplodeBombRadius.label>Explosionsradius [Bombe]</ExplodeBombRadius.label>
+  <!-- <ExplodeBombRadius.description>The area affected when this detonates.</ExplodeBombRadius.description> -->
+  <ExplodeBombRadius.description>Der Bereich, der von der Explosion betroffen ist.</ExplodeBombRadius.description>
+
+  <!-- <ExplodeFireRadius.label>Explosion [Fire] radius</ExplodeFireRadius.label> -->
+  <ExplodeFireRadius.label>Explosionsradius [Feuer]</ExplodeFireRadius.label>
+  <!-- <ExplodeFireRadius.description>The area affected when this detonates.</ExplodeFireRadius.description> -->
+  <ExplodeFireRadius.description>Der Bereich, der von der Explosion betroffen ist.</ExplodeFireRadius.description>
+
+  <!-- <ExplodeEMPRadius.label>Explosion [EMP] radius</ExplodeEMPRadius.label> -->
+  <ExplodeEMPRadius.label>Explosionsradius [EMP]</ExplodeEMPRadius.label>
+  <!-- <ExplodeEMPRadius.description>The area affected when this detonates.</ExplodeEMPRadius.description> -->
+  <ExplodeEMPRadius.description>Der Bereich, der von der Explosion betroffen ist.</ExplodeEMPRadius.description>
+
+  <!-- <KillOnExplosion.label>Kills pawn on explosion</KillOnExplosion.label> -->
+  <KillOnExplosion.label>Tötet bei Explosion</KillOnExplosion.label>
+  <!-- <KillOnExplosion.description>If this apparel has is GUARANTEED to kill the pawn when exploding [0 = no, 1 = yes].</KillOnExplosion.description> -->
+  <KillOnExplosion.description>Tötet GARANTIERT bei Explosion [0 = nein, 1 = ja].</KillOnExplosion.description>
+</LanguageData>

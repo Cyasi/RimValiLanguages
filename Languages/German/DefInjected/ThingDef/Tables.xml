@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Nano-Forge -->
+
+  <AvaliNanoForge.label>Avali Nano-Printing Forge</AvaliNanoForge.label>
+  <AvaliNanoForge.description>The Avali Nano-Printing Forge is a 3D printer, like most Avali crafting utilities. It works with immense heat, and nanotechnologies able to rearrange the structure and molecues of the items put in. Caution: Do not stick fingers, toes, feet, hands, tails, or other limbs inside, even if the device appears to be powered off.</AvaliNanoForge.description>
+
+  <!-- Research bench -->
+
+  <AvaliResearchBench.label>Avali Research bench</AvaliResearchBench.label>
+  <AvaliResearchBench.description>An avali research bench. Most avali would dimiss this kind of tech as simple, and somewhat bulky, while the humans just stare at the hologram it projects. You'll learn to make better versions later on, most likely, but this is a start. You'll need it to research avali tech.</AvaliResearchBench.description>
+
+  <AvaliNexus.label>Illuminate Nexus Connection</AvaliNexus.label>
+  <AvaliNexus.description>This device can be used to access higher levels of tech, thanks to its connection to te nexus.</AvaliNexus.description>
+
+  <!-- Nano-loom -->
+
+  <AvaliNanoLoom.label>Avali Nano-Printing Loom</AvaliNanoLoom.label>
+  <AvaliNanoLoom.description>The Avali Nano-loom is a highly important piece of equipment. Without it, Avali wouldn't be able to make any of their advanced cloth materials, which are used in other things..</AvaliNanoLoom.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+	<name>RimVali: Far From Avalon Language Translation</name>
+	<author>Cyasi</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>Cyasi.RimValiTranslations</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>NeziTheAvali.RimVali</packageId>
+            <displayName>RimVali: Far From Avalon</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2180380125</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<description>Translation of NeziTheAvali's RimVali Mod</description>
+	<loadAfter>
+		<li>NeziTheAvali.RimVali</li>
+	</loadAfter>
+</ModMetaData>

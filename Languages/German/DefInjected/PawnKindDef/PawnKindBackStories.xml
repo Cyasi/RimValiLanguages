@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- <Avali_Backstory.label>AvaliBackstory</Avali_Backstory.label> -->
+  <Avali_Backstory.label>Avali Hintergrund</Avali_Backstory.label>
+  <!-- <Avali_Backstory.labelPlural>AvaliBackstorys</Avali_Backstory.labelPlural> -->
+  <Avali_Backstory.labelPlural>Avali Hintergründe</Avali_Backstory.labelPlural>
+  <!-- <Avali_Backstory.labelMale>male AvaliBackstory</Avali_Backstory.labelMale> -->
+  <Avali_Backstory.labelMale>männlicher Avali Hintergrund</Avali_Backstory.labelMale>
+  <!-- <Avali_Backstory.labelMalePlural>male AvaliBackstorys</Avali_Backstory.labelMalePlural> -->
+  <Avali_Backstory.labelMalePlural>männliche Avali Hintergründe</Avali_Backstory.labelMalePlural>
+  <!-- <Avali_Backstory.labelFemale>female AvaliBackstory</Avali_Backstory.labelFemale> -->
+  <Avali_Backstory.labelFemale>weibliche Avali Hintergrund</Avali_Backstory.labelFemale>
+  <!-- <Avali_Backstory.labelFemalePlural>female AvaliBackstorys</Avali_Backstory.labelFemalePlural> -->
+  <Avali_Backstory.labelFemalePlural>weibliche Avali Hintergründe</Avali_Backstory.labelFemalePlural>  
+</LanguageData>

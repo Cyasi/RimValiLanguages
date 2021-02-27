@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AvaliBFG.label>BFG turret [placeholder]</AvaliBFG.label>
+  <AvaliBFG.description>PLACEHOLDER DESC</AvaliBFG.description>
+  <AvaliBFG.comps.CompRefuelable.fuelGizmoLabel>Ammunition left: </AvaliBFG.comps.CompRefuelable.fuelGizmoLabel>
+  <AvaliBFG.comps.CompRefuelable.fuelLabel>Ammo until  refuel</AvaliBFG.comps.CompRefuelable.fuelLabel>
+  <AvaliBFG.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs ammo.</AvaliBFG.comps.CompRefuelable.outOfFuelMessage>
+
+  <BFGBullet.label>BFG bullet</BFGBullet.label>
+
+  <BFGGun.label>BFG</BFGGun.label>
+  <BFGGun.description>BFG</BFGGun.description>
+  <BFGGun.verbs.Verb_Shoot.label>BFG</BFGGun.verbs.Verb_Shoot.label>
+</LanguageData>

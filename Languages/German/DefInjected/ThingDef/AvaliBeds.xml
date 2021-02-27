@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AvaliBed.label>avali bed</AvaliBed.label>
+  <AvaliBed.description>A soft cussion made for Avali to sleep on, it's a little too small for most other species.</AvaliBed.description>
+
+  <AvalipillowsOne.label>small pile of pillows</AvalipillowsOne.label>
+  <AvalipillowsOne.description>a clump of pillows all piled together, enough for two Avali to sleep together.</AvalipillowsOne.description>
+
+  <AvalipillowsTwo.label>pile of pillows</AvalipillowsTwo.label>
+  <AvalipillowsTwo.description>a clump of pillows all piled together, enough for a small pack of Avali to sleep together.</AvalipillowsTwo.description>
+
+  <AvalipillowsThree.label>large pile of pillows</AvalipillowsThree.label>
+  <AvalipillowsThree.description>a clump of pillows all piled together, enough for a whole pack of Avali to sleep together.</AvalipillowsThree.description>
+</LanguageData>

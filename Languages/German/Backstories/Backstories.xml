@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BackstoryTranslations>  
+  <!-- Base Backstories -->
+
+  <!-- <AvaliHologram>
+    <title>Holo-vali</title>
+    <titleFemale></titleFemale>
+    <titleShort>Holo-vali</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a soldier, until they were shot while on a regular patrol through the edge of Illuminate territory.\n The wound was fatal, however [PAWN_pronoun] agreed to be uploaded into a computer system, to "continue" living, to some degree.\n As a result, [PAWN_nameDef] has become very smart, but is unable to do many physicial tasks.</desc>
+  </AvaliHologram> -->
+  <AvaliHologram>
+    <title>Holo-vali</title>
+    <titleFemale></titleFemale>
+    <titleShort>Holo-vali</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a soldier, until they were shot while on a regular patrol through the edge of Illuminate territory.\n The wound was fatal, however [PAWN_pronoun] agreed to be uploaded into a computer system, to "continue" living, to some degree.\n As a result, [PAWN_nameDef] has become very smart, but is unable to do many physicial tasks.</desc>
+  </AvaliHologram>
+
+  <!-- <AvaliNomad>
+    <title>Space Nomad</title>
+    <titleFemale></titleFemale>
+    <titleShort>Nomad</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] has traveled far across space, with [PAWN_possessive] pack. [PAWN_pronoun] has learned several different skills, although [PAWN_nameDef] never really got to study any single skill for too long, partially due to the fact they were always moving. [PAWN_nameDef]'s pack also never attended a proper school, and was taught by other avali travelling with them.</desc>
+  </AvaliNomad> -->
+  <AvaliNomad>
+    <title>Space Nomad</title>
+    <titleFemale></titleFemale>
+    <titleShort>Nomad</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] has traveled far across space, with [PAWN_possessive] pack. [PAWN_pronoun] has learned several different skills, although [PAWN_nameDef] never really got to study any single skill for too long, partially due to the fact they were always moving. [PAWN_nameDef]'s pack also never attended a proper school, and was taught by other avali travelling with them.</desc>
+  </AvaliNomad>
+
+  <!-- <AvaliWarchild>
+    <title>War Hatchling</title>
+    <titleFemale></titleFemale>
+    <titleShort>War Hatchling</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>When [PAWN_nameDef] was just a mere hatchling, [PAWN_possessive] colony was raided by an opposing pack. Luckily, they never found little [PAWN_nameDef], who was hid away before the attack. Only a few days later, [PAWN_pronoun] was found by explorers, who luckily decided to take [PAWN_nameDef] back home with them. [PAWN_nameDef] lived a relatively normal life afterwards, not even made aware of [PAWN_possessive] past until adulthood.</desc>
+  </AvaliWarchild> -->
+  <AvaliWarchild>
+    <title>War Hatchling</title>
+    <titleFemale></titleFemale>
+    <titleShort>War Hatchling</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>When [PAWN_nameDef] was just a mere hatchling, [PAWN_possessive] colony was raided by an opposing pack. Luckily, they never found little [PAWN_nameDef], who was hid away before the attack. Only a few days later, [PAWN_pronoun] was found by explorers, who luckily decided to take [PAWN_nameDef] back home with them. [PAWN_nameDef] lived a relatively normal life afterwards, not even made aware of [PAWN_possessive] past until adulthood.</desc>
+  </AvaliWarchild>
+
+  <!-- <AvaliSoldierChild>
+    <title>Child Soldier</title>
+    <titleFemale></titleFemale>
+    <titleShort>Child Soldier</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>From an extremely young age, [PAWN_nameDef] was taught how to fight. [PAWN_possessive] pack was extremely militaristic in nature, and believed in honor codes. [PAWN_nameDef] was drilled from an extremely young age, in harsh conditions, and harsh tests.</desc>
+  </AvaliSoldierChild> -->
+  <AvaliSoldierChild>
+    <title>Child Soldier</title>
+    <titleFemale></titleFemale>
+    <titleShort>Child Soldier</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>From an extremely young age, [PAWN_nameDef] was taught how to fight. [PAWN_possessive] pack was extremely militaristic in nature, and believed in honor codes. [PAWN_nameDef] was drilled from an extremely young age, in harsh conditions, and harsh tests.</desc>
+  </AvaliSoldierChild>
+
+  <!-- <AvaliLaborChild>
+    <title>Child Laborer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Child Laborer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was born into a ethically questionable situation. Well, "questionable" is an understatement. Their family was part of a shady illuminate business, and [PAWN_nameDef] suffered the same fate as their family; working in awful conditions, for little pay, even as a youngling. They can work really well, but they are socially underdeveloped.</desc>
+  </AvaliLaborChild> -->
+  <AvaliLaborChild>
+    <title>Child Laborer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Child Laborer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was born into a ethically questionable situation. Well, "questionable" is an understatement. Their family was part of a shady illuminate business, and [PAWN_nameDef] suffered the same fate as their family; working in awful conditions, for little pay, even as a youngling. They can work really well, but they are socially underdeveloped.</desc>
+  </AvaliLaborChild>
+
+  <!-- <AvaliBlessedChild>
+    <title>Chosen One</title>
+    <titleFemale></titleFemale>
+    <titleShort>Chosen One</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was excitedly raised by [PAWN_possessive] pack, they believed [PAWN_nameDef] would be destined to be big for their pack, their beliefs stating that being born on that day would bring great prestige. As such, [PAWN_nameDef] was treated to many things that most Avali younglings never had.</desc>
+  </AvaliBlessedChild> -->
+  <AvaliBlessedChild>
+    <title>Chosen One</title>
+    <titleFemale></titleFemale>
+    <titleShort>Chosen One</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was excitedly raised by [PAWN_possessive] pack, they believed [PAWN_nameDef] would be destined to be big for their pack, their beliefs stating that being born on that day would bring great prestige. As such, [PAWN_nameDef] was treated to many things that most Avali younglings never had.</desc>
+  </AvaliBlessedChild>
+
+  <!-- <AvaliLateHatch>
+    <title>Late Hatch</title>
+    <titleFemale></titleFemale>
+    <titleShort>Late Hatch</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] for some reason hatched way later then the rest of their kit. They grew up behind everyone else and didn't fit in with the rest.</desc>
+  </AvaliLateHatch> -->
+  <AvaliLateHatch>
+    <title>Late Hatch</title>
+    <titleFemale></titleFemale>
+    <titleShort>Late Hatch</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] for some reason hatched way later then the rest of their kit. They grew up behind everyone else and didn't fit in with the rest.</desc>
+  </AvaliLateHatch>
+
+  <!-- <AvaliSolider>
+    <title>Illuminate Solider</title>
+    <titleFemale></titleFemale>
+    <titleShort>Solider</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a solider for the Illuminate. [PAWN_pronoun] was taught many combat tatics, as well as basic first aid.</desc>
+  </AvaliSolider> -->
+  <AvaliSolider>
+    <title>Illuminate Solider</title>
+    <titleFemale></titleFemale>
+    <titleShort>Solider</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a solider for the Illuminate. [PAWN_pronoun] was taught many combat tatics, as well as basic first aid.</desc>
+  </AvaliSolider>
+
+  <!-- <AvaliFarmer>
+    <title>Farmer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Farmer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>On Avalon, [PAWN_nameDef] was a farmer. [PAWN_pronoun] mainly worked with the few plants/microorganisms, due to the conditions on avalon.</desc>
+  </AvaliFarmer> -->
+  <AvaliFarmer>
+    <title>Farmer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Farmer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>On Avalon, [PAWN_nameDef] was a farmer. [PAWN_pronoun] mainly worked with the few plants/microorganisms, due to the conditions on avalon.</desc>
+  </AvaliFarmer>
+
+  <!-- <AvaliResearcher>
+    <title>Illuminate Researcher</title>
+    <titleFemale></titleFemale>
+    <titleShort>Researcher</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a researcher for the Illuminate. Even now, they still are, occasionally reporting their scientific findings back to the Illuminate, when [PAWN_pronoun] can.</desc>
+  </AvaliResearcher> -->
+  <AvaliResearcher>
+    <title>Illuminate Researcher</title>
+    <titleFemale></titleFemale>
+    <titleShort>Researcher</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was a researcher for the Illuminate. Even now, they still are, occasionally reporting their scientific findings back to the Illuminate, when [PAWN_pronoun] can.</desc>
+  </AvaliResearcher>
+
+  <!-- <AvaliBuilder>
+    <title>Builder</title>
+    <titleFemale></titleFemale>
+    <titleShort>Builder</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] learned to construct permanent buildings, and helped with the construction of more permanent settlements on avalon. Now, they are being sent to help construct buildings on other planets.</desc>
+  </AvaliBuilder> -->
+  <AvaliBuilder>
+    <title>Builder</title>
+    <titleFemale></titleFemale>
+    <titleShort>Builder</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] learned to construct permanent buildings, and helped with the construction of more permanent settlements on avalon. Now, they are being sent to help construct buildings on other planets.</desc>
+  </AvaliBuilder>
+
+  <!-- <AvaliExplorer>
+    <title>Pioneer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Explorer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was an inter-planetary explorer back on Avalon, tasked with charting the artic landscape of the planet. [PAWN_nameDef] usually worked alone, and as such didn't have much social interaction, besides reporting their findings. Still, they learned many invaluable survival skills.</desc>
+  </AvaliExplorer> -->
+  <AvaliExplorer>
+    <title>Pioneer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Explorer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was an inter-planetary explorer back on Avalon, tasked with charting the artic landscape of the planet. [PAWN_nameDef] usually worked alone, and as such didn't have much social interaction, besides reporting their findings. Still, they learned many invaluable survival skills.</desc>
+  </AvaliExplorer>
+
+  <!-- <AvaliDiplomat>
+    <title>Diplomat</title>
+    <titleFemale></titleFemale>
+    <titleShort>Diplomat</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] performed diplomatic duties back on Avalon, trying [PAWN_possessive] best to resolve tensions between tribes. [PAWN_nameDef] has always aimed to resolve conflict without fighting, and as such, lacks greatly in combat areas. But who needs bullets, when you have words as sharp as steel?</desc>
+  </AvaliDiplomat> -->
+  <AvaliDiplomat>
+    <title>Diplomat</title>
+    <titleFemale></titleFemale>
+    <titleShort>Diplomat</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] performed diplomatic duties back on Avalon, trying [PAWN_possessive] best to resolve tensions between tribes. [PAWN_nameDef] has always aimed to resolve conflict without fighting, and as such, lacks greatly in combat areas. But who needs bullets, when you have words as sharp as steel?</desc>
+  </AvaliDiplomat>
+
+  <!-- <AvaliLoner>
+    <title>Loner</title>
+    <titleFemale></titleFemale>
+    <titleShort>Loner</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] had a rough early adulthood. They were framed for a murder in [PAWN_possessive] pack back on Avalon, despite [PAWN_possessive] having no connection. The colony's leaders stated otherwise. [PAWN_nameDef] was banished from the pack, left alone to the worst parts of the Avalon tundra. Of course, the issue wasn't so much surviving, but the crippling loneliness, and the lack of food. Mirraciously, [PAWN_nameDef] found another pack after years of being alone, and slowly accustomed back to normal life. Being in complete isolation for years made it extremely hard to return to socializing, plus [PAWN_pronoun] didn't learn much technology-wise in the Avalon tundra.
+	
+	[PAWN_nameDef] swears to find the true murderer one day.</desc>
+  </AvaliLoner> -->
+  <AvaliLoner>
+    <title>Loner</title>
+    <titleFemale></titleFemale>
+    <titleShort>Loner</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] had a rough early adulthood. They were framed for a murder in [PAWN_possessive] pack back on Avalon, despite [PAWN_possessive] having no connection. The colony's leaders stated otherwise. [PAWN_nameDef] was banished from the pack, left alone to the worst parts of the Avalon tundra. Of course, the issue wasn't so much surviving, but the crippling loneliness, and the lack of food. Mirraciously, [PAWN_nameDef] found another pack after years of being alone, and slowly accustomed back to normal life. Being in complete isolation for years made it extremely hard to return to socializing, plus [PAWN_pronoun] didn't learn much technology-wise in the Avalon tundra.
+	
+	[PAWN_nameDef] swears to find the true murderer one day.</desc>
+  </AvaliLoner>
+
+  <!-- <AvaliSpy>
+    <title>Illuminate Spy</title>
+    <titleFemale></titleFemale>
+    <titleShort>Spy</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] enlisted at a young age to join the Illuminate. Years and years of propaganda clearly did their job, and [PAWN_nameDef] quickly climbed the ranks of the Illuminate spy program. [PAWN_nameDef] lives to serve the Illuminate, the Illuminate serves to grant livelihood to [PAWN_nameDef].
+	
+	If [PAWN_nameDef] wants something out of someone, [PAWN_pronoun] will get it, no matter the cost. It's not torture, it's coersion after all! [PAWN_nameDef] can play many roles, and can hold [PAWN_possessive] own in many situations.</desc>
+  </AvaliSpy> -->
+  <AvaliSpy>
+    <title>Illuminate Spy</title>
+    <titleFemale></titleFemale>
+    <titleShort>Spy</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] enlisted at a young age to join the Illuminate. Years and years of propaganda clearly did their job, and [PAWN_nameDef] quickly climbed the ranks of the Illuminate spy program. [PAWN_nameDef] lives to serve the Illuminate, the Illuminate serves to grant livelihood to [PAWN_nameDef].
+	
+	If [PAWN_nameDef] wants something out of someone, [PAWN_pronoun] will get it, no matter the cost. It's not torture, it's coersion after all! [PAWN_nameDef] can play many roles, and can hold [PAWN_possessive] own in many situations.</desc>
+  </AvaliSpy>
+
+  <!-- <AvaliThief>
+    <title>Thief</title>
+    <titleFemale></titleFemale>
+    <titleShort>Thief</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] made [PAWN_possessive] living back on Avalon by petty thievery, shoplifting, and running black market goods. However, even those endeavours started to prove ineffective in fufilling [PAWN_nameDef]'s crave for possessions, so they then stepped up to muggings, kidnappings, ransom, robberies, and many more goodies.
+	
+	After a few years, [PAWN_nameDef] was caught, and placed into an Avali prisoner program. [PAWN_nameDef] is now being sent to a foreign planet for some kind of expedition, but [PAWN_pronoun] was too busy pickpocketing the instructor to really be listening.</desc>
+  </AvaliThief> -->
+  <AvaliThief>
+    <title>Thief</title>
+    <titleFemale></titleFemale>
+    <titleShort>Thief</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] made [PAWN_possessive] living back on Avalon by petty thievery, shoplifting, and running black market goods. However, even those endeavours started to prove ineffective in fufilling [PAWN_nameDef]'s crave for possessions, so they then stepped up to muggings, kidnappings, ransom, robberies, and many more goodies.
+	
+	After a few years, [PAWN_nameDef] was caught, and placed into an Avali prisoner program. [PAWN_nameDef] is now being sent to a foreign planet for some kind of expedition, but [PAWN_pronoun] was too busy pickpocketing the instructor to really be listening.</desc>
+  </AvaliThief>
+
+  <!-- <AvaliTinkerer>
+    <title>Tinkerer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Tinkerer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] never really worked for anyone in particular, finding [PAWN_possessive] lifestyle in making, restoring, improving, changing, destroying, and designing countless odd machines. At home, [PAWN_pronoun] was disregarded for the bizarre creations [PAWN_pronoun] made, dismissed as being "absolutely impractical" and "having less worth then a wet dishrag." Nonetheless, [PAWN_nameDef] continued to hone their trade, developing many odd trinkets, even if [PAWN_nameDef] couldn't do [PAWN_possessive] dream designs such as "A giant robotic centipede with machine guns attached to it" or "A portable device that can generate tornadoes on command".
+
+	But, this isn't Avalon anymore. Maybe [PAWN_nameDef]'s creations will finally be recognized for what they are worth on this new world?</desc>
+  </AvaliTinkerer> -->
+  <AvaliTinkerer>
+    <title>Tinkerer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Tinkerer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] never really worked for anyone in particular, finding [PAWN_possessive] lifestyle in making, restoring, improving, changing, destroying, and designing countless odd machines. At home, [PAWN_pronoun] was disregarded for the bizarre creations [PAWN_pronoun] made, dismissed as being "absolutely impractical" and "having less worth then a wet dishrag." Nonetheless, [PAWN_nameDef] continued to hone their trade, developing many odd trinkets, even if [PAWN_nameDef] couldn't do [PAWN_possessive] dream designs such as "A giant robotic centipede with machine guns attached to it" or "A portable device that can generate tornadoes on command".
+
+	But, this isn't Avalon anymore. Maybe [PAWN_nameDef]'s creations will finally be recognized for what they are worth on this new world?</desc>
+  </AvaliTinkerer>
+
+  <!-- <AvaliCaveMedic>
+    <title>Miner Medic</title>
+    <titleFemale></titleFemale>
+    <titleShort>Miner Medic</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>On Avalon, mining is a crucial part of the economy, many basic Avali resources are based on precious rocks and metals found deep in caves or mountains. It also so happens that mining is an extremely dangerous job, and some people let the glowy rocks down below get to their heads; and that is not just a metaphor.
+	
+	[PAWN_nameDef]'s job entails digging into collapsed mining areas, and rescuing whoever is still alive. Sadly, it seems giant boulders usually beat Avali, but [PAWN_nameDef] has seen and dealt with quite a few different emergency situations, and is always ready for the next idiot who doesn't understand basic gravity.</desc>
+  </AvaliCaveMedic> -->
+  <AvaliCaveMedic>
+    <title>Miner Medic</title>
+    <titleFemale></titleFemale>
+    <titleShort>Miner Medic</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>On Avalon, mining is a crucial part of the economy, many basic Avali resources are based on precious rocks and metals found deep in caves or mountains. It also so happens that mining is an extremely dangerous job, and some people let the glowy rocks down below get to their heads; and that is not just a metaphor.
+	
+	[PAWN_nameDef]'s job entails digging into collapsed mining areas, and rescuing whoever is still alive. Sadly, it seems giant boulders usually beat Avali, but [PAWN_nameDef] has seen and dealt with quite a few different emergency situations, and is always ready for the next idiot who doesn't understand basic gravity.</desc>
+  </AvaliCaveMedic>
+
+  <!-- <AvaliBionicDesigner>
+    <title>Bionic Designer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Bionic Designer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] has been designing robotic replacements for body parts ever since a member of [PAWN_possessive] pack lost an arm, and [PAWN_pronoun] spent weeks trying different things to replace their arm. After weeks of jabbing new devices into the packmate's shoulder, one suddenly came to life, punching [PAWN_nameDef] square in the face. [PAWN_nameDef] has since then avoided actually installing the parts; they just wanna make them.</desc>
+  </AvaliBionicDesigner> -->
+  <AvaliBionicDesigner>
+    <title>Bionic Designer</title>
+    <titleFemale></titleFemale>
+    <titleShort>Bionic Designer</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] has been designing robotic replacements for body parts ever since a member of [PAWN_possessive] pack lost an arm, and [PAWN_pronoun] spent weeks trying different things to replace their arm. After weeks of jabbing new devices into the packmate's shoulder, one suddenly came to life, punching [PAWN_nameDef] square in the face. [PAWN_nameDef] has since then avoided actually installing the parts; they just wanna make them.</desc>
+  </AvaliBionicDesigner>
+
+  <!-- <AvaliSheriff>
+    <title>Sheriff</title>
+    <titleFemale></titleFemale>
+    <titleShort>Sheriff</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was the single Sheriff of [PAWN_possessive] pack back on Avalon. Being a smaller, more tribal pack, they worked mostly alone. [PAWN_nameDef] was often completely swamped with tasks, because even though the pack was fairly small (to Avali standards, anyway), [PAWN_nameDef] still had many tasks to do. [PAWN_pronoun] could never seem to get a break. One day, after another "lost my PDA in the snow" report, [PAWN_nameDef] snapped, leaving the town and taking all [PAWN_possessive] gear with [PAWN_objective]. Soon, [PAWN_nameDef] heard of a new oppurtunity to get off of Avalon with a small group, and quickly enlisted. They want to be the authority to a pack they truly respect.</desc>
+  </AvaliSheriff> -->
+  <AvaliSheriff>
+    <title>Sheriff</title>
+    <titleFemale></titleFemale>
+    <titleShort>Sheriff</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was the single Sheriff of [PAWN_possessive] pack back on Avalon. Being a smaller, more tribal pack, they worked mostly alone. [PAWN_nameDef] was often completely swamped with tasks, because even though the pack was fairly small (to Avali standards, anyway), [PAWN_nameDef] still had many tasks to do. [PAWN_pronoun] could never seem to get a break. One day, after another "lost my PDA in the snow" report, [PAWN_nameDef] snapped, leaving the town and taking all [PAWN_possessive] gear with [PAWN_objective]. Soon, [PAWN_nameDef] heard of a new oppurtunity to get off of Avalon with a small group, and quickly enlisted. They want to be the authority to a pack they truly respect.</desc>
+  </AvaliSheriff>
+
+  <!-- <AvaliTrained>
+    <title>Devoted Colonist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Devoted Colonist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] wanted to join the colonising program, every since they were a hatchling. They dedicated their entire life to picking up all the skills neccesary to survive, wanting to be the best possible choice. Sadly, [PAWN_pronoun] was called out to duty years before [PAWN_pronoun] anticipated, having been able to only pick up bare minimums. I guess there is no better way to learn then doing it yourself, for real, right?</desc>
+  </AvaliTrained> -->
+  <AvaliTrained>
+    <title>Devoted Colonist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Devoted Colonist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] wanted to join the colonising program, every since they were a hatchling. They dedicated their entire life to picking up all the skills neccesary to survive, wanting to be the best possible choice. Sadly, [PAWN_pronoun] was called out to duty years before [PAWN_pronoun] anticipated, having been able to only pick up bare minimums. I guess there is no better way to learn then doing it yourself, for real, right?</desc>
+  </AvaliTrained>
+
+  <!-- <AvaliCultist>
+    <title>Cultist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Cultist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] is part of an extremely strange cult that believes that all plants are the work of some ancient evil, and they all must be destroyed or they will corrupt the world. Somehow, [PAWN_pronoun] snuck [PAWN_objective]selves onto the colony program. They probably aren't fit for this new environment, but there is no going back now. [PAWN_nameDef] will not fight fires, believing that fires are the cleansing graces of their deity.</desc>
+  </AvaliCultist> -->
+  <AvaliCultist>
+    <title>Cultist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Cultist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] is part of an extremely strange cult that believes that all plants are the work of some ancient evil, and they all must be destroyed or they will corrupt the world. Somehow, [PAWN_pronoun] snuck [PAWN_objective]selves onto the colony program. They probably aren't fit for this new environment, but there is no going back now. [PAWN_nameDef] will not fight fires, believing that fires are the cleansing graces of their deity.</desc>
+  </AvaliCultist>
+
+  <!-- <AvaliBerserker>
+    <title>Berserker</title>
+    <titleFemale></titleFemale>
+    <titleShort>Berserker</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] strong. [PAWN_nameDef] no need smart, no need talk, no need friend. Fight is friend. [PAWN_nameDef] must hurt others.</desc>
+  </AvaliBerserker> -->
+  <AvaliBerserker>
+    <title>Berserker</title>
+    <titleFemale></titleFemale>
+    <titleShort>Berserker</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] strong. [PAWN_nameDef] no need smart, no need talk, no need friend. Fight is friend. [PAWN_nameDef] must hurt others.</desc>
+  </AvaliBerserker>
+
+  <!-- <AvaliFactoryWorker>
+    <title>Factory Worker</title>
+    <titleFemale></titleFemale>
+    <titleShort>Worker</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] spent most of [PAWN_possessive] life working in factories in Avalon, mostly working on refining metals and assembly line production. Bizarrely, [PAWN_pronoun] loved it, and do not mind doing basic, repetitive tasks, day after day, for measly paychecks. How cool!</desc>
+  </AvaliFactoryWorker> -->
+  <AvaliFactoryWorker>
+    <title>Factory Worker</title>
+    <titleFemale></titleFemale>
+    <titleShort>Worker</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] spent most of [PAWN_possessive] life working in factories in Avalon, mostly working on refining metals and assembly line production. Bizarrely, [PAWN_pronoun] loved it, and do not mind doing basic, repetitive tasks, day after day, for measly paychecks. How cool!</desc>
+  </AvaliFactoryWorker>
+
+  <!-- <AvaliModel>
+    <title>Avali Model</title>
+    <titleFemale></titleFemale>
+    <titleShort>Model</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was just born absolutely stunning, and everyone agrees. [PAWN_nameDef] spent most of their life as an Avali model, taking constant photoshoots, featuring in movies, varying in... theme. However, this life grew boring to [PAWN_objective]. Being so high up in the Avali society, [PAWN_pronoun] heard about the colony program before anyone else. However, the colony program wouldn't allow many high-class Avali such as [PAWN_objective]self.
+	
+	So, [PAWN_nameDef] tired of [PAWN_possessive] life as a celebrity, allowed [PAWN_objective]self into the program by sneaking onto a ship as it was leaving. Will they be able to live without the same glamour?</desc>
+  </AvaliModel> -->
+  <AvaliModel>
+    <title>Avali Model</title>
+    <titleFemale></titleFemale>
+    <titleShort>Model</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] was just born absolutely stunning, and everyone agrees. [PAWN_nameDef] spent most of their life as an Avali model, taking constant photoshoots, featuring in movies, varying in... theme. However, this life grew boring to [PAWN_objective]. Being so high up in the Avali society, [PAWN_pronoun] heard about the colony program before anyone else. However, the colony program wouldn't allow many high-class Avali such as [PAWN_objective]self.
+	
+	So, [PAWN_nameDef] tired of [PAWN_possessive] life as a celebrity, allowed [PAWN_objective]self into the program by sneaking onto a ship as it was leaving. Will they be able to live without the same glamour?</desc>
+  </AvaliModel>
+
+  <!-- <AvaliBurger>
+    <title>Food Cart Owner</title>
+    <titleFemale></titleFemale>
+    <titleShort>Food Cart Owner</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] made a living running [PAWN_possessive] own food cart, simply grilling hamburgers and selling them to passerby in city squares. However, Avali cities just don't have the population/economy to make this a liveable practice, and [PAWN_nameDef] turned to other options out of desperation for money. Now they are a colonist ready to land on a largely unknown, extremely dangerous, extremely vital planet. [PAWN_nameDef] wonders if they should have stuck with the "AvaliBurger" cart.</desc>
+  </AvaliBurger> -->
+  <AvaliBurger>
+    <title>Food Cart Owner</title>
+    <titleFemale></titleFemale>
+    <titleShort>Food Cart Owner</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] made a living running [PAWN_possessive] own food cart, simply grilling hamburgers and selling them to passerby in city squares. However, Avali cities just don't have the population/economy to make this a liveable practice, and [PAWN_nameDef] turned to other options out of desperation for money. Now they are a colonist ready to land on a largely unknown, extremely dangerous, extremely vital planet. [PAWN_nameDef] wonders if they should have stuck with the "AvaliBurger" cart.</desc>
+  </AvaliBurger>
+
+  <!-- <AvaliAnimalScientist>
+    <title>Animal Scientist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Scientist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] always had a fascination with animals, and was always curious as to what was possible with them. [PAWN_nameDef] nearly had developed a module that would allow Avali to speak with animals using common brain signals, however, all of [PAWN_nameDef]'s work was destroyed in a freak accident in [PAWN_possessive] lab, and [PAWN_pronoun] was forced to relocate [PAWN_possessive] studies elsewhere.</desc>
+  </AvaliAnimalScientist> -->
+  <AvaliAnimalScientist>
+    <title>Animal Scientist</title>
+    <titleFemale></titleFemale>
+    <titleShort>Scientist</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] always had a fascination with animals, and was always curious as to what was possible with them. [PAWN_nameDef] nearly had developed a module that would allow Avali to speak with animals using common brain signals, however, all of [PAWN_nameDef]'s work was destroyed in a freak accident in [PAWN_possessive] lab, and [PAWN_pronoun] was forced to relocate [PAWN_possessive] studies elsewhere.</desc>
+  </AvaliAnimalScientist>
+
+  <!-- <AvaliPalaceDesigner>
+    <title>Illuminate Architect</title>
+    <titleFemale></titleFemale>
+    <titleShort>Architect</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] singlehandedly designed nearly every major Avalon landmark, being the Illuminate's go-to architectural designer, noted for [PAWN_possessive] beautiful yet realistic and functional designs.</desc>
+  </AvaliPalaceDesigner> -->
+  <AvaliPalaceDesigner>
+    <title>Illuminate Architect</title>
+    <titleFemale></titleFemale>
+    <titleShort>Architect</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef] singlehandedly designed nearly every major Avalon landmark, being the Illuminate's go-to architectural designer, noted for [PAWN_possessive] beautiful yet realistic and functional designs.</desc>
+  </AvaliPalaceDesigner>
+
+  <!-- <AvaliLostEgg>
+    <title>Lost egg</title>
+    <titleFemale></titleFemale>
+    <titleShort>Lost egg</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef]'s egg was accidentally lost during a move between nurseries, after an incident caused the nursery the egg was in to no longer be structurally sound, and therefore a risk to the eggs. [PAWN_pronoun] was luckily found by another pack while [PAWN_pronoun] was young, and was able to join them, but sometimes [PAWN_nameDef] wonders if [PAWN_possessive] pack is still out there, maybe looking for [PAWN_objective].</desc>
+  </AvaliLostEgg> -->
+  <AvaliLostEgg>
+    <title>Lost egg</title>
+    <titleFemale></titleFemale>
+    <titleShort>Lost egg</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_nameDef]'s egg was accidentally lost during a move between nurseries, after an incident caused the nursery the egg was in to no longer be structurally sound, and therefore a risk to the eggs. [PAWN_pronoun] was luckily found by another pack while [PAWN_pronoun] was young, and was able to join them, but sometimes [PAWN_nameDef] wonders if [PAWN_possessive] pack is still out there, maybe looking for [PAWN_objective].</desc>
+  </AvaliLostEgg>
+
+
+  <!-- Unique Backstories -->
+  
+  <!-- <NeoStoryChild>
+    <title>RitualNeo</title>
+    <titleFemale></titleFemale>
+    <titleShort>Neo</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>As a child, Neo always wanted to be a pilot, or space explorer. Eventually, that dream became a reality, and Neo was trained to be an explorer.</desc>
+  </NeoStoryChild> -->
+  <NeoStoryChild>
+    <title>RitualNeo</title>
+    <titleFemale></titleFemale>
+    <titleShort>Neo</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>As a child, Neo always wanted to be a pilot, or space explorer. Eventually, that dream became a reality, and Neo was trained to be an explorer.</desc>
+  </NeoStoryChild>
+
+  <!-- <NeoStoryAdult>
+    <title>RitualNeo</title>
+    <titleFemale></titleFemale>
+    <titleShort>Neo</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>RitualNeo is a veteran space explorer. At one point, he was forced to test a form of FTL travel (Faster-Than-Light), and became stranded in an alternate dimension. And now, he's stranded here.</desc>
+  </NeoStoryAdult> -->
+  <NeoStoryAdult>
+    <title>RitualNeo</title>
+    <titleFemale></titleFemale>
+    <titleShort>Neo</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>RitualNeo is a veteran space explorer. At one point, he was forced to test a form of FTL travel (Faster-Than-Light), and became stranded in an alternate dimension. And now, he's stranded here.</desc>
+  </NeoStoryAdult>
+
+  <!-- <Danny>
+    <title>Danny</title>
+    <titleFemale></titleFemale>
+    <titleShort>Danny</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Danny spent most of his life as a dreamer, out of place for being born into such a small pack. Once he was of age, he declared himself leader of his pack, which they gladly followed. He than began a campaign that lasted months, attempting to unify the avali local to him under a singular state. Tragedy struck, when during a battle, a stray bullet hit him right in the head. However... He survived. Danny woke up, dazed in an empty field, unsure of what was going on. He was found there by a neutral pack, who didn't seem to understand what he was saying. He still searches for his lost pack. Also, he may have a slight case of severe brain damage.</desc>
+  </Danny> -->
+  <Danny>
+    <title>Danny</title>
+    <titleFemale></titleFemale>
+    <titleShort>Danny</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Danny spent most of his life as a dreamer, out of place for being born into such a small pack. Once he was of age, he declared himself leader of his pack, which they gladly followed. He than began a campaign that lasted months, attempting to unify the avali local to him under a singular state. Tragedy struck, when during a battle, a stray bullet hit him right in the head. However... He survived. Danny woke up, dazed in an empty field, unsure of what was going on. He was found there by a neutral pack, who didn't seem to understand what he was saying. He still searches for his lost pack. Also, he may have a slight case of severe brain damage.</desc>
+  </Danny>
+
+  <!-- <EmilStoryChild>
+    <title>Eimilian</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eimilian</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eimilian was trained as an apprentice spec ops during his childhood. He learned how to do things other pawns might not in combat, but is more intrested in melee. However, he is a terrible cook.</desc>
+  </EmilStoryChild> -->
+  <EmilStoryChild>
+    <title>Eimilian</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eimilian</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eimilian was trained as an apprentice spec ops during his childhood. He learned how to do things other pawns might not in combat, but is more intrested in melee. However, he is a terrible cook.</desc>
+  </EmilStoryChild>
+
+  <!-- <EimilStoryAdult>
+    <title>Eimilian</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eimilian</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>As an adult, Eimilian was the leader of his pack. He learned from this, and also became better at things like negotiating with others.</desc>
+  </EimilStoryAdult> -->
+  <EimilStoryAdult>
+    <title>Eimilian</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eimilian</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>As an adult, Eimilian was the leader of his pack. He learned from this, and also became better at things like negotiating with others.</desc>
+  </EimilStoryAdult>
+
+  <!-- <SommeilStoryAdult>
+    <title>Sommeil</title>
+    <titleFemale></titleFemale>
+    <titleShort>Sommeil</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Sommeil is a knight. Unlike most avali, he prefers more "traditional" technologies, rather than what those Illuminate avali use.</desc>
+  </SommeilStoryAdult> -->
+  <SommeilStoryAdult>
+    <title>Sommeil</title>
+    <titleFemale></titleFemale>
+    <titleShort>Sommeil</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Sommeil is a knight. Unlike most avali, he prefers more "traditional" technologies, rather than what those Illuminate avali use.</desc>
+  </SommeilStoryAdult>
+
+  <!-- <KBraidStoryChild>
+    <title>Braid</title>
+    <titleFemale></titleFemale>
+    <titleShort>Braid</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>In his youthful years, Braid showed a lot of creativity and had a level of intelegance far more prevalent than his peers.</desc>
+  </KBraidStoryChild> -->
+  <KBraidStoryChild>
+    <title>Braid</title>
+    <titleFemale></titleFemale>
+    <titleShort>Braid</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>In his youthful years, Braid showed a lot of creativity and had a level of intelegance far more prevalent than his peers.</desc>
+  </KBraidStoryChild>
+
+  <!-- <KBraidStoryAdult>
+    <title>Braid</title>
+    <titleFemale></titleFemale>
+    <titleShort>Braid</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Braid's pack chose the path of the soldier, their fireteam proving themselves to be exeptional. However, on one assignment everything had gone horribly wrong and his whole pack was wiped out, leaving him all alone...</desc>
+  </KBraidStoryAdult> -->
+  <KBraidStoryAdult>
+    <title>Braid</title>
+    <titleFemale></titleFemale>
+    <titleShort>Braid</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Braid's pack chose the path of the soldier, their fireteam proving themselves to be exeptional. However, on one assignment everything had gone horribly wrong and his whole pack was wiped out, leaving him all alone...</desc>
+  </KBraidStoryAdult>
+
+  <!-- <KEiliStoryChild>
+    <title>Eili</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eili</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</desc>
+  </KEiliStoryChild> -->
+  <KEiliStoryChild>
+    <title>Eili</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eili</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</desc>
+  </KEiliStoryChild>
+
+  <!-- <KEiliStoryAdult>
+    <title>Eili</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eili</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</desc>
+  </KEiliStoryAdult> -->
+  <KEiliStoryAdult>
+    <title>Eili</title>
+    <titleFemale></titleFemale>
+    <titleShort>Eili</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>Eili was created as a clone of Braid, to act as his companion. Her adolessance was geneticly rushed resulting in slight bone deformities and the mental behaviour of a child.</desc>
+  </KEiliStoryAdult>
+</BackstoryTranslations>

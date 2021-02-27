@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- <VocalReplacements.label>Vocal replacements</VocalReplacements.label> -->
+  <VocalReplacements.label>Stimmersatz</VocalReplacements.label>
+  <!-- <VocalReplacements.description>This augment assists the user in targeting, allowing for faster aim times and somewhat higher accuracy.</VocalReplacements.description> --><!----><!--same as targetingcomputer, get changed in future-->
+  <VocalReplacements.description>This augment assists the user in targeting, allowing for faster aim times and somewhat higher accuracy.</VocalReplacements.description>
+  <!-- <VocalReplacements.labelNoun>a vocal replacement</VocalReplacements.labelNoun> -->
+  <VocalReplacements.labelNoun>ein Stimmersatz</VocalReplacements.labelNoun>
+</LanguageData>
