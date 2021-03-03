@@ -23,7 +23,7 @@
   <!-- <PacksNum>The maximum number of avali in a pack.\n5 is usually recommended.</PacksNum> -->
   <PacksNum>Die maximale Anzahl von Avalis in einem Rudel.\n5 sind empfohlen.</PacksNum>
   <!-- <PackOpinionReq>Opinion required</PackOpinionReq> -->
-  <PackOpinionReq>Stellungnahme erforderlich</PackOpinionReq>
+  <PackOpinionReq>Meinung erforderlich</PackOpinionReq>
   <!-- <MultithreadingCheck>Multithreading enabled:</MultithreadingCheck> -->
   <MultithreadingCheck>Multithreading aktiviert:</MultithreadingCheck>
   <!-- <MultiThreadingDesc>Enable/disable pack multithreading. [WARNING: RESTARTS THE GAME.]\nIt is recommended to have this enabled, as it reduces lag greatly. May cause issues with Dub's performance anaylzer.</MultiThreadingDesc> -->

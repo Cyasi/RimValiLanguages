@@ -2,240 +2,218 @@
 <LanguageData>  
   <!-- data from Backstories.xml -->
 
-  <!-- <AvaliChild.title>Avali</AvaliChild.title> -->
-  <!-- <AvaliChild.title>Avali</AvaliChild.title> -->
-  <!-- <AvaliChild.shortTitle>Avali</AvaliChild.shortTitle> -->
-  <!-- <AvaliChild.shortTitle>Avali</AvaliChild.shortTitle> -->
-  <!-- <AvaliChild.storyDesc>[PAWN_nameDef] lived a fairly normal childhood, being born and raised by their pack, just as expected.</AvaliChild.storyDesc> -->
-  <!-- <AvaliChild.storyDesc>[PAWN_nameDef] lived a fairly normal childhood, being born and raised by their pack, just as expected.</AvaliChild.storyDesc> -->
+  <AvaliHologram.title>AvaliHologram</AvaliHologram.title>
+  <AvaliHologram.story.title>AvaliHologram</AvaliHologram.story.title>
+  <AvaliHologram.shortTitle>AvaliHologram</AvaliHologram.shortTitle>
+  <AvaliHologram.story.titleShort>AvaliHologram</AvaliHologram.story.titleShort>
+  <AvaliHologram.storyDesc>storyDesc</AvaliHologram.storyDesc>
+  <AvaliHologram.story.baseDesc>storyDesc</AvaliHologram.story.baseDesc>
 
 
-  <AvaliHologram.title>Holo-vali</AvaliHologram.title>
-  <AvaliHologram.story.title>title</AvaliHologram.story.title>
-  <AvaliHologram.shortTitle>Holo-vali</AvaliHologram.shortTitle>
-  <AvaliHologram.story.titleShort>shortTitle</AvaliHologram.story.titleShort>
-  <AvaliHologram.storyDesc>[PAWN_nameDef] was a soldier, until they were shot while on a regular patrol through the edge of Illuminate territory.\n The wound was fatal, however [PAWN_pronoun] agreed to be uploaded into a computer system, to "continue" living, to some degree.\n As a result, [PAWN_nameDef] has become very smart, but is unable to do many physicial tasks.</AvaliHologram.storyDesc>
-  <AvaliHologram.story.baseDesc>storydesc</AvaliHologram.story.baseDesc>
+  <AvaliNomad.title>AvaliNomad</AvaliNomad.title>
+  <AvaliNomad.story.title>AvaliNomad</AvaliNomad.story.title>
+  <AvaliNomad.shortTitle>AvaliNomad</AvaliNomad.shortTitle>
+  <AvaliNomad.story.titleShort>AvaliNomad</AvaliNomad.story.titleShort>
+  <AvaliNomad.storyDesc>storyDesc</AvaliNomad.storyDesc>
+  <AvaliNomad.story.baseDesc>storyDesc</AvaliNomad.story.baseDesc>
 
 
-  <AvaliNomad.title>Space Nomad</AvaliNomad.title>
-  <AvaliNomad.story.title>title</AvaliNomad.story.title>
-  <AvaliNomad.shortTitle>Nomad</AvaliNomad.shortTitle>
-  <AvaliNomad.story.titleShort>shortTitle</AvaliNomad.story.titleShort>
-  <AvaliNomad.storyDesc>[PAWN_nameDef] has traveled far across space, with [PAWN_possessive] pack. [PAWN_pronoun] has learned several different skills, although [PAWN_nameDef] never really got to study any single skill for too long, partially due to the fact they were always moving. [PAWN_nameDef]'s pack also never attended a proper school, and was taught by other avali travelling with them.</AvaliNomad.storyDesc>
-  <AvaliNomad.story.baseDesc>storydesc</AvaliNomad.story.baseDesc>
-
-
-  <AvaliWarchild.title>War Hatchling</AvaliWarchild.title>
-  <AvaliWarchild.story.title>title</AvaliWarchild.story.title>
-  <AvaliWarchild.shortTitle>War Hatchling</AvaliWarchild.shortTitle>
+  <AvaliWarchild.title>AvaliWarchild</AvaliWarchild.title>
+  <AvaliWarchild.story.title>AvaliWarchild</AvaliWarchild.story.title>
+  <AvaliWarchild.shortTitle>AvaliWarchild</AvaliWarchild.shortTitle>
   <AvaliWarchild.story.titleShort>shortTitle</AvaliWarchild.story.titleShort>
-  <AvaliWarchild.storyDesc>When [PAWN_nameDef] was just a mere hatchling, [PAWN_possessive] colony was raided by an opposing pack. Luckily, they never found little [PAWN_nameDef], who was hid away before the attack. Only a few days later, [PAWN_pronoun] was found by explorers, who luckily decided to take [PAWN_nameDef] back home with them. [PAWN_nameDef] lived a relatively normal life afterwards, not even made aware of [PAWN_possessive] past until adulthood.</AvaliWarchild.storyDesc>
+  <AvaliWarchild.storyDesc>storyDesc</AvaliWarchild.storyDesc>
   <AvaliWarchild.story.baseDesc>storydesc</AvaliWarchild.story.baseDesc>
 
 
-  <AvaliSoldierChild.title>Child Soldier</AvaliSoldierChild.title>
-  <AvaliSoldierChild.story.title>title</AvaliSoldierChild.story.title>
-  <AvaliSoldierChild.shortTitle>Child Soldier</AvaliSoldierChild.shortTitle>
-  <AvaliSoldierChild.story.titleShort>shortTitle</AvaliSoldierChild.story.titleShort>
-  <AvaliSoldierChild.storyDesc>From an extremely young age, [PAWN_nameDef] was taught how to fight. [PAWN_possessive] pack was extremely militaristic in nature, and believed in honor codes. [PAWN_nameDef] was drilled from an extremely young age, in harsh conditions, and harsh tests.</AvaliSoldierChild.storyDesc>
+  <AvaliSoldierChild.title>AvaliSoldierChild</AvaliSoldierChild.title>
+  <AvaliSoldierChild.story.title>AvaliSoldierChild</AvaliSoldierChild.story.title>
+  <AvaliSoldierChild.shortTitle>AvaliSoldierChild</AvaliSoldierChild.shortTitle>
+  <AvaliSoldierChild.story.titleShort>AvaliSoldierChild</AvaliSoldierChild.story.titleShort>
+  <AvaliSoldierChild.storyDesc>storyDesc</AvaliSoldierChild.storyDesc>
   <AvaliSoldierChild.story.baseDesc>storydesc</AvaliSoldierChild.story.baseDesc>
 
 
-  <AvaliLaborChild.title>Child Laborer</AvaliLaborChild.title>
-  <AvaliLaborChild.story.title>title</AvaliLaborChild.story.title>
-  <AvaliLaborChild.shortTitle>Child Laborer</AvaliLaborChild.shortTitle>
-  <AvaliLaborChild.story.titleShort>shortTitle</AvaliLaborChild.story.titleShort>
-  <AvaliLaborChild.storyDesc>[PAWN_nameDef] was born into a ethically questionable situation. Well, "questionable" is an understatement. Their family was part of a shady illuminate business, and [PAWN_nameDef] suffered the same fate as their family; working in awful conditions, for little pay, even as a youngling. They can work really well, but they are socially underdeveloped.</AvaliLaborChild.storyDesc>
+  <AvaliLaborChild.title>AvaliLaborChild</AvaliLaborChild.title>
+  <AvaliLaborChild.story.title>AvaliLaborChild</AvaliLaborChild.story.title>
+  <AvaliLaborChild.shortTitle>AvaliLaborChild</AvaliLaborChild.shortTitle>
+  <AvaliLaborChild.story.titleShort>AvaliLaborChild</AvaliLaborChild.story.titleShort>
+  <AvaliLaborChild.storyDesc>storyDesc</AvaliLaborChild.storyDesc>
   <AvaliLaborChild.story.baseDesc>storydesc</AvaliLaborChild.story.baseDesc>
 
 
-  <AvaliBlessedChild.title>Chosen One</AvaliBlessedChild.title>
-  <AvaliBlessedChild.story.title>title</AvaliBlessedChild.story.title>
-  <AvaliBlessedChild.shortTitle>Chosen One</AvaliBlessedChild.shortTitle>
-  <AvaliBlessedChild.story.titleShort>shortTitle</AvaliBlessedChild.story.titleShort>
-  <AvaliBlessedChild.storyDesc>[PAWN_nameDef] was excitedly raised by [PAWN_possessive] pack, they believed [PAWN_nameDef] would be destined to be big for their pack, their beliefs stating that being born on that day would bring great prestige. As such, [PAWN_nameDef] was treated to many things that most Avali younglings never had.</AvaliBlessedChild.storyDesc>
+  <AvaliBlessedChild.title>AvaliBlessedChild</AvaliBlessedChild.title>
+  <AvaliBlessedChild.story.title>AvaliBlessedChild</AvaliBlessedChild.story.title>
+  <AvaliBlessedChild.shortTitle>AvaliBlessedChild</AvaliBlessedChild.shortTitle>
+  <AvaliBlessedChild.story.titleShort>AvaliBlessedChild</AvaliBlessedChild.story.titleShort>
+  <AvaliBlessedChild.storyDesc>storyDesc</AvaliBlessedChild.storyDesc>
   <AvaliBlessedChild.story.baseDesc>storydesc</AvaliBlessedChild.story.baseDesc>
 
 
-  <AvaliLateHatch.title>Late Hatch</AvaliLateHatch.title>
-  <AvaliLateHatch.story.title>title</AvaliLateHatch.story.title>
-  <AvaliLateHatch.shortTitle>Late Hatch</AvaliLateHatch.shortTitle>
-  <AvaliLateHatch.story.titleShort>shortTitle</AvaliLateHatch.story.titleShort>
-  <AvaliLateHatch.storyDesc>[PAWN_nameDef] for some reason hatched way later then the rest of their kit. They grew up behind everyone else and didn't fit in with the rest.</AvaliLateHatch.storyDesc>
+  <AvaliLateHatch.title>AvaliLateHatch</AvaliLateHatch.title>
+  <AvaliLateHatch.story.title>AvaliLateHatch</AvaliLateHatch.story.title>
+  <AvaliLateHatch.shortTitle>AvaliLateHatch</AvaliLateHatch.shortTitle>
+  <AvaliLateHatch.story.titleShort>AvaliLateHatch</AvaliLateHatch.story.titleShort>
+  <AvaliLateHatch.storyDesc>storyDesc</AvaliLateHatch.storyDesc>
   <AvaliLateHatch.story.baseDesc>storydesc</AvaliLateHatch.story.baseDesc>
 
 
-  <AvaliSolider.title>Illuminate Solider</AvaliSolider.title>
-  <AvaliSolider.story.title>title</AvaliSolider.story.title>
-  <AvaliSolider.shortTitle>Solider</AvaliSolider.shortTitle>
-  <AvaliSolider.storyDesc>[PAWN_nameDef] was a solider for the Illuminate. [PAWN_pronoun] was taught many combat tatics, as well as basic first aid.</AvaliSolider.storyDesc>
+  <AvaliSolider.title>AvaliSolider</AvaliSolider.title>
+  <AvaliSolider.story.title>AvaliSolider</AvaliSolider.story.title>
+  <AvaliSolider.shortTitle>AvaliSolider</AvaliSolider.shortTitle>
+  <AvaliSolider.storyDesc>storyDesc</AvaliSolider.storyDesc>
   <AvaliSolider.story.baseDesc>storydesc</AvaliSolider.story.baseDesc>
 
 
-  <AvaliFarmer.title>Farmer</AvaliFarmer.title>
-  <AvaliFarmer.story.title>title</AvaliFarmer.story.title>
-  <AvaliFarmer.shortTitle>Farmer</AvaliFarmer.shortTitle>
-  <AvaliFarmer.storyDesc>On Avalon, [PAWN_nameDef] was a farmer. [PAWN_pronoun] mainly worked with the few plants/microorganisms, due to the conditions on avalon.</AvaliFarmer.storyDesc>
+  <AvaliFarmer.title>AvaliFarmer</AvaliFarmer.title>
+  <AvaliFarmer.story.title>AvaliFarmer</AvaliFarmer.story.title>
+  <AvaliFarmer.shortTitle>AvaliFarmer</AvaliFarmer.shortTitle>
+  <AvaliFarmer.storyDesc>storyDesc</AvaliFarmer.storyDesc>
   <AvaliFarmer.story.baseDesc>storydesc</AvaliFarmer.story.baseDesc>
 
 
-  <AvaliResearcher.title>Illuminate Researcher</AvaliResearcher.title>
-  <AvaliResearcher.story.title>title</AvaliResearcher.story.title>
-  <AvaliResearcher.shortTitle>Researcher</AvaliResearcher.shortTitle>
-  <AvaliResearcher.storyDesc>[PAWN_nameDef] was a researcher for the Illuminate. Even now, they still are, occasionally reporting their scientific findings back to the Illuminate, when [PAWN_pronoun] can.</AvaliResearcher.storyDesc>
+  <AvaliResearcher.title>AvaliResearcher</AvaliResearcher.title>
+  <AvaliResearcher.story.title>AvaliResearcher</AvaliResearcher.story.title>
+  <AvaliResearcher.shortTitle>AvaliResearcher</AvaliResearcher.shortTitle>
+  <AvaliResearcher.storyDesc>storyDesc</AvaliResearcher.storyDesc>
   <AvaliResearcher.story.baseDesc>storydesc</AvaliResearcher.story.baseDesc>
 
 
-  <AvaliBuilder.title>Builder</AvaliBuilder.title>
-  <AvaliBuilder.story.title>title</AvaliBuilder.story.title>
-  <AvaliBuilder.shortTitle>Builder</AvaliBuilder.shortTitle>
-  <AvaliBuilder.storyDesc>[PAWN_nameDef] learned to construct permanent buildings, and helped with the construction of more permanent settlements on avalon. Now, they are being sent to help construct buildings on other planets.</AvaliBuilder.storyDesc>
+  <AvaliBuilder.title>AvaliBuilder</AvaliBuilder.title>
+  <AvaliBuilder.story.title>AvaliBuilder</AvaliBuilder.story.title>
+  <AvaliBuilder.shortTitle>AvaliBuilder</AvaliBuilder.shortTitle>
+  <AvaliBuilder.storyDesc>storyDesc</AvaliBuilder.storyDesc>
   <AvaliBuilder.story.baseDesc>storydesc</AvaliBuilder.story.baseDesc>
 
 
-  <AvaliExplorer.title>Pioneer</AvaliExplorer.title>
-  <AvaliExplorer.story.title>title</AvaliExplorer.story.title>
-  <AvaliExplorer.shortTitle>Explorer</AvaliExplorer.shortTitle>
-  <AvaliExplorer.storyDesc>[PAWN_nameDef] was an inter-planetary explorer back on Avalon, tasked with charting the artic landscape of the planet. [PAWN_nameDef] usually worked alone, and as such didn't have much social interaction, besides reporting their findings. Still, they learned many invaluable survival skills.</AvaliExplorer.storyDesc>
+  <AvaliExplorer.title>AvaliExplorer</AvaliExplorer.title>
+  <AvaliExplorer.story.title>AvaliExplorer</AvaliExplorer.story.title>
+  <AvaliExplorer.shortTitle>AvaliExplorer</AvaliExplorer.shortTitle>
+  <AvaliExplorer.storyDesc>storyDesc</AvaliExplorer.storyDesc>
   <AvaliExplorer.story.baseDesc>storydesc</AvaliExplorer.story.baseDesc>
 
 
-  <AvaliDiplomat.title>Diplomat</AvaliDiplomat.title>
-  <AvaliDiplomat.story.title>title</AvaliDiplomat.story.title>
-  <AvaliDiplomat.shortTitle>Diplomat</AvaliDiplomat.shortTitle>
-  <AvaliDiplomat.storyDesc>[PAWN_nameDef] performed diplomatic duties back on Avalon, trying [PAWN_possessive] best to resolve tensions between tribes. [PAWN_nameDef] has always aimed to resolve conflict without fighting, and as such, lacks greatly in combat areas. But who needs bullets, when you have words as sharp as steel?</AvaliDiplomat.storyDesc>
+  <AvaliDiplomat.title>AvaliDiplomat</AvaliDiplomat.title>
+  <AvaliDiplomat.story.title>AvaliDiplomat</AvaliDiplomat.story.title>
+  <AvaliDiplomat.shortTitle>AvaliDiplomat</AvaliDiplomat.shortTitle>
+  <AvaliDiplomat.storyDesc>storyDesc</AvaliDiplomat.storyDesc>
   <AvaliDiplomat.story.baseDesc>storydesc</AvaliDiplomat.story.baseDesc>
 
 
-  <AvaliLoner.title>Loner</AvaliLoner.title>
-  <AvaliLoner.story.title>title</AvaliLoner.story.title>
-  <AvaliLoner.shortTitle>Loner</AvaliLoner.shortTitle>
-  <AvaliLoner.storyDesc>[PAWN_nameDef] had a rough early adulthood. They were framed for a murder in [PAWN_possessive] pack back on Avalon, despite [PAWN_possessive] having no connection. The colony's leaders stated otherwise. [PAWN_nameDef] was banished from the pack, left alone to the worst parts of the Avalon tundra. Of course, the issue wasn't so much surviving, but the crippling loneliness, and the lack of food. Mirraciously, [PAWN_nameDef] found another pack after years of being alone, and slowly accustomed back to normal life. Being in complete isolation for years made it extremely hard to return to socializing, plus [PAWN_pronoun] didn't learn much technology-wise in the Avalon tundra.
-	
-	[PAWN_nameDef] swears to find the true murderer one day.</AvaliLoner.storyDesc>
+  <AvaliLoner.title>AvaliLoner</AvaliLoner.title>
+  <AvaliLoner.story.title>AvaliLoner</AvaliLoner.story.title>
+  <AvaliLoner.shortTitle>AvaliLoner</AvaliLoner.shortTitle>
+  <AvaliLoner.storyDesc>storyDesc</AvaliLoner.storyDesc>
   <AvaliLoner.story.baseDesc>storydesc</AvaliLoner.story.baseDesc>
 
 
-  <AvaliSpy.title>Illuminate Spy</AvaliSpy.title>
-  <AvaliSpy.story.title>title</AvaliSpy.story.title>
-  <AvaliSpy.shortTitle>Spy</AvaliSpy.shortTitle>
-  <AvaliSpy.storyDesc>[PAWN_nameDef] enlisted at a young age to join the Illuminate. Years and years of propaganda clearly did their job, and [PAWN_nameDef] quickly climbed the ranks of the Illuminate spy program. [PAWN_nameDef] lives to serve the Illuminate, the Illuminate serves to grant livelihood to [PAWN_nameDef].
-	
-	If [PAWN_nameDef] wants something out of someone, [PAWN_pronoun] will get it, no matter the cost. It's not torture, it's coersion after all! [PAWN_nameDef] can play many roles, and can hold [PAWN_possessive] own in many situations. </AvaliSpy.storyDesc>
+  <AvaliSpy.title>AvaliSpy</AvaliSpy.title>
+  <AvaliSpy.story.title>AvaliSpy</AvaliSpy.story.title>
+  <AvaliSpy.shortTitle>AvaliSpy</AvaliSpy.shortTitle>
+  <AvaliSpy.storyDesc>storyDesc</AvaliSpy.storyDesc>
   <AvaliSpy.story.baseDesc>storydesc</AvaliSpy.story.baseDesc>
 
 
-  <AvaliThief.title>Thief</AvaliThief.title>
-  <AvaliThief.story.title>title</AvaliThief.story.title>
-  <AvaliThief.shortTitle>Thief</AvaliThief.shortTitle>
-  <AvaliThief.storyDesc>[PAWN_nameDef] made [PAWN_possessive] living back on Avalon by petty thievery, shoplifting, and running black market goods. However, even those endeavours started to prove ineffective in fufilling [PAWN_nameDef]'s crave for possessions, so they then stepped up to muggings, kidnappings, ransom, robberies, and many more goodies.
-	
-	After a few years, [PAWN_nameDef] was caught, and placed into an Avali prisoner program. [PAWN_nameDef] is now being sent to a foreign planet for some kind of expedition, but [PAWN_pronoun] was too busy pickpocketing the instructor to really be listening.</AvaliThief.storyDesc>
+  <AvaliThief.title>AvaliThief</AvaliThief.title>
+  <AvaliThief.story.title>AvaliThief</AvaliThief.story.title>
+  <AvaliThief.shortTitle>AvaliThief</AvaliThief.shortTitle>
+  <AvaliThief.storyDesc>storyDesc</AvaliThief.storyDesc>
   <AvaliThief.story.baseDesc>storydesc</AvaliThief.story.baseDesc>
 
 
-  <AvaliTinkerer.title>Tinkerer</AvaliTinkerer.title>
-  <AvaliTinkerer.story.title>title</AvaliTinkerer.story.title>
-  <AvaliTinkerer.shortTitle>Tinkerer</AvaliTinkerer.shortTitle>
-  <AvaliTinkerer.storyDesc>[PAWN_nameDef] never really worked for anyone in particular, finding [PAWN_possessive] lifestyle in making, restoring, improving, changing, destroying, and designing countless odd machines. At home, [PAWN_pronoun] was disregarded for the bizarre creations [PAWN_pronoun] made, dismissed as being "absolutely impractical" and "having less worth then a wet dishrag." Nonetheless, [PAWN_nameDef] continued to hone their trade, developing many odd trinkets, even if [PAWN_nameDef] couldn't do [PAWN_possessive] dream designs such as "A giant robotic centipede with machine guns attached to it" or "A portable device that can generate tornadoes on command".
-
-	But, this isn't Avalon anymore. Maybe [PAWN_nameDef]'s creations will finally be recognized for what they are worth on this new world?</AvaliTinkerer.storyDesc>
-  <AvaliTinkerer.story.baseDesc>[PAWN_nameDef] never really worked for anyone in particular, finding [PAWN_possessive] lifestyle in making, restoring, improving, changing, destroying, and designing countless odd machines. At home, [PAWN_pronoun] was disregarded for the bizarre creations [PAWN_pronoun] made, dismissed as being "absolutely impractical" and "having less worth then a wet dishrag." Nonetheless, [PAWN_nameDef] continued to hone their trade, developing many odd trinkets, even if [PAWN_nameDef] couldn't do [PAWN_possessive] dream designs such as "A giant robotic centipede with machine guns attached to it" or "A portable device that can generate tornadoes on command".
-
-	But, this isn't Avalon anymore. Maybe [PAWN_nameDef]'s creations will finally be recognized for what they are worth on this new world?</AvaliTinkerer.story.baseDesc>
+  <AvaliTinkerer.title>AvaliTinkerer</AvaliTinkerer.title>
+  <AvaliTinkerer.story.title>AvaliTinkerer</AvaliTinkerer.story.title>
+  <AvaliTinkerer.shortTitle>AvaliTinkerer</AvaliTinkerer.shortTitle>
+  <AvaliTinkerer.storyDesc>storyDesc</AvaliTinkerer.storyDesc>
+  <AvaliTinkerer.story.baseDesc>storyDesc</AvaliTinkerer.story.baseDesc>
 
 
-  <AvaliCaveMedic.title>Miner Medic</AvaliCaveMedic.title>
-  <AvaliCaveMedic.story.title>title</AvaliCaveMedic.story.title>
-  <AvaliCaveMedic.shortTitle>Miner Medic</AvaliCaveMedic.shortTitle>
-  <AvaliCaveMedic.story.titleShort>shortTitle</AvaliCaveMedic.story.titleShort>
-  <AvaliCaveMedic.storyDesc>On Avalon, mining is a crucial part of the economy, many basic Avali resources are based on precious rocks and metals found deep in caves or mountains. It also so happens that mining is an extremely dangerous job, and some people let the glowy rocks down below get to their heads; and that is not just a metaphor.
-	
-	[PAWN_nameDef]'s job entails digging into collapsed mining areas, and rescuing whoever is still alive. Sadly, it seems giant boulders usually beat Avali, but [PAWN_nameDef] has seen and dealt with quite a few different emergency situations, and is always ready for the next idiot who doesn't understand basic gravity.</AvaliCaveMedic.storyDesc>
+  <AvaliCaveMedic.title>AvaliCaveMedic</AvaliCaveMedic.title>
+  <AvaliCaveMedic.story.title>AvaliCaveMedic</AvaliCaveMedic.story.title>
+  <AvaliCaveMedic.shortTitle>AvaliCaveMedic</AvaliCaveMedic.shortTitle>
+  <AvaliCaveMedic.story.titleShort>AvaliCaveMedic</AvaliCaveMedic.story.titleShort>
+  <AvaliCaveMedic.storyDesc>storyDesc</AvaliCaveMedic.storyDesc>
   <AvaliCaveMedic.story.baseDesc>storydesc</AvaliCaveMedic.story.baseDesc>
 
 
-  <AvaliBionicDesigner.title>Bionic Designer</AvaliBionicDesigner.title>
-  <AvaliBionicDesigner.story.title>title</AvaliBionicDesigner.story.title>
-  <AvaliBionicDesigner.shortTitle>Bionic Designer</AvaliBionicDesigner.shortTitle>
-  <AvaliBionicDesigner.story.titleShort>shortTitle</AvaliBionicDesigner.story.titleShort>
-  <AvaliBionicDesigner.storyDesc>[PAWN_nameDef] has been designing robotic replacements for body parts ever since a member of [PAWN_possessive] pack lost an arm, and [PAWN_pronoun] spent weeks trying different things to replace their arm. After weeks of jabbing new devices into the packmate's shoulder, one suddenly came to life, punching [PAWN_nameDef] square in the face. [PAWN_nameDef] has since then avoided actually installing the parts; they just wanna make them.</AvaliBionicDesigner.storyDesc>
+  <AvaliBionicDesigner.title>AvaliBionicDesigner</AvaliBionicDesigner.title>
+  <AvaliBionicDesigner.story.title>AvaliBionicDesigner</AvaliBionicDesigner.story.title>
+  <AvaliBionicDesigner.shortTitle>AvaliBionicDesigner</AvaliBionicDesigner.shortTitle>
+  <AvaliBionicDesigner.story.titleShort>AvaliBionicDesigner</AvaliBionicDesigner.story.titleShort>
+  <AvaliBionicDesigner.storyDesc>storyDesc</AvaliBionicDesigner.storyDesc>
   <AvaliBionicDesigner.story.baseDesc>storydesc</AvaliBionicDesigner.story.baseDesc>
 
 
-  <AvaliSheriff.title>Sheriff</AvaliSheriff.title>
-  <AvaliSheriff.story.title>title</AvaliSheriff.story.title>
-  <AvaliSheriff.shortTitle>Sheriff</AvaliSheriff.shortTitle>
-  <AvaliSheriff.storyDesc>[PAWN_nameDef] was the single Sheriff of [PAWN_possessive] pack back on Avalon. Being a smaller, more tribal pack, they worked mostly alone. [PAWN_nameDef] was often completely swamped with tasks, because even though the pack was fairly small (to Avali standards, anyway), [PAWN_nameDef] still had many tasks to do. [PAWN_pronoun] could never seem to get a break. One day, after another "lost my PDA in the snow" report, [PAWN_nameDef] snapped, leaving the town and taking all [PAWN_possessive] gear with [PAWN_objective]. Soon, [PAWN_nameDef] heard of a new oppurtunity to get off of Avalon with a small group, and quickly enlisted. They want to be the authority to a pack they truly respect.</AvaliSheriff.storyDesc>
+  <AvaliSheriff.title>AvaliSheriff</AvaliSheriff.title>
+  <AvaliSheriff.story.title>AvaliSheriff</AvaliSheriff.story.title>
+  <AvaliSheriff.shortTitle>AvaliSheriff</AvaliSheriff.shortTitle>
+  <AvaliSheriff.storyDesc>storyDesc</AvaliSheriff.storyDesc>
   <AvaliSheriff.story.baseDesc>storydesc</AvaliSheriff.story.baseDesc>
 
 
-  <AvaliTrained.title>Devoted Colonist</AvaliTrained.title>
-  <AvaliTrained.story.title>title</AvaliTrained.story.title>
-  <AvaliTrained.shortTitle>Devoted Colonist</AvaliTrained.shortTitle>
-  <AvaliTrained.story.titleShort>shortTitle</AvaliTrained.story.titleShort>
-  <AvaliTrained.storyDesc>[PAWN_nameDef] wanted to join the colonising program, every since they were a hatchling. They dedicated their entire life to picking up all the skills neccesary to survive, wanting to be the best possible choice. Sadly, [PAWN_pronoun] was called out to duty years before [PAWN_pronoun] anticipated, having been able to only pick up bare minimums. I guess there is no better way to learn then doing it yourself, for real, right?</AvaliTrained.storyDesc>
+  <AvaliTrained.title>AvaliTrained</AvaliTrained.title>
+  <AvaliTrained.story.title>AvaliTrained</AvaliTrained.story.title>
+  <AvaliTrained.shortTitle>AvaliTrained</AvaliTrained.shortTitle>
+  <AvaliTrained.story.titleShort>AvaliTrained</AvaliTrained.story.titleShort>
+  <AvaliTrained.storyDesc>storyDesc</AvaliTrained.storyDesc>
   <AvaliTrained.story.baseDesc>storydesc</AvaliTrained.story.baseDesc>
 
 
-  <AvaliCultist.title>Cultist</AvaliCultist.title>
-  <AvaliCultist.story.title>title</AvaliCultist.story.title>
-  <AvaliCultist.shortTitle>Cultist</AvaliCultist.shortTitle>
-  <AvaliCultist.storyDesc>[PAWN_nameDef] is part of an extremely strange cult that believes that all plants are the work of some ancient evil, and they all must be destroyed or they will corrupt the world. Somehow, [PAWN_pronoun] snuck [PAWN_objective]selves onto the colony program. They probably aren't fit for this new environment, but there is no going back now. [PAWN_nameDef] will not fight fires, believing that fires are the cleansing graces of their deity.</AvaliCultist.storyDesc>
+  <AvaliCultist.title>AvaliCultist</AvaliCultist.title>
+  <AvaliCultist.story.title>AvaliCultist</AvaliCultist.story.title>
+  <AvaliCultist.shortTitle>AvaliCultist</AvaliCultist.shortTitle>
+  <AvaliCultist.storyDesc>storyDesc</AvaliCultist.storyDesc>
   <AvaliCultist.story.baseDesc>storydesc</AvaliCultist.story.baseDesc>
 
 
-  <AvaliBerserker.title>Berserker</AvaliBerserker.title>
-  <AvaliBerserker.story.title>title</AvaliBerserker.story.title>
-  <AvaliBerserker.shortTitle>Berserker</AvaliBerserker.shortTitle>
-  <AvaliBerserker.storyDesc>[PAWN_nameDef] strong. [PAWN_nameDef] no need smart, no need talk, no need friend. Fight is friend. [PAWN_nameDef] must hurt others.</AvaliBerserker.storyDesc>
+  <AvaliBerserker.title>AvaliBerserker</AvaliBerserker.title>
+  <AvaliBerserker.story.title>AvaliBerserker</AvaliBerserker.story.title>
+  <AvaliBerserker.shortTitle>AvaliBerserker</AvaliBerserker.shortTitle>
+  <AvaliBerserker.storyDesc>storyDesc</AvaliBerserker.storyDesc>
   <AvaliBerserker.story.baseDesc>storydesc</AvaliBerserker.story.baseDesc>
 
 
-  <AvaliFactoryWorker.title>Factory Worker</AvaliFactoryWorker.title>
-  <AvaliFactoryWorker.story.title>title</AvaliFactoryWorker.story.title>
-  <AvaliFactoryWorker.shortTitle>Worker</AvaliFactoryWorker.shortTitle>
-  <AvaliFactoryWorker.story.titleShort>shortTitle</AvaliFactoryWorker.story.titleShort>
-  <AvaliFactoryWorker.storyDesc>[PAWN_nameDef] spent most of [PAWN_possessive] life working in factories in Avalon, mostly working on refining metals and assembly line production. Bizarrely, [PAWN_pronoun] loved it, and do not mind doing basic, repetitive tasks, day after day, for measly paychecks. How cool!</AvaliFactoryWorker.storyDesc>
+  <AvaliFactoryWorker.title>AvaliFactoryWorker</AvaliFactoryWorker.title>
+  <AvaliFactoryWorker.story.title>AvaliFactoryWorker</AvaliFactoryWorker.story.title>
+  <AvaliFactoryWorker.shortTitle>AvaliFactoryWorker</AvaliFactoryWorker.shortTitle>
+  <AvaliFactoryWorker.story.titleShort>AvaliFactoryWorker</AvaliFactoryWorker.story.titleShort>
+  <AvaliFactoryWorker.storyDesc>storyDesc</AvaliFactoryWorker.storyDesc>
   <AvaliFactoryWorker.story.baseDesc>storydesc</AvaliFactoryWorker.story.baseDesc>
 
 
-  <AvaliModel.title>Avali Model</AvaliModel.title>
-  <AvaliModel.story.title>title</AvaliModel.story.title>
-  <AvaliModel.shortTitle>Model</AvaliModel.shortTitle>
-  <AvaliModel.storyDesc>[PAWN_nameDef] was just born absolutely stunning, and everyone agrees. [PAWN_nameDef] spent most of their life as an Avali model, taking constant photoshoots, featuring in movies, varying in... theme. However, this life grew boring to [PAWN_objective]. Being so high up in the Avali society, [PAWN_pronoun] heard about the colony program before anyone else. However, the colony program wouldn't allow many high-class Avali such as [PAWN_objective]self.
-	
-	So, [PAWN_nameDef] tired of [PAWN_possessive] life as a celebrity, allowed [PAWN_objective]self into the program by sneaking onto a ship as it was leaving. Will they be able to live without the same glamour?</AvaliModel.storyDesc>
+  <AvaliModel.title>AvaliModel</AvaliModel.title>
+  <AvaliModel.story.title>AvaliModel</AvaliModel.story.title>
+  <AvaliModel.shortTitle>AvaliModel</AvaliModel.shortTitle>
+  <AvaliModel.storyDesc>storyDesc</AvaliModel.storyDesc>
   <AvaliModel.story.baseDesc>storydesc</AvaliModel.story.baseDesc>
 
 
-  <AvaliBurger.title>Food Cart Owner</AvaliBurger.title>
-  <AvaliBurger.story.title>title</AvaliBurger.story.title>
-  <AvaliBurger.shortTitle>Foodcart Owner</AvaliBurger.shortTitle>
-  <AvaliBurger.story.titleShort>shortTitle</AvaliBurger.story.titleShort>
-  <AvaliBurger.storyDesc>[PAWN_nameDef] made a living running [PAWN_possessive] own food cart, simply grilling hamburgers and selling them to passerby in city squares. However, Avali cities just don't have the population/economy to make this a liveable practice, and [PAWN_nameDef] turned to other options out of desperation for money. Now they are a colonist ready to land on a largely unknown, extremely dangerous, extremely vital planet. [PAWN_nameDef] wonders if they should have stuck with the "AvaliBurger" cart.</AvaliBurger.storyDesc>
+  <AvaliBurger.title>AvaliBurger</AvaliBurger.title>
+  <AvaliBurger.story.title>AvaliBurger</AvaliBurger.story.title>
+  <AvaliBurger.shortTitle>AvaliBurger</AvaliBurger.shortTitle>
+  <AvaliBurger.story.titleShort>AvaliBurger</AvaliBurger.story.titleShort>
+  <AvaliBurger.storyDesc>storyDesc</AvaliBurger.storyDesc>
   <AvaliBurger.story.baseDesc>storydesc</AvaliBurger.story.baseDesc>
 
 
-  <AvaliAnimalScientist.title>Animal Scientist</AvaliAnimalScientist.title>
-  <AvaliAnimalScientist.story.title>title</AvaliAnimalScientist.story.title>
-  <AvaliAnimalScientist.shortTitle>Scientist</AvaliAnimalScientist.shortTitle>
-  <AvaliAnimalScientist.storyDesc>[PAWN_nameDef] always had a fascination with animals, and was always curious as to what was possible with them. [PAWN_nameDef] nearly had developed a module that would allow Avali to speak with animals using common brain signals, however, all of [PAWN_nameDef]'s work was destroyed in a freak accident in [PAWN_possessive] lab, and [PAWN_pronoun] was forced to relocate [PAWN_possessive] studies elsewhere.</AvaliAnimalScientist.storyDesc>
+  <AvaliAnimalScientist.title>AvaliAnimalScientist</AvaliAnimalScientist.title>
+  <AvaliAnimalScientist.story.title>AvaliAnimalScientist</AvaliAnimalScientist.story.title>
+  <AvaliAnimalScientist.shortTitle>AvaliAnimalScientist</AvaliAnimalScientist.shortTitle>
+  <AvaliAnimalScientist.storyDesc>storyDesc</AvaliAnimalScientist.storyDesc>
   <AvaliAnimalScientist.story.baseDesc>storydesc</AvaliAnimalScientist.story.baseDesc>
 
 
-  <AvaliPalaceDesigner.title>Illuminate Architect</AvaliPalaceDesigner.title>
-  <AvaliPalaceDesigner.story.title>title</AvaliPalaceDesigner.story.title>
-  <AvaliPalaceDesigner.shortTitle>Architect</AvaliPalaceDesigner.shortTitle>
-  <AvaliPalaceDesigner.storyDesc>[PAWN_nameDef] singlehandedly designed nearly every major Avalon landmark, being the Illuminate's go-to architectural designer, noted for [PAWN_possessive] beautiful yet realistic and functional designs.</AvaliPalaceDesigner.storyDesc>
+  <AvaliPalaceDesigner.title>AvaliPalaceDesigner</AvaliPalaceDesigner.title>
+  <AvaliPalaceDesigner.story.title>AvaliPalaceDesigner</AvaliPalaceDesigner.story.title>
+  <AvaliPalaceDesigner.shortTitle>AvaliPalaceDesigner</AvaliPalaceDesigner.shortTitle>
+  <AvaliPalaceDesigner.storyDesc>storyDesc</AvaliPalaceDesigner.storyDesc>
   <AvaliPalaceDesigner.story.baseDesc>storydesc</AvaliPalaceDesigner.story.baseDesc>
 
 
-  <AvaliLostEgg.title>Lost egg</AvaliLostEgg.title>
-  <AvaliLostEgg.story.title>title</AvaliLostEgg.story.title>
-  <AvaliLostEgg.shortTitle>Lost egg</AvaliLostEgg.shortTitle>
-  <AvaliLostEgg.story.titleShort>shortTitle</AvaliLostEgg.story.titleShort>
-  <AvaliLostEgg.storyDesc>[PAWN_nameDef]'s egg was accidentally lost during a move between nurseries, after an incident caused the nursery the egg was in to no longer be structurally sound, and therefore a risk to the eggs. [PAWN_pronoun] was luckily found by another pack while [PAWN_pronoun] was young, and was able to join them, but sometimes [PAWN_nameDef] wonders if [PAWN_possessive] pack is still out there, maybe looking for [PAWN_objective].</AvaliLostEgg.storyDesc>
+  <AvaliLostEgg.title>AvaliLostEgg</AvaliLostEgg.title>
+  <AvaliLostEgg.story.title>AvaliLostEgg</AvaliLostEgg.story.title>
+  <AvaliLostEgg.shortTitle>AvaliLostEgg</AvaliLostEgg.shortTitle>
+  <AvaliLostEgg.story.titleShort>AvaliLostEgg</AvaliLostEgg.story.titleShort>
+  <AvaliLostEgg.storyDesc>storyDesc</AvaliLostEgg.storyDesc>
   <AvaliLostEgg.story.baseDesc>storydesc</AvaliLostEgg.story.baseDesc>
 </LanguageData>
