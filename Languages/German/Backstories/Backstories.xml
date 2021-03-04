@@ -413,7 +413,7 @@
     <titleFemale></titleFemale>
     <titleShort>Imbisswagenbesitzer</titleShort>
     <titleShortFemale></titleShortFemale>
-    <desc>[PAWN_nameDef] verdiente sich den Lebensunterhalt durch [PAWN_possessive]en eigenen Imbisswagen, mit dem [PAWN_pronoun] einfache Hamburger zubereitete und an Passanten an bestimmten Stadtplätzen verkaufte. Avali-Städte haben aber weder genügend Einwohner noch genug Wirtschaftlichkeit, um einem Imbisswagenbesitzer dauerhaft den Lebensunterhalt zu sichern. Also musste sich [PAWN_nameDef] in der Verzweiflung andere Möglichkeiten überlegen an Geld zu kommen. Nun ist [PAWN_pronoun] bereit auf einem weitgehend unbekannten und außerst gefährlichen Planeten zu landen. [PAWN_nameDef] fragt sich, ob es nicht besser gewesen wäre beim "AvaliBurger" zu bleiben.</desc>
+    <desc>[PAWN_nameDef] verdiente sich den Lebensunterhalt durch [PAWN_possessive]en eigenen Imbisswagen, mit dem [PAWN_pronoun] einfache Hamburger zubereitete und an Passanten an bestimmten Stadtplätzen verkaufte. Avali-Städte haben aber weder genügend Einwohner, noch genug Wirtschaftlichkeit, um einem Imbisswagenbesitzer dauerhaft den Lebensunterhalt zu sichern. Also musste sich [PAWN_nameDef] in der Verzweiflung andere Möglichkeiten überlegen an Geld zu kommen. Nun ist [PAWN_pronoun] bereit auf einem weitgehend unbekannten und außerst gefährlichen Planeten zu landen. [PAWN_nameDef] fragt sich, ob es nicht besser gewesen wäre beim "AvaliBurger" zu bleiben.</desc>
   </AvaliBurger>
 
   <!-- <AvaliAnimalScientist>
