@@ -15,9 +15,9 @@
   <!-- Nano-forge -->
 
   <!-- <ResearchNanoForge.label>Nano-forge</ResearchNanoForge.label> -->
-  <ResearchNanoForge.label>Nano-Schmiede</ResearchNanoForge.label>
+  <ResearchNanoForge.label>Nanodruck-Schmiede</ResearchNanoForge.label>
   <!-- <ResearchNanoForge.description>One of the most important workbenches, this workbench is where tungsten can be processed and weapons made.</ResearchNanoForge.description> -->
-  <ResearchNanoForge.description>Eine der wichtigsten Werkbänke, da hier Wolfram weiterverarbeitet wird und Waffen hergestellt werden können.</ResearchNanoForge.description>
+  <ResearchNanoForge.description>Eine der wichtigsten Fabrikatoren, da hier Wolfram weiterverarbeitet wird und Waffen hergestellt werden können.</ResearchNanoForge.description>
 
   <!-- Basic apparel -->
 
@@ -85,9 +85,9 @@
   <!-- Nano-loom -->
 
   <!-- <ResearchNanoLoom.label>Nano-loom</ResearchNanoLoom.label> -->
-  <ResearchNanoLoom.label>Nano-Webstuhl</ResearchNanoLoom.label>
+  <ResearchNanoLoom.label>Nanodruck-Webmaschine</ResearchNanoLoom.label>
   <!-- <ResearchNanoLoom.description>Another important workbench, Avali use this for all their weaving needs.</ResearchNanoLoom.description> -->
-  <ResearchNanoLoom.description>Avali verwenden diese wichtige Werkbank, um alle benötigten Stoffe und Fasern herzustellen.</ResearchNanoLoom.description>
+  <ResearchNanoLoom.description>Avali verwenden diesen wichtigen Fabrikator, um alle benötigten Stoffe und Fasern herzustellen.</ResearchNanoLoom.description>
 
   <!-- Nano-carbon -->
 

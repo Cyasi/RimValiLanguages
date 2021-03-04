@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- <AvaliBiologyControl.label>Biology control hediff</AvaliBiologyControl.label> --><!---->
-  <AvaliBiologyControl.label>Biology control hediff</AvaliBiologyControl.label>
+  <!-- <AvaliBiologyControl.label>Biology control hediff</AvaliBiologyControl.label> -->
+  <AvaliBiologyControl.label>Biokontrollsteuerung</AvaliBiologyControl.label>
   <!-- <AvaliBiologyControl.description>Control</AvaliBiologyControl.description> -->
   <AvaliBiologyControl.description>Steuerung</AvaliBiologyControl.description>
   <!-- <AvaliBiologyControl.comps.1.showText.0.textToShow>chirp</AvaliBiologyControl.comps.1.showText.0.textToShow> -->
