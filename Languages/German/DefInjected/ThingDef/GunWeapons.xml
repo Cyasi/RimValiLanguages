@@ -11,8 +11,8 @@
 
   <!-- <AvaliPistol.label>Avali Pistol</AvaliPistol.label> -->
   <AvaliPistol.label>Avali-Pistole</AvaliPistol.label>
-  <!-- <AvaliPistol.description>A common avali pistol. Unlike most human pistols, this gun uses rail technology to fire its bullets.</AvaliPistol.description> -->
-  <AvaliPistol.description>Eine gewöhnliche Avali-Pistole. Im Gegensatz zu den meisten von Menschen erstellten Pistolen verwendet diese Waffe Railgun-Technologie, um ihre Kugeln abzufeuern.</AvaliPistol.description>
+  <!-- <AvaliPistol.description>A common avali pistol. Unlike most human pistols, this gun uses coilgun technology to fire its bullets.</AvaliPistol.description> -->
+  <AvaliPistol.description>Eine gewöhnliche Avali-Pistole. Im Gegensatz zu den meisten von Menschen erstellten Pistolen verwendet diese Waffe Coilgun-Technologie, um ihre Kugeln abzufeuern.</AvaliPistol.description>
   <!-- <AvaliPistol.tools.0.label>grip</AvaliPistol.tools.0.label> -->
   <AvaliPistol.tools.0.label>Griff</AvaliPistol.tools.0.label>
   <!-- <AvaliPistol.tools.1.label>barrel</AvaliPistol.tools.1.label> -->
@@ -27,8 +27,8 @@
 
   <!-- <AvaliSMG.label>Avali SMG</AvaliSMG.label> -->
   <AvaliSMG.label>Avali-MP</AvaliSMG.label>
-  <!-- <AvaliSMG.description>A railgun based SMG. Works best at long range, like most avali weapons do.</AvaliSMG.description> -->
-  <AvaliSMG.description>Eine MP basierte Railgun. Funktioniert am besten bei großer Entfernung, wie bei den meisten anderen Avali Fernkampfwaffen.</AvaliSMG.description>
+  <!-- <AvaliSMG.description>A coilgun based SMG. Works best at long range, like most avali weapons do.</AvaliSMG.description> -->
+  <AvaliSMG.description>Eine Coilgun basierte MP. Funktioniert am besten bei großer Entfernung, wie bei den meisten anderen Avali Fernkampfwaffen.</AvaliSMG.description>
   <!-- <AvaliSMG.tools.0.label>stock</AvaliSMG.tools.0.label> -->
   <AvaliSMG.tools.0.label>Schaft</AvaliSMG.tools.0.label>
   <!-- <AvaliSMG.tools.1.label>barrel</AvaliSMG.tools.1.label> -->
@@ -45,8 +45,8 @@
 
   <!-- <AvaliRifle.label>Avali Rifle</AvaliRifle.label> -->
   <AvaliRifle.label>Avali-Gewehr</AvaliRifle.label>
-  <!-- <AvaliRifle.description>A classic railgun weapon, the rifle. Good for taking out enemies at a distance.</AvaliRifle.description> -->
-  <AvaliRifle.description>Das Gewehr - eine klassische Railgun-Waffe. Gut, um Feinde mit größerem Abstand zu treffen.</AvaliRifle.description>
+  <!-- <AvaliRifle.description>A classic coilgun weapon, the rifle. Good for taking out enemies at a distance.</AvaliRifle.description> -->
+  <AvaliRifle.description>Das Gewehr - eine klassische Coilgun-Waffe. Gut, um Feinde mit größerem Abstand zu treffen.</AvaliRifle.description>
   <!-- <AvaliRifle.tools.0.label>stock</AvaliRifle.tools.0.label> -->
   <AvaliRifle.tools.0.label>Schaft</AvaliRifle.tools.0.label>
   <!-- <AvaliRifle.tools.1.label>barrel</AvaliRifle.tools.1.label> -->
@@ -81,8 +81,8 @@
 
   <!-- <AvaliShotgun.label>Avali Shotgun</AvaliShotgun.label> -->
   <AvaliShotgun.label>Avali-Schrotflinte</AvaliShotgun.label>
-  <!-- <AvaliShotgun.description>An avali shotgun. Like all avali weapons, it is based off railgun technology, allowing for long range at the cost of short range accuracy.</AvaliShotgun.description> -->
-  <AvaliShotgun.description>Eine Schrotflinte nach Avali-Bauart. Wie alle Avali-Waffen verwendet auch diese Fernkampfwaffe Railgun-Technologie, was ihr Langstreckenschüsse erlaubt, auf Kosten der Kurzstreckengenauigkeit.</AvaliShotgun.description>
+  <!-- <AvaliShotgun.description>An avali shotgun. Like almost all avali weapons, it is based off coilgun technology, allowing for long range at the cost of short range accuracy.</AvaliShotgun.description> -->
+  <AvaliShotgun.description>Eine Schrotflinte nach Avali-Bauart. Wie fast alle Avali-Waffen verwendet auch diese Fernkampfwaffe Coilgun-Technologie, was ihr Langstreckenschüsse erlaubt, auf Kosten der Kurzstreckengenauigkeit.</AvaliShotgun.description>
   <!-- <AvaliShotgun.tools.0.label>stock</AvaliShotgun.tools.0.label> -->
   <AvaliShotgun.tools.0.label>Schaft</AvaliShotgun.tools.0.label>
   <!-- <AvaliShotgun.tools.1.label>barrel</AvaliShotgun.tools.1.label> -->

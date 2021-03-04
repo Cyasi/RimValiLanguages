@@ -11,11 +11,29 @@
   <!-- <NoPack>This pawn is not in a pack.</NoPack> -->
   <NoPack>Dieses Mitglied ist nicht in einem Rudel.</NoPack>
   
+  <!-- Settings -->
+
+  <!-- <goBack>Go back</goBack> -->
+  <goBack>Zurück</goBack>
+  <!-- <MultiThreadWarnLabel>Multithreading warning!</MultiThreadWarnLabel> -->
+  <MultiThreadWarnLabel>Multithreading Warnung!</MultiThreadWarnLabel>
+  <!-- <MultiThreadWarnDesc>To enable this, we must restart your game. SAVE YOUR PROGRESS ON ANY CURRENT GAMES.</MultiThreadWarnDesc> -->
+  <MultiThreadWarnDesc>Wir müssen dein Spiel neu starten, damit diese Änderungen wirksam werden. SICHERE DEINEN FORTSCHRITT AUF ALLEN LAUFENDEN SPIELSTÄNDEN.</MultiThreadWarnDesc>
+  <!-- <MultiThreadYes>Yes, I understand</MultiThreadYes> -->
+  <MultiThreadYes>Ja, ich habe verstanden.</MultiThreadYes>
+  <!-- <MultiThreadNo>Wait! Go back!</MultiThreadNo> -->
+  <MultiThreadNo>Warte! Zurück!</MultiThreadNo>
   
   <!-- Pack settings -->
 
   <!-- <PackLabel>Pack settings</PackLabel> -->
   <PackLabel>Rudeleinstellungen</PackLabel>
+  <!-- <PackLossStageOneSetting>Days for stage one pack loss to set in: </PackLossStageOneSetting> -->
+  <PackLossStageOneSetting>Tage, bis der Packverlust der ersten Stufe eintritt: </PackLossStageOneSetting>
+  <!-- <PackLossStageTwoSetting>Days for stage two pack loss to set in: </PackLossStageTwoSetting> -->
+  <PackLossStageTwoSetting>Tage, bis der Packverlust der zweiten Stufe eintritt: </PackLossStageTwoSetting>
+  <!-- <PackLossStageThreeSetting>Days for stage three pack loss to set in: </PackLossStageThreeSetting> -->
+  <PackLossStageThreeSetting>Tage, bis der Packverlust der dritten Stufe eintritt: </PackLossStageThreeSetting>
   <!-- <PackLossCheck>Pack loss enabled:</PackLossCheck> -->
   <PackLossCheck>Verlust des Rudels aktivieren:</PackLossCheck>
   <!-- <PackLossDesc>Enable/disable pack loss.\n Pack loss is a time-based effect if an avali does not have a pack. Recommended for a "full" experience.</PackLossDesc> -->
@@ -23,7 +41,7 @@
   <!-- <PacksNum>The maximum number of avali in a pack.\n5 is usually recommended.</PacksNum> -->
   <PacksNum>Die maximale Anzahl von Avalis in einem Rudel.\n5 sind empfohlen.</PacksNum>
   <!-- <PackOpinionReq>Opinion required</PackOpinionReq> -->
-  <PackOpinionReq>Meinung erforderlich</PackOpinionReq>
+  <PackOpinionReq>Meinung erforderlich, um Rudel beizutreten</PackOpinionReq>
   <!-- <MultithreadingCheck>Multithreading enabled:</MultithreadingCheck> -->
   <MultithreadingCheck>Multithreading aktiviert:</MultithreadingCheck>
   <!-- <MultiThreadingDesc>Enable/disable pack multithreading. [WARNING: RESTARTS THE GAME.]\nIt is recommended to have this enabled, as it reduces lag greatly. May cause issues with Dub's performance anaylzer.</MultiThreadingDesc> -->

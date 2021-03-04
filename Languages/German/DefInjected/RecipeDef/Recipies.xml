@@ -140,6 +140,27 @@
   <!-- <RefineAvaliCarbonThree.jobString>Refining carbon</RefineAvaliCarbonThree.jobString> -->
   <RefineAvaliCarbonThree.jobString>raffiniert Kohlenstoff.</RefineAvaliCarbonThree.jobString>
 
+  <!-- <WeaveNanoCarbonFiber.label>Weave nano carbon fiber</WeaveNanoCarbonFiber.label> -->
+  <WeaveNanoCarbonFiber.label>Kohlenstoff-Nanofasern weben</WeaveNanoCarbonFiber.label>
+  <!-- <WeaveNanoCarbonFiber.description>Weave nano carbon fiber.</WeaveNanoCarbonFiber.description> -->
+  <WeaveNanoCarbonFiber.description>Webt Kohlenstoff-Nanofasern.</WeaveNanoCarbonFiber.description>
+  <!-- <WeaveNanoCarbonFiber.jobString>Weaving nano carbon fiber.</WeaveNanoCarbonFiber.jobString> -->
+  <WeaveNanoCarbonFiber.jobString>webt Kohlenstoff-Nanofasern.</WeaveNanoCarbonFiber.jobString>
+
+  <!-- <WeaveNanoCarbonFiberTwo.label>Weave nano carbon fiber</WeaveNanoCarbonFiberTwo.label> -->
+  <WeaveNanoCarbonFiberTwo.label>Kohlenstoff-Nanofasern weben (10)</WeaveNanoCarbonFiberTwo.label>
+  <!-- <WeaveNanoCarbonFiberTwo.description>Weave nano carbon fiber (x10).</WeaveNanoCarbonFiberTwo.description> -->
+  <WeaveNanoCarbonFiberTwo.description>Webt Kohlenstoff-Nanofasern (10).</WeaveNanoCarbonFiberTwo.description>
+  <!-- <WeaveNanoCarbonFiberTwo.jobString>Weaving nano carbon fiber (x10).</WeaveNanoCarbonFiberTwo.jobString> -->
+  <WeaveNanoCarbonFiberTwo.jobString>webt Kohlenstoff-Nanofasern (10).</WeaveNanoCarbonFiberTwo.jobString>
+
+  <!-- <WeaveNanoCarbonFiberThree.label>Weave nano carbon fiber</WeaveNanoCarbonFiberThree.label> -->
+  <WeaveNanoCarbonFiberThree.label>Kohlenstoff-Nanofasern weben (50)</WeaveNanoCarbonFiberThree.label>
+  <!-- <WeaveNanoCarbonFiberThree.description>Weave nano carbon fiber (x50).</WeaveNanoCarbonFiberThree.description> -->
+  <WeaveNanoCarbonFiberThree.description>Webt Kohlenstoff-Nanofasern (50).</WeaveNanoCarbonFiberThree.description>
+  <!-- <WeaveNanoCarbonFiberThree.jobString>Weaving nano carbon fiber (x50).</WeaveNanoCarbonFiberThree.jobString> -->
+  <WeaveNanoCarbonFiberThree.jobString>webt Kohlenstoff-Nanofasern (50).</WeaveNanoCarbonFiberThree.jobString>
+
 
   <!-- <WeaveAeroTungstenFiber.label>Weave aero tungsten fiber</WeaveAeroTungstenFiber.label> -->
   <WeaveAeroTungstenFiber.label>Ferro-Wolframcarbid-Fasern weben</WeaveAeroTungstenFiber.label>

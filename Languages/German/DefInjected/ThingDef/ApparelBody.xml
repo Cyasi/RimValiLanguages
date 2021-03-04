@@ -6,38 +6,6 @@
   <AvaliTDW.description>Traditionelle Avali Kleidung. Es ist leicht, bequem und es sind ein paar Windspiele angenäht, die Avali mögen.</AvaliTDW.description>
 
 
-  <!-- SpecOps armor -->
-
-  <!-- <AvaliSpecOpsArmor.label>Avali spec ops armor</AvaliSpecOpsArmor.label> -->
-  <AvaliSpecOpsArmor.label>Spezialeinheiten-Panzerung</AvaliSpecOpsArmor.label>
-  <!-- <AvaliSpecOpsArmor.description>A combat suit. [placeholder]</AvaliSpecOpsArmor.description> -->
-  <AvaliSpecOpsArmor.description>Ein Kampfanzug. [placeholder]</AvaliSpecOpsArmor.description>
-
-
-  <!-- spec ops helm -->
-
-  <!-- <AvaliSpecOpsHelm.label>Avali spec ops helmet</AvaliSpecOpsHelm.label> -->
-  <AvaliSpecOpsHelm.label>Spezialeinheiten-Helm</AvaliSpecOpsHelm.label>
-  <!-- <AvaliSpecOpsHelm.description>An avali spec ops helmet. [placeholder]</AvaliSpecOpsHelm.description> -->
-  <AvaliSpecOpsHelm.description>Ein Helm für Avali Spezialeinheiten. [placeholder]</AvaliSpecOpsHelm.description>
-
-
-  <!-- Scout helm -->
-
-  <!-- <AvaliScoutHelmet.label>Avali scout helmet</AvaliScoutHelmet.label> -->
-  <AvaliScoutHelmet.label>Avali Späherhelm</AvaliScoutHelmet.label>
-  <!-- <AvaliScoutHelmet.description>An avali scout helmet. [placeholder]</AvaliScoutHelmet.description> -->
-  <AvaliScoutHelmet.description>Ein Helm dür Avali Erkunder. [placeholder]</AvaliScoutHelmet.description>
-
-
-  <!-- Combat helmet -->
-
-  <!-- <AvaliCombatHelmet.label>Avali combat helmet</AvaliCombatHelmet.label> -->
-  <AvaliCombatHelmet.label>Avali Kampfhelm</AvaliCombatHelmet.label>
-  <!-- <AvaliCombatHelmet.description>An avali combat helmet. [placeholder]</AvaliCombatHelmet.description> -->
-  <AvaliCombatHelmet.description>Ein Avali Kampfhelm. [placeholder]</AvaliCombatHelmet.description>
-
-
   <!-- HUD -->
 
   <!-- <AvaliHUD.label>Avali HUD [placeholder]</AvaliHUD.label> -->
@@ -68,19 +36,6 @@
   <AvaliBellCloak.label>Avali Umhang</AvaliBellCloak.label>
   <!-- <AvaliBellCloak.description>An avali cloak. [placeholder]</AvaliBellCloak.description> -->
   <AvaliBellCloak.description>Ein Avali Umhang. [placeholder]</AvaliBellCloak.description>
-
-  <!-- <AvaliCombatArmor.label>Avali combat armor</AvaliCombatArmor.label> -->
-  <AvaliCombatArmor.label>Avali Kampfrüstung</AvaliCombatArmor.label>
-  <!-- <AvaliCombatArmor.description>A combat suit. [placeholder]</AvaliCombatArmor.description> -->
-  <AvaliCombatArmor.description>Eine Kampfrüstung. [placeholder]</AvaliCombatArmor.description>
-
-
-  <!-- Scout armor -->
-
-  <!-- <AvaliScoutArmor.label>Avali scout armor</AvaliScoutArmor.label> -->
-  <AvaliScoutArmor.label>Avali Späherrüstung</AvaliScoutArmor.label>
-  <!-- <AvaliScoutArmor.description>A combat suit. [placeholder]</AvaliScoutArmor.description> -->
-  <AvaliScoutArmor.description>Eine Späherrüstung. [placeholder]</AvaliScoutArmor.description>
 
 
   <!-- Thermal wraps -->
