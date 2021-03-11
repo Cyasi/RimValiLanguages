@@ -36,6 +36,22 @@
   <!-- <AvaliSMG.verbs.Verb_Shoot.label>Avali SMG</AvaliSMG.verbs.Verb_Shoot.label> -->
   <AvaliSMG.verbs.Verb_Shoot.label>Avali-MP</AvaliSMG.verbs.Verb_Shoot.label>
 
+  <!-- Minigun bullet -->
+
+  <!-- <AvaliMinigunBullet.label>Avali minigun bullet</AvaliMinigunBullet.label> -->
+  <AvaliMinigunBullet.label>Avali-Minigun-Geschoss</AvaliMinigunBullet.label>
+
+  <!-- Minigun -->
+
+  <!-- <AvaliMinigun.label>Avali minigun</AvaliMinigun.label> -->
+  <AvaliMinigun.label>Avali-Minigun</AvaliMinigun.label>
+  <!-- <AvaliMinigun.description>An avali minigun. Unlike most Illuminate technologies, it is not coilgun based.</AvaliMinigun.description> -->
+  <AvaliMinigun.description>Eine Minigun von den Avali. Im Gegensatz zu den meisten Waffen der Illuminate, basiert diese Waffe nicht auf Coilgun-Technologie.</AvaliMinigun.description>
+  <!-- <AvaliMinigun.tools.0.label>stock</AvaliMinigun.tools.0.label> -->
+  <AvaliMinigun.tools.0.label>Schaft</AvaliMinigun.tools.0.label>
+  <!-- <AvaliMinigun.tools.1.label>barrel</AvaliMinigun.tools.1.label> -->
+  <AvaliMinigun.tools.1.label>Lauf</AvaliMinigun.tools.1.label>
+
   <!-- Rife bullet -->
 
   <!-- <AvaliRifleBullet.label>Avali Rifle bullet</AvaliRifleBullet.label> -->
@@ -89,4 +105,18 @@
   <AvaliShotgun.tools.1.label>Lauf</AvaliShotgun.tools.1.label>
   <!-- <AvaliShotgun.verbs.Verb_Shoot.label>Avali Shotgun</AvaliShotgun.verbs.Verb_Shoot.label> -->
   <AvaliShotgun.verbs.Verb_Shoot.label>Avali-Schrotflinte</AvaliShotgun.verbs.Verb_Shoot.label>
+
+  <!-- Rocket Launcher -->
+
+  <!-- <IlluminateRocketLauncher.label>Avali rocket launcher</IlluminateRocketLauncher.label> -->
+  <IlluminateRocketLauncher.label>Avali-Raketenwerfer</IlluminateRocketLauncher.label>
+  <!-- <IlluminateRocketLauncher.description>An avali rocket launcher.</IlluminateRocketLauncher.description> -->
+  <IlluminateRocketLauncher.description>Ein Raketenwerfer von den Avali.</IlluminateRocketLauncher.description>
+  <!-- <IlluminateRocketLauncher.tools.0.label>barrel</IlluminateRocketLauncher.tools.0.label> -->
+  <IlluminateRocketLauncher.tools.0.label>Lauf</IlluminateRocketLauncher.tools.0.label>
+
+  <!-- Launcher Rocket -->
+
+  <!-- <AvaliRocketLauncherRocket.label>rocket</AvaliRocketLauncherRocket.label> -->
+  <AvaliRocketLauncherRocket.label>Rakete</AvaliRocketLauncherRocket.label>
 </LanguageData>

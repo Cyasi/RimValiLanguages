@@ -28,20 +28,20 @@
 
   <!-- <PackLabel>Pack settings</PackLabel> -->
   <PackLabel>Rudeleinstellungen</PackLabel>
-  <!-- <PackLossStageOneSetting>Days for stage one pack loss to set in: </PackLossStageOneSetting> -->
-  <PackLossStageOneSetting>Tage, bis der Packverlust der ersten Stufe eintritt: </PackLossStageOneSetting>
-  <!-- <PackLossStageTwoSetting>Days for stage two pack loss to set in: </PackLossStageTwoSetting> -->
-  <PackLossStageTwoSetting>Tage, bis der Packverlust der zweiten Stufe eintritt: </PackLossStageTwoSetting>
-  <!-- <PackLossStageThreeSetting>Days for stage three pack loss to set in: </PackLossStageThreeSetting> -->
-  <PackLossStageThreeSetting>Tage, bis der Packverlust der dritten Stufe eintritt: </PackLossStageThreeSetting>
+  <!-- <PackLossStageOneSetting>Days for stage one pack loss to set in: {TIME}</PackLossStageOneSetting> -->
+  <PackLossStageOneSetting>Tage, bis der Packverlust der ersten Stufe eintritt: {TIME}</PackLossStageOneSetting>
+  <!-- <PackLossStageTwoSetting>Days for stage two pack loss to set in: {TIME}</PackLossStageTwoSetting> -->
+  <PackLossStageTwoSetting>Tage, bis der Packverlust der zweiten Stufe eintritt: {TIME}</PackLossStageTwoSetting>
+  <!-- <PackLossStageThreeSetting>Days for stage three pack loss to set in: {TIME}</PackLossStageThreeSetting> -->
+  <PackLossStageThreeSetting>Tage, bis der Packverlust der dritten Stufe eintritt: {TIME}</PackLossStageThreeSetting>
   <!-- <PackLossCheck>Pack loss enabled:</PackLossCheck> -->
   <PackLossCheck>Verlust des Rudels aktivieren:</PackLossCheck>
   <!-- <PackLossDesc>Enable/disable pack loss.\n Pack loss is a time-based effect if an avali does not have a pack. Recommended for a "full" experience.</PackLossDesc> -->
   <PackLossDesc>Aktiviere/Deaktiviere Verlust des Rudels.\n Rudelverlust bezeichnet einen zeitbasierten Effekt, wenn ein Avali in keinem Rudel ist. Für ein "volles" Erlebnis empfohlen.</PackLossDesc>
   <!-- <PacksNum>The maximum number of avali in a pack.\n5 is usually recommended.</PacksNum> -->
   <PacksNum>Die maximale Anzahl von Avalis in einem Rudel.\n5 sind empfohlen.</PacksNum>
-  <!-- <PackOpinionReq>Opinion required</PackOpinionReq> -->
-  <PackOpinionReq>Meinung erforderlich, um Rudel beizutreten</PackOpinionReq>
+  <!-- <PackOpinionReq>Opinion required to join pack: {COUNT}</PackOpinionReq> -->
+  <PackOpinionReq>Meinung erforderlich, um Rudel beizutreten: {COUNT}</PackOpinionReq>
   <!-- <MultithreadingCheck>Multithreading enabled:</MultithreadingCheck> -->
   <MultithreadingCheck>Multithreading aktiviert:</MultithreadingCheck>
   <!-- <MultiThreadingDesc>Enable/disable pack multithreading. [WARNING: RESTARTS THE GAME.]\nIt is recommended to have this enabled, as it reduces lag greatly. May cause issues with Dub's performance anaylzer.</MultiThreadingDesc> -->
@@ -50,10 +50,8 @@
   <PacksCheck>Rudel aktivieren:</PacksCheck>
   <!-- <PacksDesc>Enable/disable packs. These give boosts to your pawns! Recommended for a "full" experience.</PacksDesc> -->
   <PacksDesc>Aktiviere/Deaktiviere Rudel. Gibt deinen Rudelmitgliedern Boosts! Für ein "volles" Erlebnis empfohlen.</PacksDesc>
-  <!-- <MaxPackSize>Maximum pack size: </MaxPackSize> -->
-  <MaxPackSize>Maximale Rudelgröße: </MaxPackSize>
-  <!-- <RacesInPacks>Races in packs:</RacesInPacks> -->
-  <RacesInPacks>Spezies in Rudeln:</RacesInPacks>
+  <!-- <MaxPackSize>Maximum pack size: {COUNT}</MaxPackSize> -->
+  <MaxPackSize>Maximale Rudelgröße: {COUNT}</MaxPackSize>
   
   <!-- Gameplay -->
 
@@ -71,10 +69,10 @@
   <AirdropsText>Luftkapseln aktivieren:</AirdropsText>
   <!-- <AirdropsLabel>Enables/disables the Illuminate airdrop event. \nThis event adds the "Illuminate Nexus Connection".</AirdropsLabel> -->
   <AirdropsLabel>Aktiviert/Deaktiviert das Illuminate Luftkapsel-Event. \nDieses Event fügt die "Illuminate Nexus Verbindung" hinzu.</AirdropsLabel>
-  <!-- <AvaliForDropReq>Avali required for airdrop: </AvaliForDropReq> -->
-  <AvaliForDropReq>Benötigte Avali für Luftkapsel: </AvaliForDropReq>
-  <!-- <HPScaler>HP Scale: </HPScaler> -->
-  <HPScaler>HP Skalierung: </HPScaler>
+  <!-- <AvaliForDropReq>Avali required for airdrop: {COUNT}</AvaliForDropReq> -->
+  <AvaliForDropReq>Benötigte Avali für Luftkapsel: {COUNT}</AvaliForDropReq>
+  <!-- <HPScaler>HP Scale: {SCALE}</HPScaler> -->
+  <HPScaler>HP Skalierung: {SCALE}</HPScaler>
   
   <!-- Stability warn -->
 
@@ -91,8 +89,8 @@
   <DebugLabel>Debug- und erweiterte Einstellungen.</DebugLabel>
   <!-- <ToggleDebug>Toggle debug mode</ToggleDebug> -->
   <ToggleDebug>Debug Modus umschalten</ToggleDebug>
-  <!-- <RVBuild>RimVali build: </RVBuild> -->
-  <RVBuild>RimVali build: </RVBuild>
+  <!-- <RVBuild>RimVali build: {BUILD}</RVBuild> -->
+  <RVBuild>RimVali build: {BUILD}</RVBuild>
   
   <!-- Events -->
   <!-- Letters -->
@@ -103,19 +101,10 @@
   <IlluminateAirdrop>Illuminate-Luftkapsel</IlluminateAirdrop>
   <!-- <AirdropEventDesc>An Illuminate airdrop has landed nearby!</AirdropEventDesc> -->
   <AirdropEventDesc>Eine Illuminate-Luftkapsel ist in der Nähe gelandet!</AirdropEventDesc>
-  <!-- <IlluminateAirdropSendStart>An Illuminate airdrop is en route! It will land in: </IlluminateAirdropSendStart> -->
-  <IlluminateAirdropSendStart>Eine Illuminate-Luftkapsel ist auf dem Weg! Es wird landen in: </IlluminateAirdropSendStart>
-  <!-- <IlluminateAirdropSendEnd>hours! Be prepared!</IlluminateAirdropSendEnd> -->
-  <IlluminateAirdropSendEnd>stunden! Sei darauf vorbereitet!</IlluminateAirdropSendEnd>
+  <!-- <IlluminateAirdropSend>An Illuminate airdrop is en route! It will land in: {TIME} hours! Be prepared!</IlluminateAirdropSend> -->
+  <IlluminateAirdropSend>Eine Illuminate-Luftkapsel ist auf dem Weg! Es wird in {TIME} Stunden landen! Sei darauf vorbereitet!</IlluminateAirdropSend>
   <!-- <AirdropSendMsg>Airdrop en route</AirdropSendMsg> -->
-  <AirdropSendMsg>Luftkapsel ist auf dem Weg</AirdropSendMsg>
-  
-  <!-- Alerts -->
-
-  <!-- <AirdropInStart>Airdrop arrives in:</AirdropInStart> -->
-  <AirdropInStart>Luftkapsel landet in:</AirdropInStart>
-  <!-- <AirdropInEnd>hours!</AirdropInEnd> -->
-  <AirdropInEnd>stunden!</AirdropInEnd>
+  <AirdropSendMsg>Luftkapsel ist auf dem Weg!</AirdropSendMsg>
 
   <!-- Slots -->
 
@@ -131,12 +120,12 @@
   
   <!-- RVR -->
 
-  <!-- <CannotWear>can't wear this</CannotWear> -->
-  <CannotWear>kann dies nicht tragen</CannotWear>
-  <!-- <CannotBuild>can't build this</CannotBuild> -->
-  <CannotBuild>kann dies nicht bauen</CannotBuild>
-  <!-- <CannotEat>can't eat this</CannotEat> -->
-  <CannotEat>kann das nicht essen</CannotEat>
+  <!-- <CannotWear>{RACE} can't wear this</CannotWear> -->
+  <CannotWear>{RACE} kann dies nicht tragen</CannotWear>
+  <!-- <CannotBuild>{RACE} can't build this</CannotBuild> -->
+  <CannotBuild>{RACE} kann dies nicht bauen</CannotBuild>
+  <!-- <CannotEat>{RACE} can't eat this</CannotEat> -->
+  <CannotEat>{RACE} kann das nicht essen</CannotEat>
   
   <!-- Jobs -->
   <!-- <RefuelThing>Refuel {1_labelShort}</RefuelThing> -->
