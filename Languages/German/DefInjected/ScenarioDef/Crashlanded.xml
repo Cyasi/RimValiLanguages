@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- <RimValiScenario.label>Illuminate Colony</RimValiScenario.label> -->
-  <RimValiScenario.label>Illuminate Kolonie</RimValiScenario.label>
+  <RimValiScenario.label>Kolonie der Illuminate</RimValiScenario.label>
   <!-- <RimValiScenario.description>A colony, sent by the Illuminate. But not even the other Illuminate colonies will neccessarily like you..</RimValiScenario.description> -->
   <RimValiScenario.description>Eine von den Illuminate ausgesandte Kolonie. Nicht alle von den Illiminate ausgesandten Kolonien sind dir gegenüber freundlich gesinnt..</RimValiScenario.description>
   <!-- <RimValiScenario.scenario.name>Illuminate Colony</RimValiScenario.scenario.name> -->
-  <RimValiScenario.scenario.name>Illuminate Kolonie</RimValiScenario.scenario.name>
+  <RimValiScenario.scenario.name>Kolonie der Illuminate</RimValiScenario.scenario.name>
   <!-- <RimValiScenario.scenario.summary>Similar to the classic rimworld experience, but with avali.</RimValiScenario.scenario.summary> -->
   <RimValiScenario.scenario.summary>Vergleichbar mit der klassischen Rimworld Version, hier mit Avali.</RimValiScenario.scenario.summary>
   <!-- <RimValiScenario.scenario.description>Your pack has been sent by the Illuminate to colonize this planet. Everything is going as planned... so far. You'll start with a small amount of resources, but scans indicate this planet is resource-plenty. Good luck!</RimValiScenario.scenario.description> -->
