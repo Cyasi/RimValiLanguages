@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- <AvaliBed.label>avali bed</AvaliBed.label> -->
-  <AvaliBed.label>Avali Bett</AvaliBed.label>
-  <!-- <AvaliBed.description>A soft cussion made for Avali to sleep on, it's a little too small for most other species.</AvaliBed.description> -->
-  <AvaliBed.description>Ein weiches Kissen, auf dem Avali schlafen können, für die meisten anderen Arten aber zu klein ist.</AvaliBed.description>
+  <!-- <AvaliPillowBed.label>avali bed</AvaliPillowBed.label> -->
+  <AvaliPillowBed.label>Avali Bett</AvaliPillowBed.label>
+  <!-- <AvaliPillowBed.description>A soft cussion made for Avali to sleep on, it's a little too small for most other species.</AvaliPillowBed.description> -->
+  <AvaliPillowBed.description>Ein weiches Kissen, auf dem Avali schlafen können, für die meisten anderen Arten aber zu klein ist.</AvaliPillowBed.description>
 
   <!-- <AvalipillowsOne.label>small pile of pillows</AvalipillowsOne.label> -->
   <AvalipillowsOne.label>kleiner Kissenhaufen</AvalipillowsOne.label>

@@ -6,10 +6,14 @@
   <PackTab>Rudel</PackTab>
   <!-- <Packmates>Packmates: </Packmates> -->
   <Packmates>Rudelmitglieder: </Packmates>
-  <!-- <PackNameLabel>Pack name</PackNameLabel> -->
-  <PackNameLabel>Name des Rudels</PackNameLabel>
+  <!-- <PackNameLabel>Pack name: {PACKNAME}</PackNameLabel> -->
+  <PackNameLabel>Name des Rudels:{PACKNAME}</PackNameLabel>
   <!-- <NoPack>This pawn is not in a pack.</NoPack> -->
   <NoPack>Dieses Mitglied ist nicht in einem Rudel.</NoPack>
+  <!-- <PackSpeciality>Pack speciality: {SPECIALITY}</PackSpeciality> -->
+  <PackSpeciality>Art des Rudels: {SPECIALITY}</PackSpeciality>
+  <!-- <PackEffects>Effects:</PackEffects> -->
+  <PackEffects>Effekte:</PackEffects>
   
   <!-- Settings -->
 
@@ -92,7 +96,6 @@
   <!-- <RVBuild>RimVali build: {BUILD}</RVBuild> -->
   <RVBuild>RimVali build: {BUILD}</RVBuild>
   
-  <!-- Events -->
   <!-- Letters -->
 
   <!-- <IlluminateFactionName>Illuminate colony</IlluminateFactionName> -->
@@ -105,18 +108,6 @@
   <IlluminateAirdropSend>Eine Illuminate-Luftkapsel ist auf dem Weg! Es wird in {TIME} Stunden landen! Sei darauf vorbereitet!</IlluminateAirdropSend>
   <!-- <AirdropSendMsg>Airdrop en route</AirdropSendMsg> -->
   <AirdropSendMsg>Luftkapsel ist auf dem Weg!</AirdropSendMsg>
-
-  <!-- Slots -->
-
-  <!-- <SlotsEnabled>Bionic slots:</SlotsEnabled> -->
-  <SlotsEnabled>Bionik Slots:</SlotsEnabled>
-  <!-- <SlotsLabel>Enables/Disables RimVali's bionic slots. \nThese mostly exist to help balance out the bionics in the mod. If you dont't like them, turn them off!</SlotsLabel> -->
-  <SlotsLabel>Aktiviert/Deaktiviert RimVali's Bionik Slots. \nSie existieren hauptsächtlich um die Bionik-Mechanismen in der Mod auszubalancieren. Wenn du das nicht willst, kannst du es hier ausschalten.</SlotsLabel>
-  
-  <!-- Slots in game -->
-
-  <!-- <SlotsUsed>Slots used</SlotsUsed> -->
-  <SlotsUsed>Verwendete Slots</SlotsUsed>
   
   <!-- RVR -->
 
