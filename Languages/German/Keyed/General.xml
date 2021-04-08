@@ -7,7 +7,7 @@
   <!-- <Packmates>Packmates: </Packmates> -->
   <Packmates>Rudelmitglieder: </Packmates>
   <!-- <PackNameLabel>Pack name: {PACKNAME}</PackNameLabel> -->
-  <PackNameLabel>Name des Rudels:{PACKNAME}</PackNameLabel>
+  <PackNameLabel>Name des Rudels: {PACKNAME}</PackNameLabel>
   <!-- <NoPack>This pawn is not in a pack.</NoPack> -->
   <NoPack>Dieses Mitglied ist nicht in einem Rudel.</NoPack>
   <!-- <PackSpeciality>Pack speciality: {SPECIALITY}</PackSpeciality> -->

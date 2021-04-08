@@ -4,4 +4,29 @@
   <AvaliShootingPackBonus.label>Rudeleffekt</AvaliShootingPackBonus.label>
   <!-- <AvaliShootingPackBonus.description>Pack effect</AvaliShootingPackBonus.description> -->
   <AvaliShootingPackBonus.description>Rudeleffekt</AvaliShootingPackBonus.description>
+
+  <!-- <AvaliMeleePackBonus.label>Pack effect</AvaliMeleePackBonus.label> -->
+  <AvaliMeleePackBonus.label>Rudeleffekt</AvaliMeleePackBonus.label>
+  <!-- <AvaliMeleePackBonus.description>Pack effect</AvaliMeleePackBonus.description> -->
+  <AvaliMeleePackBonus.description>Rudeleffekt</AvaliMeleePackBonus.description>
+
+  <!-- <AvaliMiningPackBonus.label>Pack effect</AvaliMiningPackBonus.label> -->
+  <AvaliMiningPackBonus.label>Rudeleffekt</AvaliMiningPackBonus.label>
+  <!-- <AvaliMiningPackBonus.description>Pack effect</AvaliMiningPackBonus.description> -->
+  <AvaliMiningPackBonus.description>Rudeleffekt</AvaliMiningPackBonus.description>
+
+  <!-- <AvaliAnimalFarmingPackBonus.label>Pack effect</AvaliAnimalFarmingPackBonus.label> -->
+  <AvaliAnimalFarmingPackBonus.label>Rudeleffekt</AvaliAnimalFarmingPackBonus.label>
+  <!-- <AvaliAnimalFarmingPackBonus.description>Pack effect</AvaliAnimalFarmingPackBonus.description> -->
+  <AvaliAnimalFarmingPackBonus.description>Rudeleffekt</AvaliAnimalFarmingPackBonus.description>
+
+  <!-- <AvaliPlantFarmingPackBonus.label>Pack effect</AvaliPlantFarmingPackBonus.label> -->
+  <AvaliPlantFarmingPackBonus.label>Rudeleffekt</AvaliPlantFarmingPackBonus.label>
+  <!-- <AvaliPlantFarmingPackBonus.description>Pack effect</AvaliPlantFarmingPackBonus.description> -->
+  <AvaliPlantFarmingPackBonus.description>Rudeleffekt</AvaliPlantFarmingPackBonus.description>
+
+  <!-- <AvaliConstructionPackBonus.label>Pack effect</AvaliConstructionPackBonus.label> -->
+  <AvaliConstructionPackBonus.label>Rudeleffekt</AvaliConstructionPackBonus.label>
+  <!-- <AvaliConstructionPackBonus.description>Pack effect</AvaliConstructionPackBonus.description> -->
+  <AvaliConstructionPackBonus.description>Rudeleffekt</AvaliConstructionPackBonus.description>
 </LanguageData>
