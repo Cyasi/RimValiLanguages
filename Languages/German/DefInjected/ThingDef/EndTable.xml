@@ -4,9 +4,4 @@
   <IlluminateEndTable.label>Avali Beistelltisch</IlluminateEndTable.label>
   <!-- <IlluminateEndTable.description>An avali end table.</IlluminateEndTable.description> -->
   <IlluminateEndTable.description>Ein Avali Beistelltisch.</IlluminateEndTable.description>
-
-  <!-- <IlluminateEndTableLit.label>Avali end table (lit)</IlluminateEndTableLit.label> -->
-  <IlluminateEndTableLit.label>Avali Beistelltisch (leuchtend)</IlluminateEndTableLit.label>
-  <!-- <IlluminateEndTableLit.description>An avali end table.</IlluminateEndTableLit.description> -->
-  <IlluminateEndTableLit.description>Ein leuchtender Avali Beistelltisch.</IlluminateEndTableLit.description>
 </LanguageData>

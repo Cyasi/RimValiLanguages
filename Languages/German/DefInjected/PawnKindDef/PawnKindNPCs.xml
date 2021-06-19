@@ -39,18 +39,18 @@
   <!-- <AvaliTrader.labelFemalePlural>female Pack Traders</AvaliTrader.labelFemalePlural> -->
   <AvaliTrader.labelFemalePlural>weibliche Rudelhändlerinnen</AvaliTrader.labelFemalePlural>
 
-  <!-- <SoliderAvali.label>Avali Soilder</SoliderAvali.label> -->
-  <SoliderAvali.label>Avali Soldat</SoliderAvali.label>
-  <!-- <SoliderAvali.labelPlural>Avali Soilders</SoliderAvali.labelPlural> -->
-  <SoliderAvali.labelPlural>Avali Soldaten</SoliderAvali.labelPlural>
-  <!-- <SoliderAvali.labelMale>male Avali Soilder</SoliderAvali.labelMale> -->
-  <SoliderAvali.labelMale>männlicher Avali Soldat</SoliderAvali.labelMale>
-  <!-- <SoliderAvali.labelMalePlural>male Avali Soilders</SoliderAvali.labelMalePlural> -->
-  <SoliderAvali.labelMalePlural>männliche Avali Soldaten</SoliderAvali.labelMalePlural>
-  <!-- <SoliderAvali.labelFemale>female Avali Soilder</SoliderAvali.labelFemale> -->
-  <SoliderAvali.labelFemale>weibliche Avali Soldatin</SoliderAvali.labelFemale>
-  <!-- <SoliderAvali.labelFemalePlural>female Avali Soilders</SoliderAvali.labelFemalePlural> -->
-  <SoliderAvali.labelFemalePlural>weibliche Avali Soldatinnen</SoliderAvali.labelFemalePlural>
+  <!-- <SoldierAvali.label>Avali Soldier</SoldierAvali.label> -->
+  <SoldierAvali.label>Avali Soldat</SoldierAvali.label>
+  <!-- <SoldierAvali.labelPlural>Avali Soldiers</SoldierAvali.labelPlural> -->
+  <SoldierAvali.labelPlural>Avali Soldaten</SoldierAvali.labelPlural>
+  <!-- <SoldierAvali.labelMale>male Avali Soldier</SoldierAvali.labelMale> -->
+  <SoldierAvali.labelMale>männlicher Avali Soldat</SoldierAvali.labelMale>
+  <!-- <SoldierAvali.labelMalePlural>male Avali Soldiers</SoldierAvali.labelMalePlural> -->
+  <SoldierAvali.labelMalePlural>männliche Avali Soldaten</SoldierAvali.labelMalePlural>
+  <!-- <SoldierAvali.labelFemale>female Avali Soldier</SoldierAvali.labelFemale> -->
+  <SoldierAvali.labelFemale>weibliche Avali Soldatin</SoldierAvali.labelFemale>
+  <!-- <SoldierAvali.labelFemalePlural>female Avali Soldiers</SoldierAvali.labelFemalePlural> -->
+  <SoldierAvali.labelFemalePlural>weibliche Avali Soldatinnen</SoldierAvali.labelFemalePlural>
 
   <!-- <AvaliRocketeer.label>Avali Solider</AvaliRocketeer.label> -->
   <AvaliRocketeer.label>Avali Raketenwerfer</AvaliRocketeer.label>

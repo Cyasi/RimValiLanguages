@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- <AvaliPackBroken.degreeDatas.0.label>Pack broken</AvaliPackBroken.degreeDatas.0.label> -->
+  <AvaliPackBroken.degreeDatas.0.label>Gebrochenes Rudelmitglied</AvaliPackBroken.degreeDatas.0.label>
+  <!-- <AvaliPackBroken.degreeDatas.0.description>[PAWN_nameDef] has had a painful life, over and over again every pack they join has been destroyed, [PAWN_nameDef] has been so scarred by the repeated loss of their pack that they refuse to let themselves join another, even if otherwise willing.</AvaliPackBroken.degreeDatas.0.description> -->
+  <AvaliPackBroken.degreeDatas.0.description>[PAWN_nameDef] hat ein qualvolles Leben hinter sich, jedes Rudel dem [PAWN_pronoun] sich anschloss, wurde zerstört. [PAWN_nameDef] ist von diesen wiederholten Verlusten so gezeichnet, dass [PAWN_pronoun] sich nie wieder einem Rudel anschließen kann, selbst wenn [PAWN_pronoun] es je wieder wollte.</AvaliPackBroken.degreeDatas.0.description>
+
   <!-- <AvaliFireAfraid.degreeDatas.0.label>Avali (Transavalist/Fears fire)</AvaliFireAfraid.degreeDatas.0.label> -->
   <AvaliFireAfraid.degreeDatas.0.label>Avali (Transavalist/Fürchtet Feuer)</AvaliFireAfraid.degreeDatas.0.label>
   <!-- <AvaliFireAfraid.degreeDatas.0.description>[PAWN_nameDef] is an avali who fears fire and will not fight it, due to their natural fear of heat. They also like bionic body parts.</AvaliFireAfraid.degreeDatas.0.description> -->

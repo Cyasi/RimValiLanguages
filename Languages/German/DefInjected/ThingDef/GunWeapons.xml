@@ -81,8 +81,8 @@
 
   <!-- <AvaliSniperRifle.label>Illuminate Sniper Rifle</AvaliSniperRifle.label> -->
   <AvaliSniperRifle.label>Präzisionsgewehr (Illuminate)</AvaliSniperRifle.label>
-  <!-- <AvaliSniperRifle.description>A weapon perfect for picking off enemies at a distance.</AvaliSniperRifle.description> -->
-  <AvaliSniperRifle.description>Eine Waffe, die sich perfekt dafür eignet, Feinde aus großer Entfernung zu treffen.</AvaliSniperRifle.description>
+  <!-- <AvaliSniperRifle.description>A highly sophisticated weapon perfect for picking off enemies at a distance. The firepower required to fire a singleprojectile is so strong that the coils must be cooled with liquid helium at all times to prevent the weapon from exploding in its user's talons.</AvaliSniperRifle.description> -->
+  <AvaliSniperRifle.description>Eine hochentwickelte Waffe, perfekt um Feinde aus der Ferne zu erledigen. Die zum Abfeuern eines einzelnen Projektils erforderliche Feuerkraft ist so stark, dass die Spulen ständig mit flüssigem Helium gekühlt werden müssen. Dies verhindert, dass die Waffe in den Krallen des Benutzers explodiert.</AvaliSniperRifle.description>
   <!-- <AvaliSniperRifle.tools.0.label>stock</AvaliSniperRifle.tools.0.label> -->
   <AvaliSniperRifle.tools.0.label>Schaft</AvaliSniperRifle.tools.0.label>
   <!-- <AvaliSniperRifle.tools.1.label>barrel</AvaliSniperRifle.tools.1.label> -->

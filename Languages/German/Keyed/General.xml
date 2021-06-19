@@ -50,8 +50,16 @@
   <MultithreadingCheck>Multithreading aktiviert:</MultithreadingCheck>
   <!-- <MultiThreadingDesc>Enable/disable pack multithreading. [WARNING: RESTARTS THE GAME.]\nIt is recommended to have this enabled, as it reduces lag greatly. May cause issues with Dub's performance anaylzer.</MultiThreadingDesc> -->
   <MultiThreadingDesc>Aktiviere/Deaktiviere Multithreading. [ACHTUNG: STARTET DAS SPIEL NEU.]\nEs wird empfohlen dies zu aktivieren, da dadurch Lags deutlich reduziert werden. Kann zu Konflikten mit "Dub's performance anaylzer" führen.</MultiThreadingDesc>
+  <!-- <CanGetpackBroken>Can get pack broken trait:</CanGetpackBroken> -->
+  <CanGetpackBroken>Kann das "Gebrochenes Rudelmitglied"-Merkmal erhalten:</CanGetpackBroken>
+  <!-- <PackBrokenDesc>Can avali suffering pack loss get the pack broken trait?</PackBrokenDesc> -->
+  <PackBrokenDesc>Können Avali, die unter Rudelverlust leiden, das "Gebrochenes Rudelmitglied"-Merkmal erhalten?</PackBrokenDesc>
   <!-- <PacksCheck>Packs enabled:</PacksCheck> -->
   <PacksCheck>Rudel aktivieren:</PacksCheck>
+  <!-- <PackBrokenChance>Chance to get the pack broken trait every 3 days: {CHANCE}</PackBrokenChance> -->
+  <PackBrokenChance>Chance, alle 3 Tage das Merkmal "Gebrochenes Rudelmitglied" zu bekommen: {CHANCE}</PackBrokenChance>
+  <!-- <TicksBetweenPackUpdates>Ticks between pack updates:</TicksBetweenPackUpdates> -->
+  <TicksBetweenPackUpdates>Ticks zwischen Updates der Rudel:</TicksBetweenPackUpdates>
   <!-- <PacksDesc>Enable/disable packs. These give boosts to your pawns! Recommended for a "full" experience.</PacksDesc> -->
   <PacksDesc>Aktiviere/Deaktiviere Rudel. Gibt deinen Rudelmitgliedern Boosts! Für ein "volles" Erlebnis empfohlen.</PacksDesc>
   <!-- <MaxPackSize>Maximum pack size: {COUNT}</MaxPackSize> -->
@@ -79,6 +87,14 @@
   <HPScaler>HP Skalierung: {SCALE}</HPScaler>
   <!-- <ChanceToHackTech>Chance to hack tech: {CHANCE}</ChanceToHackTech> -->
   <ChanceToHackTech>Chance, Tech zu hacken: {CHANCE}</ChanceToHackTech>
+  <!-- <IlluminateAvaliMinTemp>Illuminate avali min temperature: </IlluminateAvaliMinTemp> -->
+  <IlluminateAvaliMinTemp>Illuminate Avali Min Temperatur: </IlluminateAvaliMinTemp>
+  <!-- <IlluminateAvaliMaxTemp>Illuminate avali max temperature: </IlluminateAvaliMaxTemp> -->
+  <IlluminateAvaliMaxTemp>Illuminate Avali Max Temperatur: </IlluminateAvaliMaxTemp>
+  <!-- <IWAvaliMinTemp>Independent worlds avali Min temperature: </IWAvaliMinTemp> -->
+  <IWAvaliMinTemp>Avali von den Unabhängigen Welten Min Temperatur: </IWAvaliMinTemp>
+  <!-- <IWAvaliMaxTemp>Independent worlds avali Max temperature: </IWAvaliMaxTemp> -->
+  <IWAvaliMaxTemp>Avali von den Unabhängigen Welten Max Temperatur: </IWAvaliMaxTemp>
   
   <!-- Stability warn -->
 
@@ -114,16 +130,7 @@
   <HackedProject>Erfolgreich gehacktes Projekt: {PROJECT}</HackedProject>
   <!-- <UnlockedResearch>Tech now researchable: {PROJECT}</UnlockedResearch> -->
   <UnlockedResearch>Tech jetzt erforschbar: {PROJECT}</UnlockedResearch>
-  
-  <!-- RVR -->
-
-  <!-- <CannotWearRVR>{RACE} can't wear this</CannotWearRVR> -->
-  <CannotWearRVR>{RACE} kann dies nicht tragen</CannotWearRVR>
-  <!-- <CannotBuildRVR>{RACE} can't build this</CannotBuildRVR> -->
-  <CannotBuildRVR>{RACE} kann dies nicht bauen</CannotBuildRVR>
-  <!-- <CannotEatRVR>{RACE} can't eat this</CannotEatRVR> -->
-  <CannotEatRVR>{RACE} kann das nicht essen</CannotEatRVR>
-  
+    
   <!-- Jobs -->
   <!-- <RefuelThing>Refuel {1_labelShort}</RefuelThing> -->
   <RefuelThing>Betanke {1_labelShort}</RefuelThing>
