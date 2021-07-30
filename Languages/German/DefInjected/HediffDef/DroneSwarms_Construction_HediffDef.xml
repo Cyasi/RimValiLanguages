@@ -2,6 +2,6 @@
 <LanguageData>
   <!-- <DroneConstruction.label>Micro drone swarm (Construction)</DroneConstruction.label> -->
   <DroneConstruction.label>Mikro-Drohnenschwarm (Konstruktion)</DroneConstruction.label>
-  <!-- <DroneConstruction.description>This augment produces a swarm of micro-drones, dedicated to assisting in one singular task. In this case, it's construction.</DroneConstruction.description> -->
-  <DroneConstruction.description>Dieses Augment produziert einen Schwarm von Mikro-Drohnen, dazu bestimmt bei einzelnen Aufgaben (Konstruktion) Unterstützung zu gewährleisten.</DroneConstruction.description>
+  <!-- <DroneConstruction.description>A pod containing a micro-drone swarm. When installed onto a pawn, they gain the ability to summon micro-drones from their body to assist them with certain tasks. Sadly enough these swarms are very resource intensive and as such can only be assigned to a singular task. This swarm has been made with Construction in mind.</DroneConstruction.description> -->
+  <DroneConstruction.description>Eine Kapsel mit einem Mikro-Drohnenschwarm. Wird dieses im Körper des Trägers installiert, erhält dieser die Fähigkeit die Mirko-Drohnen freizulassen, welche ihm bei bestimmten Aufgaben helfen. Leider sind diese Schwärme sehr Ressourcenlastig und können somit nur an eine bestimmte Aufgabe angepasst werden. Dieser Schwarm wurde auf handwerkliche Tätigkeiten spezialisiert.</DroneConstruction.description>
 </LanguageData>

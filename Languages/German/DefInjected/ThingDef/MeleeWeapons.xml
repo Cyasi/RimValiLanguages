@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- <AvaliScythe.label>Avali Scythe</AvaliScythe.label> -->
   <AvaliScythe.label>Avali-Sichel</AvaliScythe.label>
-  <!-- <AvaliScythe.description>A high tech scythe, complete with a built-in 3D function that keeps the blade from breaking.</AvaliScythe.description> -->
-  <AvaliScythe.description>Eine High-Tech-Sense mit integrierter 3D-Technologie, die verhindert, dass sich die Klinge abnutzt.</AvaliScythe.description>
+  <!-- <AvaliScythe.description>A high-tech Avali scythe. Unlike most Ferrogel weapons, this one’s blade isn’t actually supposed to break in the target. Despite this it still has an advanced printer in the blade’s base to replace it when it gets dull. Whilst its viability for actual combat is questionable, being attacked by this weapon is still going to deal great damage.</AvaliScythe.description> -->
+  <AvaliScythe.description>Eine Avali Hightech-Sense. Im Gegensatz zu den meisten Ferrogel-basierten Waffen, soll diese Klinge nicht gleich nach Gebrauch abbrechen. Dennoch ist ein fortschrittlicher Drucker an der Klingenbasis installiert, um die Klinge zu ersetzen, sobald sie stumpf wird. Obwohl die Eignung im tatsächlichen Kampf eher fragwürdig ist, wird ein Angriff hiermit trotzdem großen Schaden verursachen.</AvaliScythe.description>
   <!-- <AvaliScythe.tools.0.label>Avali Scythe Handle</AvaliScythe.tools.0.label> -->
   <AvaliScythe.tools.0.label>Griff</AvaliScythe.tools.0.label>
   <!-- <AvaliScythe.tools.1.label>Avali Scythe Blade</AvaliScythe.tools.1.label> -->
@@ -11,8 +11,8 @@
 
   <!-- <AvaliAxe.label>Avali Axe</AvaliAxe.label> -->
   <AvaliAxe.label>Avali-Axt</AvaliAxe.label>
-  <!-- <AvaliAxe.description>An axe similar to the viroblade, complete with a self-regenerating blade.</AvaliAxe.description> -->
-  <AvaliAxe.description>Eine Axt, die wie eine Viroklinge mit einer sich selbst regenerierenden Klinge ausgestattet ist.</AvaliAxe.description>
+  <!-- <AvaliAxe.description>A dangerous Avali battle axe. Truly meant for combat, this weapon uses vibrations to cut into the skin of the enemy, after multiple hits the blade will break off and stick in its target’s flesh before rapidly being reconstructed by the printer in its head. It is renowned for its brutality and the surprising force an Avali can strike down with it.</AvaliAxe.description> -->
+  <AvaliAxe.description>Eine gefährliche Kampfaxt der Avali. Die Bestimmung dieser Waffe liegt im Kampf; Durch die Verwendung von Vibrationen schneidet sie durch Haut wie Butter. Nach mehreren Schlägen bricht die Klinge ab und bleibt im Fleisch des Ziels stecken, bevor die Klinge rasch vom Drucker im Axtkopf nachgebildet wird. Diese Axt ist berüchtigt für die Brutalität und überraschende Stärke, die ein Avali damit aufbringen kann.</AvaliAxe.description>
   <!-- <AvaliAxe.tools.0.label>Avali axe Handle</AvaliAxe.tools.0.label> -->
   <AvaliAxe.tools.0.label>Griff</AvaliAxe.tools.0.label>
   <!-- <AvaliAxe.tools.1.label>Avali Axe Blade</AvaliAxe.tools.1.label> -->
@@ -20,8 +20,8 @@
 
   <!-- <AvaliKnife.label>Avali knife</AvaliKnife.label> -->
   <AvaliKnife.label>Avali-Messer</AvaliKnife.label>
-  <!-- <AvaliKnife.description>A minature viroblade. Good for cutting food and enemies!</AvaliKnife.description> -->
-  <AvaliKnife.description>Eine Miniatur-Viroklinge. Gut zum Schneiden von Lebensmitteln und Feinden!</AvaliKnife.description>
+  <!-- <AvaliKnife.description>A small Avali survival knife. Whilst primarily used together with its vibrating blade as a tool to cut food and small objects with, it is still a dangerous hold-out weapon, able to use its vibrating blade to cut through an enemy with ease and being able to reprint the blade when it shatters in the enemy or simply gets too dull with just the same amount of ease.</AvaliKnife.description> -->
+  <AvaliKnife.description>Ein kleines Überlebensmesser nach dem Stil der Avali. Während der Hauptnutzen im zerteilen von Fleisch und kleineren Dingen mithilfe der vibrierenden Klinge liegt, ist dieses unauffällige Messer dennoch eine gefährliche Waffe. Es ist in der Lage, mit Leichtigkeit durch das Fleisch der Feinde zu schneiden, dort abzubrechen und ebenso leicht die abgebrochene oder stumpfe Klinge neu zu reproduzieren.</AvaliKnife.description>
   <!-- <AvaliKnife.tools.0.label>Avali knife Handle</AvaliKnife.tools.0.label> -->
   <AvaliKnife.tools.0.label>Griff</AvaliKnife.tools.0.label>
   <!-- <AvaliKnife.tools.1.label>Avali Knife Blade</AvaliKnife.tools.1.label> -->
@@ -29,8 +29,8 @@
 
   <!-- <AvaliSpear.label>Avali Spear</AvaliSpear.label> -->
   <AvaliSpear.label>Avali-Speer</AvaliSpear.label>
-  <!-- <AvaliSpear.description>An avali spear. The handle has a built in 3D printer for the blade, using aerogel.</AvaliSpear.description> -->
-  <AvaliSpear.description>Ein Avali-Speer. Der Griff verfügt über einen eingebauten 3D-Drucker für die Ferrogel-Klinge.</AvaliSpear.description>
+  <!-- <AvaliSpear.description>An elegant and long Avali spear. Being popular for both the low amount of training required and the large amount of ferrogel able to be stored in it to reprint its head with. It is perhaps the most viable weapon to train beginners with but is also dangerous in the talons of masters with its sharp and explicitly fragile head.</AvaliSpear.description> -->
+  <AvaliSpear.description>Ein langer und eleganter Avali-Speer. Beliebt, sowohl aufgrund des geringen Trainingsaufwands des Anwenders, als auch wegen der großen Menge an Ferrogel, welches am Speerkopf aufbewahrt werden kann, um die Klinge neu zu drucken. Es ist vielleicht die praktikabelste Waffe, um Anfänger im Kampf zu trainieren, dennoch nehmen sich selbst die Meister im Umgang mit dieser Waffe vor der extrem scharfen und zerbrechlichen Klinge in Acht.</AvaliSpear.description>
   <!-- <AvaliSpear.tools.0.label>Avali Spear Handle</AvaliSpear.tools.0.label> -->
   <AvaliSpear.tools.0.label>Griff</AvaliSpear.tools.0.label>
   <!-- <AvaliSpear.tools.1.label>Avali Spear Blade</AvaliSpear.tools.1.label> -->
@@ -38,8 +38,8 @@
 
   <!-- <AvaliViroblade.label>Avali Viroblade</AvaliViroblade.label> -->
   <AvaliViroblade.label>Avali-Viroklinge</AvaliViroblade.label>
-  <!-- <AvaliViroblade.description>The most well known/"classic" Avali weapon, the viroblade is seen many places. Some variants of it are called a "singing" blade, named for the noise they make.</AvaliViroblade.description> -->
-  <AvaliViroblade.description>Die bekannteste Avali-Waffe, die Viroklinge, ist überall verbreitet. Einige Varianten werden auch "singende Klinge" genannt, benannt nach dem Geräusch, das sie machen, wenn man sie schwingt.</AvaliViroblade.description>
+  <!-- <AvaliViroblade.description>The renowned and highly iconic Avali sword. Perhaps it is the vibrating blade and the song-like hum it creates that makes it so popular. Or perhaps it is the splintering ferrogel blade instead, creating many deadly injuries. Whatever the reason may be, this blade has a legendary reputation and a bodycount to support it.</AvaliViroblade.description> -->
+  <AvaliViroblade.description>Eines der berühmten und ikonischen Schwerter der Avali. Vielleicht liegt es am liedhaften Summen, welches die vibrierende Klinge verursacht, das sie so beliebt macht. Oder vielleicht ist es die splitternde Ferrogel-Klinge, die am Feind oft tödliche Verletzungen hinterlässt. Was auch immer der Grund sein mag, diese Klinge hat einen legendären Ruf, bekräftigt durch die Anzahl der Toten, die dieses Schwert hinterlässt.</AvaliViroblade.description>
   <!-- <AvaliViroblade.tools.0.label>Avali Viroblade Handle</AvaliViroblade.tools.0.label> -->
   <AvaliViroblade.tools.0.label>Griff</AvaliViroblade.tools.0.label>
   <!-- <AvaliViroblade.tools.1.label>Avali Viroblade guard</AvaliViroblade.tools.1.label> -->

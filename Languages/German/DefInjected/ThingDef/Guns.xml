@@ -7,8 +7,8 @@
 
   <!-- <IWPistol.label>Independent Worlds Pistol</IWPistol.label> -->
   <IWPistol.label>Pistole (Unabhängige Welten)</IWPistol.label>
-  <!-- <IWPistol.description>An Independent Worlds avali pistol that is weak but fast to shoot. It's designed for an avali to use.</IWPistol.description> -->
-  <IWPistol.description>Eine Pistole der Avali von den Unabhängigen Welten, schwach aber mit recht hoher Feuerrate. Es ist für Avali konzipiert.</IWPistol.description>
+  <!-- <IWPistol.description>A simple non-Illuminate pistol. Whilst dealing less damage and having a slightly shorter range when compared to its Terran counterpart, it makes up for this by using coil technology for a better firing rate and more medium range viability.</IWPistol.description> -->
+  <IWPistol.description>Eine einfache, nicht-illuminatische Pistole. Während es im Vergleich zu terranischen Waffen weniger Schusskraft und eine etwas kleinere Reichweite besitzt, macht es dies, mithilfe von Coilgun-Technologie, durch eine höhere Feuerrate und bessere Genauigkeit auf mittlerer Entfernung wieder wett.</IWPistol.description>
   <!-- <IWPistol.tools.0.label>grip</IWPistol.tools.0.label> -->
   <IWPistol.tools.0.label>Griff</IWPistol.tools.0.label>
   <!-- <IWPistol.tools.1.label>barrel</IWPistol.tools.1.label> -->
@@ -19,18 +19,18 @@
   <!-- Semi-auto -->
 
   <!-- <IWSemiAutoBullet.label>Avali bullet</IWSemiAutoBullet.label> -->
-  <IWSemiAutoBullet.label>Avali-Halbautomatik-Kugel</IWSemiAutoBullet.label>
+  <IWSemiAutoBullet.label>Avali-Gefechtsgewehrkugel</IWSemiAutoBullet.label>
 
   <!-- <IWSemiAuto.label>Independent Worlds semi-auto rifle</IWSemiAuto.label> -->
-  <IWSemiAuto.label>Halbautomatisches Gewehr (Unabhängige Welten)</IWSemiAuto.label>
-  <!-- <IWSemiAuto.description>An Independent Worlds avali semi-auto rifle. It's designed for an avali to use, and offers a better fire rate then most Independent Worlds weapons.</IWSemiAuto.description> -->
-  <IWSemiAuto.description>Ein halbautomatisches Gewehr der Avali von den Unabhängigen Welten. Es ist für Avali konzipiert und verfügt über eine höhere Feuerrate, als andere Waffen von den Unabhängigen Welten.</IWSemiAuto.description>
+  <IWSemiAuto.label>Gefechtsgewehr (Unabhängige Welten)</IWSemiAuto.label>
+  <!-- <IWSemiAuto.description>A popular non-Illuminate battle rifle. The design of these simple rifles has quickly spread throughout the Rimworld to offer Avali both defensive and hunting capacities. Together with a regular old blowback-action design and its fast but small bullet, it brings a decent fire-rate and equally decent range to the table.</IWSemiAuto.description> -->
+  <IWSemiAuto.description>Ein gängiges Gefechtsgewehr der Unabhängigen Welten. Das Design dieses einfachen Gewehrs hat sich schnell über das gesamte Rimworld ausgebreitet, um Avali sowohl defensive, als auch aktiv jägerische Möglichkeiten zu bieten. Die Verwendung einer altmodischen Masseverschluss-Technik, zusammen mit relativ kleiner, schnellen Munition, ergibt eine anständige Feuerrate und gleichzeitig eine ordentliche Reichweite.</IWSemiAuto.description>
   <!-- <IWSemiAuto.tools.0.label>grip</IWSemiAuto.tools.0.label> -->
   <IWSemiAuto.tools.0.label>Griff</IWSemiAuto.tools.0.label>
   <!-- <IWSemiAuto.tools.1.label>barrel</IWSemiAuto.tools.1.label> -->
   <IWSemiAuto.tools.1.label>Lauf</IWSemiAuto.tools.1.label>
   <!-- <IWSemiAuto.verbs.Verb_Shoot.label>Independent Worlds semi-auto rifle</IWSemiAuto.verbs.Verb_Shoot.label> -->
-  <IWSemiAuto.verbs.Verb_Shoot.label>Halbautomatisches Gewehr (Unabhängige Welten)</IWSemiAuto.verbs.Verb_Shoot.label>
+  <IWSemiAuto.verbs.Verb_Shoot.label>Gefechtsgewehr (Unabhängige Welten)</IWSemiAuto.verbs.Verb_Shoot.label>
 
   <!-- Rifle -->
 
@@ -39,8 +39,8 @@
 
   <!-- <IWRifle.label>Independent Worlds rifle</IWRifle.label> -->
   <IWRifle.label>Gewehr (Unabhängige Welten)</IWRifle.label>
-  <!-- <IWRifle.description>An Independent Worlds avali rifle. Compared to its semi-auto conterpart, this Rifle is more accurate and deadly given distance but much slower.</IWRifle.description> -->
-  <IWRifle.description>Ein Gewehr der Avali von den Unabhängigen Welten. Im Vergleich zu seinem halbautomatischen Gegenstück ist dieses Gewehr genauer und tödlicher, aber auch viel langsamer.</IWRifle.description>
+  <!-- <IWRifle.description>A bolt-action non-Illuminate rifle. Whilst this weapon has a lower fire-rate when compared to its semi-auto packmate, it quickly proves itself when competing for range and accuracy against it. This causes the weapon to still attract Avali sharpshooters that seek something reliable and simple to arm themselves with.</IWRifle.description> -->
+  <IWRifle.description>Ein Repetiergewehr der Avali von den Unabhängigen Welten. Während diese Waffe im Vergleich zu ihrem halbautomatischem Gegenstück eine geringere Feuerrate aufweist, beweist sie sich schnell im Wettbewerb um Reichweite und Genauigkeit. Dies führt dazu, dass Avali-Scharfschützen, die etwas Zuverlässigeres und Einfacheres suchen, diese Waffe oft vorziehen.</IWRifle.description>
   <!-- <IWRifle.tools.0.label>grip</IWRifle.tools.0.label> -->
   <IWRifle.tools.0.label>Griff</IWRifle.tools.0.label>
   <!-- <IWRifle.tools.1.label>barrel</IWRifle.tools.1.label> -->
@@ -51,18 +51,18 @@
   <!-- Assault Rifle -->
 
   <!-- <IWAssaultRifleBullet.label>Avali bullet</IWAssaultRifleBullet.label> -->
-  <IWAssaultRifleBullet.label>Avali-Gefechtsgewehrkugel</IWAssaultRifleBullet.label>
+  <IWAssaultRifleBullet.label>Avali-Sturmgewehrkugel</IWAssaultRifleBullet.label>
 
   <!-- <IWAssaultRifle.label>Independent Worlds battle rifle</IWAssaultRifle.label> -->
-  <IWAssaultRifle.label>Gefechtsgewehr (Unabhängige Welten)</IWAssaultRifle.label>
-  <!-- <IWAssaultRifle.description>An Independent Worlds avali battle rifle.</IWAssaultRifle.description> -->
-  <IWAssaultRifle.description>Ein Gefechtsgewehr der Avali von den Unabhängigen Welten.</IWAssaultRifle.description>
+  <IWAssaultRifle.label>Sturmgewehr (Unabhängige Welten)</IWAssaultRifle.label>
+  <!-- <IWAssaultRifle.description>A non-Illuminate assault rifle. Choosing fire-power over accuracy, this weapon releases a burst of four shots before the user has to zero in again due to recoil. Whilst it doesn’t receive the same love from Avali sharpshooters that the other rifles receive, it certainly finds its favour by Avali who prefer more suppressing fire.</IWAssaultRifle.description> -->
+  <IWAssaultRifle.description>Ein nicht-illuminatisches Sturmgewehr. Anwender dieser Waffe bevorzugen Feuerkraft über Genauigkeit. Nach jedem Abfeuern eines Stoßes aus 4 Schüssen muss sich der Anwender, aufgrund des starken Rückstoßes, neu auf das Ziel ausrichten. Obwohl bei den meisten Avali-Scharfschützen nicht die gleiche Begeisterung wie bei anderen Gewehren aufkommt, findet es besonders bei den Avali anklang, die ein eher unterdrückendes Gefechtsfeuer bevorzugen.</IWAssaultRifle.description>
   <!-- <IWAssaultRifle.tools.0.label>grip</IWAssaultRifle.tools.0.label> -->
   <IWAssaultRifle.tools.0.label>Griff</IWAssaultRifle.tools.0.label>
   <!-- <IWAssaultRifle.tools.1.label>barrel</IWAssaultRifle.tools.1.label> -->
   <IWAssaultRifle.tools.1.label>Lauf</IWAssaultRifle.tools.1.label>
   <!-- <IWAssaultRifle.verbs.Verb_Shoot.label>Independent Worlds battle rifle</IWAssaultRifle.verbs.Verb_Shoot.label> -->
-  <IWAssaultRifle.verbs.Verb_Shoot.label>Gefechtsgewehr (Unabhängige Welten)</IWAssaultRifle.verbs.Verb_Shoot.label>
+  <IWAssaultRifle.verbs.Verb_Shoot.label>Sturmgewehr (Unabhängige Welten)</IWAssaultRifle.verbs.Verb_Shoot.label>
 
   <!-- MG -->
 
@@ -71,8 +71,8 @@
 
   <!-- <IWMachineGun.label>Independent Worlds light machine gun</IWMachineGun.label> -->
   <IWMachineGun.label>Leichtes Maschinengewehr (Unabhängige Welten)</IWMachineGun.label>
-  <!-- <IWMachineGun.description>An Independent Worlds avali machine gun.</IWMachineGun.description> -->
-  <IWMachineGun.description>Ein Maschinengewehr der Avali von den Unabhängigen Welten.</IWMachineGun.description>
+  <!-- <IWMachineGun.description>A rapid-fire non-Illuminate LMG. Throwing away more popular doctrines of accuracy and controllability. This weapon is capable of firing enough projectiles to make a certain area wholly suppressed. Whilst it certainly has this high fire-power, this comes at the expense of the Avali wielder who needs time to zero it in again after usage.</IWMachineGun.description> -->
+  <IWMachineGun.description>Ein nicht-illuminatisches leichtes Schnellfeuer-Maschinengewehr. Mit dieser Waffe werden viele bekannte Lehren über Genauigkeit und Kontrollierbarkeit über den Haufen geworfen. Sie ist in der Lage, genügend Projektile abzufeuern, um einen bestimmten Bereich vollständig niederzuhalten. Obwohl, oder eher gerade aufgrund der hohen Feuerrate, muss sich der Anwender nach jedem Abfeuern erst wieder neu ausrichten.</IWMachineGun.description>
   <!-- <IWMachineGun.tools.0.label>grip</IWMachineGun.tools.0.label> -->
   <IWMachineGun.tools.0.label>Griff</IWMachineGun.tools.0.label>
   <!-- <IWMachineGun.tools.1.label>barrel</IWMachineGun.tools.1.label> -->
@@ -87,8 +87,8 @@
 
   <!-- <IW_GPMG.label>Independent Worlds machine gun</IW_GPMG.label> -->
   <IW_GPMG.label>Universalmaschinengewehr (Unabhängige Welten)</IW_GPMG.label>
-  <!-- <IW_GPMG.description>An Independent Worlds avali general purpose machine gun. Once aimed, the gun takes a short while to power up.</IW_GPMG.description> -->
-  <IW_GPMG.description>Ein Universalmaschinengewehr der Avali von den Unabhängigen Welten. Nach dem Zielen dauert es eine Weile, bis die Waffe einsatzbereit ist.</IW_GPMG.description>
+  <!-- <IW_GPMG.description>A more general purpose non-Illuminate machine gun. When compared to its lighter packmate, this machine gun already comes with more accuracy and a heavier bullet. Whilst this may be the case, it generally has less range compared to it and the advised burst is also lowered for more controllability.</IW_GPMG.description> -->
+  <IW_GPMG.description>Ein Universalmaschinengewehr von den Unabhängigen Welten. Verglichen mit ihrem leichteren Gegenstück, kommt mit diesem Maschinengewehr eine höhere Genauigkeit, sowie schwerere Munition zum Einsatz. Dafür ist die Reichweite und die abgefeuerte Salve verringert, um die Kontrollierbarkeit zu erhöhen.</IW_GPMG.description>
   <!-- <IW_GPMG.tools.0.label>grip</IW_GPMG.tools.0.label> -->
   <IW_GPMG.tools.0.label>Griff</IW_GPMG.tools.0.label>
   <!-- <IW_GPMG.tools.1.label>barrel</IW_GPMG.tools.1.label> -->
@@ -103,8 +103,8 @@
 
   <!-- <IWSMG.label>Independent Worlds sub-machine gun</IWSMG.label> -->
   <IWSMG.label>Maschinenpistole (Unabhängige Welten)</IWSMG.label>
-  <!-- <IWSMG.description>An Independent Worlds avali sub-machine gun.</IWSMG.description> -->
-  <IWSMG.description>Eine Maschinenpistole der Avali von den Unabhängigen Welten.</IWSMG.description>
+  <!-- <IWSMG.description>A regular old non-Illuminate SMG. Whilst generally better in close quarters or when closing in on your target, its fire-rate is the thing that makes up for this fact. This weapon is best used in shorter ranges or maybe just a way to protect yourself from melee based attackers, or an alternative to melee attacks of your own.</IWSMG.description> -->
+  <IWSMG.description>Eine altmodische Maschinenpistole. Den vergleichsweise besten Nutzen hat diese Waffe in engen Räumen oder wenn das Ziel recht nahe ist, den Ausgleich dazu macht jedoch die Feuerrate. Am besten verwendet in kurzer Reichweite, wenn der Anwender sich vor Nahkampfangriffen schützen will.. oder alternativ um selbst in den Nahkampf überzugehen.</IWSMG.description>
   <!-- <IWSMG.tools.0.label>grip</IWSMG.tools.0.label> -->
   <IWSMG.tools.0.label>Griff</IWSMG.tools.0.label>
   <!-- <IWSMG.tools.1.label>barrel</IWSMG.tools.1.label> -->
@@ -119,8 +119,8 @@
 
   <!-- <IWRailRifle.label>Independent Worlds rail rifle</IWRailRifle.label> -->
   <IWRailRifle.label>Schienengewehr (Unabhängige Welten)</IWRailRifle.label>
-  <!-- <IWRailRifle.description>The only Independent Worlds weapon that doesn't use a traditional firing mechanism, the Rail Rifle is the best of its line for dealing with armored targets.</IWRailRifle.description> -->
-  <IWRailRifle.description>Als einzige Waffe der Unabhängigen Welten, welche keinen traditionellen Schussmechanismus verwendet, ist das Schienengewehr das beste seiner Art für den Umgang mit gepanzerten Zielen.</IWRailRifle.description>
+  <!-- <IWRailRifle.description>A non-Illuminate Anti-Tank rail rifle. Together with its lengthy coil system and its dense projectile, this rifle will punch a hole through most armoured targets and will do the same to unarmoured targets — with overpenetration, mind you.</IWRailRifle.description> -->
+  <IWRailRifle.description>Eine nicht-illuminatisches Panzerabwehr-Schienengewehr. Mit seinem weitläufigen Coilgun-System und seinem kompakten Projektil, kann dieses Gewehr ein Loch in die meisten gepanzerten Ziele schlagen, ebenso wie in ungepanzerte - wenn du es mal wirklich übertreiben willst.</IWRailRifle.description>
   <!-- <IWRailRifle.tools.0.label>grip</IWRailRifle.tools.0.label> -->
   <IWRailRifle.tools.0.label>Griff</IWRailRifle.tools.0.label>
   <!-- <IWRailRifle.tools.1.label>barrel</IWRailRifle.tools.1.label> -->
@@ -135,8 +135,8 @@
 
   <!-- <IWRevolver.label>Independent Worlds revolver</IWRevolver.label> -->
   <IWRevolver.label>Revolver (Unabhängige Welten)</IWRevolver.label>
-  <!-- <IWRevolver.description>An Independent Worlds avali revolver.</IWRevolver.description> -->
-  <IWRevolver.description>Ein Revolver der Avali von den Unabhängigen Welten.</IWRevolver.description>
+  <!-- <IWRevolver.description>A Terran influenced non-Illuminate revolver. Despite its non-Avali nature, this cylinder shooter still shouldn’t be mistaken for a kit’s toy to the same kin that designed it. Sporting short range accuracy and a punchy bullet, it’s a good weapon for an Avali that wants an easy to both maintain and make weapon.</IWRevolver.description> -->
+  <IWRevolver.description>Ein Revolver von den Unabhängigen Welten im terranischen Stil. Obwohl der Stil nicht dem der Avali entspricht, sollte diese Schusstrommel auf keinen Fall mit dem Kinderspielzeug verwechselt werden, nach dem es designed wurde! Mit seiner recht guten Genauigkeit auf kurzer Distanz und einer schlagkräftigen Kugel ist es eine gute Waffe für einen Avali, der eine einfach herzustellende und leicht zu wartende Waffe möchte.</IWRevolver.description>
   <!-- <IWRevolver.tools.0.label>grip</IWRevolver.tools.0.label> -->
   <IWRevolver.tools.0.label>Griff</IWRevolver.tools.0.label>
   <!-- <IWRevolver.tools.1.label>barrel</IWRevolver.tools.1.label> -->

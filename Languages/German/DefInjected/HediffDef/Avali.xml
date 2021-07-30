@@ -12,9 +12,9 @@
   <AvaliBiologyControl.comps.1.showText.2.textToShow>piep</AvaliBiologyControl.comps.1.showText.2.textToShow>
   
   <!-- <AmmoniaBurn.label>Ammonia Burn</AmmoniaBurn.label> -->
-  <AmmoniaBurn.label>Ammoniak Verbrennung</AmmoniaBurn.label>
-  <!-- <AmmoniaBurn.description>A "burn" caused by exposure to ammonia.</AmmoniaBurn.description> -->
-  <AmmoniaBurn.description>Eine "Verbrennung", ausgelöst durch den Kontakt mit Ammoniak.</AmmoniaBurn.description>
+  <AmmoniaBurn.label>Ammoniakverbrennung</AmmoniaBurn.label>
+  <!-- <AmmoniaBurn.description>A chemical or frostburn caused by the contact of ammonia with the skin of this pawn due to both its coldness and its high pH levels. These burns are quite dangerous and should be treated lest they become permanent.</AmmoniaBurn.description> -->
+  <AmmoniaBurn.description>Eine chemische und/oder kältebedingte Verbrennung durch den Kontakt der Haut mit Ammoniak, die durch dessen Kälte und hohen pH-Wertes verursacht wird. Diese Art Verbrennung ist ziemlich gefährlich und sollte schnellstmöglichst behandelt werden, um permanenten Verletzungen vorzubeugen.</AmmoniaBurn.description>
   <!-- <AmmoniaBurn.comps.0.labelTendedWell>bandaged</AmmoniaBurn.comps.0.labelTendedWell> -->
   <AmmoniaBurn.comps.0.labelTendedWell>bandagiert</AmmoniaBurn.comps.0.labelTendedWell>
   <!-- <AmmoniaBurn.comps.0.labelTendedWellInner>tended</AmmoniaBurn.comps.0.labelTendedWellInner> -->
@@ -30,8 +30,8 @@
   
   <!-- <AmmoniaPoisoning.label>Ammonia poisoning</AmmoniaPoisoning.label> -->
   <AmmoniaPoisoning.label>Ammoniakvergiftung</AmmoniaPoisoning.label>
-  <!-- <AmmoniaPoisoning.description>Ammonia in the blood stream. Ammonia is toxic to most, if not all earth-like organisms, and can cause several health issues.</AmmoniaPoisoning.description> -->
-  <AmmoniaPoisoning.description>Ammoniak im Blutkreislauf. Ammoniak ist giftig für die meisten, wenn nicht für alle, erdähnlichen Organismen und kann mehrere ernsthafte, gesundheitliche Schäden verursachen.</AmmoniaPoisoning.description>
+  <!-- <AmmoniaPoisoning.description>Unfortunately for water-based lifeforms, liquid ammonia is quite soluble, creating a highly basic solution in this pawn’s bloodstream and poisoning them from the inside out. If the liver gets overwhelmed and cannot filter the amounts of ammonia in the blood, the pawn will surely succumb to the toxicity of this solution.</AmmoniaPoisoning.description> -->
+  <AmmoniaPoisoning.description>Zum Leidwesen wasserbasierter Lebensformen ist flüssiges Ammoniak sehr gut löslich, wodurch eine sehr basische Lösung in deren Blutkreislauf entsteht und sie dadurch von innen nach außen hin vergiftet werden. Sobald die Leber mit der Giftmenge überfordert ist, wird der Betroffene dieser toxischen Lösung erliegen.</AmmoniaPoisoning.description>
   <!-- <AmmoniaPoisoning.stages.0.label>Initial poisoning</AmmoniaPoisoning.stages.0.label> -->
   <AmmoniaPoisoning.stages.0.label>Beginnend</AmmoniaPoisoning.stages.0.label>
   <!-- <AmmoniaPoisoning.stages.1.label>Initial</AmmoniaPoisoning.stages.1.label> -->

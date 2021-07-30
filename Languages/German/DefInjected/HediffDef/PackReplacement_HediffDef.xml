@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- <PackReplacementAI.label>Pack replacement AI</PackReplacementAI.label> -->
   <PackReplacementAI.label>Rudelersatz-AI</PackReplacementAI.label>
-  <!-- <PackReplacementAI.description>This augment prevents pack loss by simulating pack members, even if the pawn does not have any.</PackReplacementAI.description> -->
-  <PackReplacementAI.description>Dieses Augment verhindert die Folgen eines Rudelverlusts. Fehlende Rudelmitglieder werden simuliert, selbst wenn es kein Rudel gibt.</PackReplacementAI.description>
+  <!-- <PackReplacementAI.description>A pack replacement AI. This augment uses an advanced AI Persona Core and divides it into three outputs to simulate the sensation of having a pack. Whilst this augment does prevent packloss, the wearer loses out on the physical benefits of having a pack and the actual morality of installing this augment is disputed by many.</PackReplacementAI.description> -->
+  <PackReplacementAI.description>Eine Rudelersatz-KI. Dieses Augment verwendet einen fortschrittlichen Persona-Kern, welcher in drei Outputs aufgeteilt wird, um dem Träger das Gefühl eines Rudels zu vermitteln. Während diese KI dem Verlust des Rudels entgegenwirkt, verliert der Träger die physischen Vorteile eines Rudels und die tatsächliche Ethik der Installation dieser KI ist von vielen Avali umstritten.</PackReplacementAI.description>
   <!-- <PackReplacementAI.labelNoun>a pack replacement AI chip</PackReplacementAI.labelNoun> -->
   <PackReplacementAI.labelNoun>ein Chip mit einer Rudelersatz-AI</PackReplacementAI.labelNoun>
 </LanguageData>

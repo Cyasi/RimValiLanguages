@@ -9,8 +9,8 @@
 
   <!-- <AvaliPistol.label>Illuminate Pistol</AvaliPistol.label> -->
   <AvaliPistol.label>Pistole (Illuminate)</AvaliPistol.label>
-  <!-- <AvaliPistol.description>A common Illuminate pistol. Unlike most human pistols, this gun uses coilgun technology to fire its bullets.</AvaliPistol.description> -->
-  <AvaliPistol.description>Eine gewöhnliche Illuminate-Pistole. Im Gegensatz zu den meisten von Menschen erstellten Pistolen verwendet diese Waffe Coilgun-Technologie, um ihre Kugeln abzufeuern.</AvaliPistol.description>
+  <!-- <AvaliPistol.description>A common Illuminate pattern pistol. Unlike its Terran counterparts this weapon uses coil-based acceleration. Whilst It has more accuracy and a shorter travel time than a Terran auto pistol, it hits with less power when compared to one.</AvaliPistol.description> -->
+  <AvaliPistol.description>Eine gewöhnliche Pistole nach Illuminate-Machart. Verglichen mit seinem terranischen Gegensatz verwendet diese Waffe Coilgun-basierte Beschleunigung. Sie erzielt zwar eine höhere Genauigkeit und eine kürzere Flugzeit der Munition als eine terranische Automatikpistole, hat jedoch im Vergleich dazu eine geringere Durchschlagskraft.</AvaliPistol.description>
   <!-- <AvaliPistol.tools.0.label>grip</AvaliPistol.tools.0.label> -->
   <AvaliPistol.tools.0.label>Griff</AvaliPistol.tools.0.label>
   <!-- <AvaliPistol.tools.1.label>barrel</AvaliPistol.tools.1.label> -->
@@ -27,8 +27,8 @@
 
   <!-- <AvaliSMG.label>Illuminate SMG</AvaliSMG.label> -->
   <AvaliSMG.label>Maschinenpistole (Illuminate)</AvaliSMG.label>
-  <!-- <AvaliSMG.description>A coilgun based SMG. It works best at medium-short ranges.</AvaliSMG.description> -->
-  <AvaliSMG.description>Eine Coilgun basierte MP. Funktioniert am besten bei kurzer bis mittlerer Entfernung.</AvaliSMG.description>
+  <!-- <AvaliSMG.description>A coil-based Illuminate SMG. Whilst it does theoretically have a better service range compared to its Terran counterparts, this weapon is best used for medium to short ranged engagements. Besides this fact, it still has two qualities that make it reliable — its accuracy and travel time.</AvaliSMG.description> -->
+  <AvaliSMG.description>Eine Coilgun basierte MP der Illuminate. Während es theoretisch eine höhere Reichweite erzielt als sein terranisches Gegenstück, findet diese Waffe auf mittlerer bis kurzer Distanz bessere Verwendung. Abgesehen davon besitzt diese MP zwei Qualitäten, die es für manche Avali unverzichtbar macht - seine Genauigkeit und die Schussgeschwindigkeit.</AvaliSMG.description>
   <!-- <AvaliSMG.tools.0.label>stock</AvaliSMG.tools.0.label> -->
   <AvaliSMG.tools.0.label>Schaft</AvaliSMG.tools.0.label>
   <!-- <AvaliSMG.tools.1.label>barrel</AvaliSMG.tools.1.label> -->
@@ -45,8 +45,8 @@
 
   <!-- <AvaliMinigun.label>Illuminate minigun</AvaliMinigun.label> -->
   <AvaliMinigun.label>Minigun (Illuminate)</AvaliMinigun.label>
-  <!-- <AvaliMinigun.description>An Illuminate minigun. Unlike most Illuminate technologies, it is not coilgun based.</AvaliMinigun.description> -->
-  <AvaliMinigun.description>Eine Minigun von den Illuminate. Im Gegensatz zu den meisten Waffen der Illuminate, basiert diese Waffe nicht auf Coilgun-Technologie.</AvaliMinigun.description>
+  <!-- <AvaliMinigun.description>An Illuminate pattern Minigun. When compared to other Illuminate weapons, it quickly becomes both different in design and function. Trading in accuracy for sheer overwhelming force and using classic chemical cartridges for propulsion instead of coil-based acceleration.</AvaliMinigun.description> -->
+  <AvaliMinigun.description>Eine Minigun nach Art der Illuminate. Verglichen mit anderen Illuminate-Waffen unterscheidet es sich sowohl in Design, als auch in Funktion. Im Austausch für Genauigkeit verfügt diese Waffe über überwältigende Kraft und verwendet statt der typischen Coilgun-basierten Beschleunigung einen klassischen chemischen Antrieb.</AvaliMinigun.description>
   <!-- <AvaliMinigun.tools.0.label>stock</AvaliMinigun.tools.0.label> -->
   <AvaliMinigun.tools.0.label>Schaft</AvaliMinigun.tools.0.label>
   <!-- <AvaliMinigun.tools.1.label>barrel</AvaliMinigun.tools.1.label> -->
@@ -63,8 +63,8 @@
 
   <!-- <AvaliRifle.label>Illuminate Rifle</AvaliRifle.label> -->
   <AvaliRifle.label>Gewehr (Illuminate)</AvaliRifle.label>
-  <!-- <AvaliRifle.description>A coilgun good for hunting, taking enemies out at some range, and things like that.</AvaliRifle.description> -->
-  <AvaliRifle.description>Eine Coilgun, die sich gut zum Jagen eignet, aber auch um Feinde aus guter Entfernung zu töten.</AvaliRifle.description>
+  <!-- <AvaliRifle.description>A common Illuminate pattern rifle. Praised by both soldiers and hunters for its reliability, it is practically standard issue for any weaponized operation. Its high range and very short travel time makes it perfect for picking off distant enemies.</AvaliRifle.description> -->
+  <AvaliRifle.description>Ein gewöhnliches Illuminate-Gewehr. Sowohl von Soldaten, als auch von Jägern gerühmt, stellt dieses Gewehr mitunter die Standardausrüstung für jede bewaffnete Operation dar. Seine hohe Reichweite und sehr schnelle Schussgeschwindigkeit machen es perfekt, um weit entfernte Ziele zu treffen.</AvaliRifle.description>
   <!-- <AvaliRifle.tools.0.label>stock</AvaliRifle.tools.0.label> -->
   <AvaliRifle.tools.0.label>Schaft</AvaliRifle.tools.0.label>
   <!-- <AvaliRifle.tools.1.label>barrel</AvaliRifle.tools.1.label> -->
@@ -81,8 +81,8 @@
 
   <!-- <AvaliSniperRifle.label>Illuminate Sniper Rifle</AvaliSniperRifle.label> -->
   <AvaliSniperRifle.label>Präzisionsgewehr (Illuminate)</AvaliSniperRifle.label>
-  <!-- <AvaliSniperRifle.description>A highly sophisticated weapon perfect for picking off enemies at a distance. The firepower required to fire a singleprojectile is so strong that the coils must be cooled with liquid helium at all times to prevent the weapon from exploding in its user's talons.</AvaliSniperRifle.description> -->
-  <AvaliSniperRifle.description>Eine hochentwickelte Waffe, perfekt um Feinde aus der Ferne zu erledigen. Die zum Abfeuern eines einzelnen Projektils erforderliche Feuerkraft ist so stark, dass die Spulen ständig mit flüssigem Helium gekühlt werden müssen. Dies verhindert, dass die Waffe in den Krallen des Benutzers explodiert.</AvaliSniperRifle.description>
+  <!-- <AvaliSniperRifle.description>A high-powered Illuminate pattern sniper rifle. This sophisticated weapon optimizes the use of Helium-cooling to keep its powerful and plentiful coils from overheating in it’s user’s talons. With its long range and powerful bullet, it is highly loved by Illuminate snipers for picking off high-value targets with.</AvaliSniperRifle.description> -->
+  <AvaliSniperRifle.description>Ein leistungsstarkes Illuminate-Präzisionsgewehr. Diese hochentwickelte Waffe verwendet speziell optimierte Helium-Kühlung, um seine leistungsstarken und reichlich vorhandenen Spulen in den Krallen des Anwenders vor dem überhitzen zu bewahren. Mit seiner hohen Reichweite und der guten Durchschlagskraft, ist diese Waffe fester Bestandteil der Ausrüstung von Avali-Scharfschützen, um hochwertige Ziele zu eliminieren.</AvaliSniperRifle.description>
   <!-- <AvaliSniperRifle.tools.0.label>stock</AvaliSniperRifle.tools.0.label> -->
   <AvaliSniperRifle.tools.0.label>Schaft</AvaliSniperRifle.tools.0.label>
   <!-- <AvaliSniperRifle.tools.1.label>barrel</AvaliSniperRifle.tools.1.label> -->
@@ -99,8 +99,8 @@
 
   <!-- <AvaliShotgun.label>Illuminate Shotgun</AvaliShotgun.label> -->
   <AvaliShotgun.label>Schrotflinte (Illuminate)</AvaliShotgun.label>
-  <!-- <AvaliShotgun.description>An Illuminate shotgun. Like almost all Illuminate weapons, it is based off coilgun technology, allowing for long range at the cost of short range accuracy.</AvaliShotgun.description> -->
-  <AvaliShotgun.description>Eine Schrotflinte nach Illuminate-Bauart. Wie fast alle Illuminate-Waffen verwendet auch diese Fernkampfwaffe Coilgun-Technologie, was ihr Langstreckenschüsse erlaubt, auf Kosten der Kurzstreckengenauigkeit.</AvaliShotgun.description>
+  <!-- <AvaliShotgun.description>An Illuminate Pattern shotgun. Together with its advanced coil technology and a simple choke at the end, it fires a highly concentrated wad of pellets towards its enemies. Whilst longer range than its Terran counterparts, it has to trade in short range usability to make this possible.</AvaliShotgun.description> -->
+  <AvaliShotgun.description>Eine Schrotflinte nach Art der Illuminate. Die fortgeschrittene Coilgun-Technologie, zusammen mit der einfachen Choke am Laufende sind in der Lage, eine hochkonzentrierte Menge an Pellets auf das Ziel abzugeben. Obgleich es eine höhere Reichweite als sein terranisches Gegenstück aufweisen kann, ist dies nur möglich auf Kosten der Nutzbarkeit auf kurzer Distanz.</AvaliShotgun.description>
   <!-- <AvaliShotgun.tools.0.label>stock</AvaliShotgun.tools.0.label> -->
   <AvaliShotgun.tools.0.label>Schaft</AvaliShotgun.tools.0.label>
   <!-- <AvaliShotgun.tools.1.label>barrel</AvaliShotgun.tools.1.label> -->
@@ -112,8 +112,8 @@
 
   <!-- <IlluminateRocketLauncher.label>Illuminate rocket launcher</IlluminateRocketLauncher.label> -->
   <IlluminateRocketLauncher.label>Raketenwerfer (Illuminate)</IlluminateRocketLauncher.label>
-  <!-- <IlluminateRocketLauncher.description>An Illuminate rocket launcher.</IlluminateRocketLauncher.description> -->
-  <IlluminateRocketLauncher.description>Ein Raketenwerfer von den Illuminate.</IlluminateRocketLauncher.description>
+  <!-- <IlluminateRocketLauncher.description>An Illuminate rocket launcher. Anti-Tank weapons are important in any war, and this rocket launcher is no different. Using a fin-stabilized system together with a small jet system, this rocket ensures you hit where you aim. Despite its good range, near-perfect accuracy and high-explosive payload, it fires a slow and easy to dodge projectile and should be used with good prior planning.</IlluminateRocketLauncher.description> -->
+  <IlluminateRocketLauncher.description>Ein illuminatischer Raketenwerfer. Panzerbrechende Waffen sind in jeder kriegerischen Auseinandersetzung unverzichtbar und dazu gehört auch dieser Raketenwerfer. Ein flossenstabilisiertes System in Kombination mit einem kleinen Jet-System stellen sicher, dass die Rakete dort ankommt wo der Anwender hin zielt. Trotz großer Reichweite, nahezu perfekter Treffsicherheit und hochexplosiver Fracht, fällt es dem Ziel aufgrund der langsamen Projektilgeschwindigkeit relativ leicht auszuweichen, deswegen sollte diese Waffe nur in Kombination mit einer guten Planung eingesetzt werden.</IlluminateRocketLauncher.description>
   <!-- <IlluminateRocketLauncher.tools.0.label>barrel</IlluminateRocketLauncher.tools.0.label> -->
   <IlluminateRocketLauncher.tools.0.label>Lauf</IlluminateRocketLauncher.tools.0.label>
   <!-- <IlluminateRocketLauncher.verbs.Verb_Shoot.label>Illuminate rocket launcher</IlluminateRocketLauncher.verbs.Verb_Shoot.label> -->

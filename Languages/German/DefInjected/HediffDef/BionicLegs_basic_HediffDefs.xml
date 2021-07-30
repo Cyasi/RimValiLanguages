@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- <AvaliBasicBionicLeg.label>Basic bionic leg</AvaliBasicBionicLeg.label> -->
   <AvaliBasicBionicLeg.label>Einfaches bionisches Bein</AvaliBasicBionicLeg.label>
-  <!-- <AvaliBasicBionicLeg.description>A baisc bionic avali leg.</AvaliBasicBionicLeg.description> -->
-  <AvaliBasicBionicLeg.description>Ein einfaches bionisches Bein.</AvaliBasicBionicLeg.description>
+  <!-- <AvaliBasicBionicLeg.description>A basic bionic Avali leg. It features a weak self repair system and mainly relies on established muscle cues for deciding how it should be moved around. Besides this, it is still an upgrade over its organic predecessor, if a minor one.</AvaliBasicBionicLeg.description> -->
+  <AvaliBasicBionicLeg.description>Ein einfaches bionisches Avali-Bein. Es verfügt über ein simples Selbstreparatur-System und verlässt sich hauptsächlich auf etablierte Muskelsignale, um zu entscheiden, wie es sich bewegen soll. Abgesehen davon ist es immer noch ein Upgrade gegenüber seinem organischen Vorgänger, wenn auch nur ein kleines.</AvaliBasicBionicLeg.description>
   <!-- <AvaliBasicBionicLeg.labelNoun>a basic bionic leg</AvaliBasicBionicLeg.labelNoun> -->
   <AvaliBasicBionicLeg.labelNoun>ein einfaches bionisches Bein</AvaliBasicBionicLeg.labelNoun>
 </LanguageData>

@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- <TailStiffeningAugment.label>Tail Stiffening augment</TailStiffeningAugment.label> -->
   <TailStiffeningAugment.label>Schweifverstärker-Augment</TailStiffeningAugment.label>
-  <!-- <TailStiffeningAugment.description>This augment modifies the tail with nanites, increasing its ability to take damage, but slightly slowing the being it is installed on.</TailStiffeningAugment.description> -->
-  <TailStiffeningAugment.description>Dieses Augment verändert den Schweif mithilfe Naniten, wodurch es nicht so leicht Schaden nimmt. Verlangsamt jedoch den Benutzer.</TailStiffeningAugment.description>
+  <!-- <TailStiffeningAugment.description>A tail stiffening augment. Making use of nanites, this augment will stiffen up the wearer’s tail. Said stiffening results in the tail being able to take more punishment and it can even be used as a blunt weapon. Unfortunately the stiffening also makes the tail harder to move, which results in the wearer having to spend more time keeping themselves balanced when moving.</TailStiffeningAugment.description> -->
+  <TailStiffeningAugment.description>Ein Schweifverstärker-Augment. Durch die Verwendung von Naniten wird der Schweif des Trägers verstärkt und gehärtet. Dadurch kann man mit dem Schweif mehr Schläge einstecken und ihn sogar als stumpfe Waffe verwenden. Leider führt diese Verhärtung auch zu deutlich weniger Beweglichkeit des Schweifs, was es dem Träger schwerer macht das Gleichgewicht beim Gehen zu halten.</TailStiffeningAugment.description>
   <!-- <TailStiffeningAugment.comps.0.tools.0.label>Tail</TailStiffeningAugment.comps.0.tools.0.label> -->
   <TailStiffeningAugment.comps.0.tools.0.label>Schweif</TailStiffeningAugment.comps.0.tools.0.label>
   <!-- <TailStiffeningAugment.labelNoun>a tail stiffening augement</TailStiffeningAugment.labelNoun> -->

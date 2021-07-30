@@ -2,11 +2,11 @@
 <LanguageData>
   <!-- <RimValiClothFeathers.label>Cloth arm feathers</RimValiClothFeathers.label> -->
   <RimValiClothFeathers.label>Stoff-Armfedern</RimValiClothFeathers.label>
-  <!-- <RimValiClothFeathers.description>Cloth arm feathers. A simple, easy replacement.</RimValiClothFeathers.description> -->
-  <RimValiClothFeathers.description>Stoff-Armfedern. Ein sehr einfacher Ersatz.</RimValiClothFeathers.description>
+  <!-- <RimValiClothFeathers.description>Cloth arm feathers. Whilst it will definitely never be the same as what it’s supposed to replace, these fake feathers will let an Avali keep some of their pride and can even be customized if they feel fit. As such it’s an acceptable replacement if they have lost said wing feathers.</RimValiClothFeathers.description> -->
+  <RimValiClothFeathers.description>Armfedern aus Stoff. Obwohl diese Stofffedern niemals richtige Armfedern ersetzen können, verbleibt dem betroffenen Avali hiermit immerhin ein Stückchen Würde. Außerdem können sie angepasst, gestutzt und gefärbt werden, wie es gefällt. Als solches ist es also ein akzeptabler Ersatz für die verlorenen echten Armfedern.</RimValiClothFeathers.description>
 
   <!-- <RimValiPegTail.label>Avali peg tail</RimValiPegTail.label> -->
-  <RimValiPegTail.label>Avali Ringelschwanz</RimValiPegTail.label>
-  <!-- <RimValiPegTail.description>A peg tail. The avali see it as a.. "interesting" replacement choice.</RimValiPegTail.description> -->
-  <RimValiPegTail.description>Ein Ringelschwanz. Für Avali ist dieser Ersatz eine eher.. "interessante" Wahl.</RimValiPegTail.description>
+  <RimValiPegTail.label>Avali-Ringelschwanz</RimValiPegTail.label>
+  <!-- <RimValiPegTail.description>An avali peg tail. Probably one of the more humiliating replacements, this peg tail lets an Avali keep some sort of balance when walking. No Avali will enjoy this bad excuse for a tail. But again—it keeps them balanced when walking.</RimValiPegTail.description> -->
+  <RimValiPegTail.description>Ein Avali Ringelschwanz. Vermutlich eines der beschämensten Ersatz-Gliedmaßen, hält dieser Ringelschwanz zumindest einen Teil der Balance beim Gehen. Kein Avali wird diese schlechte Ausrede für diesen Schweif wirklich gutheißen. Trotzdem - es hält das Gleichgewicht beim Gehen.</RimValiPegTail.description>
 </LanguageData>

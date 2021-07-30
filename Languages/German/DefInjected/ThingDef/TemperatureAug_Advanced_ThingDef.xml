@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- <AvaliAdvTempControl.label>Advanced Temperature Control Augment [TCA]</AvaliAdvTempControl.label> -->
-  <AvaliAdvTempControl.label>Fortschrittliches Temperaturkontroll-Augment [T.C.A]</AvaliAdvTempControl.label>
-  <!-- <AvaliAdvTempControl.description>This augment, sometimes refered to as a T.C.A, has the ability to assist in regulating the body temperature of Avali.</AvaliAdvTempControl.description> -->
-  <AvaliAdvTempControl.description>Dieses Augment, auch T.C.A (Temperature Control Augment) genannt, unterstützt stark die Regulierung der Körpertemperatur eines Avali.</AvaliAdvTempControl.description>
+  <!-- <AvaliAdvTempControl.label>Advanced T.C.A.</AvaliAdvTempControl.label> -->
+  <AvaliAdvTempControl.label>Fortschrittliches T.K.A.</AvaliAdvTempControl.label>
+  <!-- <AvaliAdvTempControl.description>An advanced Temperature Control Augment (or just TCA). This augment uses cooling and heating systems to regulate and keep the wearer within temperature ranges where the egg-whites won’t start decaying. This is the advanced version of it and is generally more reliable with regulating temperatures, but it isn’t powerful enough to deal with extremes.</AvaliAdvTempControl.description> -->
+  <AvaliAdvTempControl.description>Ein fortschrittliches Temperaturkontroll-Augment (auch T.K.A. genannt). Dieses Augment verwendet Kühl- und Hitzesysteme, um den Träger in einem angenehmen Temperaturbereich zu halten. Dies ist die fortschrittlichere und zuverlässigere Version, um die Temperatur zu regulieren, aber nicht leistungsstark genug, um extremeren Temperaturen entgegenzuwirken.</AvaliAdvTempControl.description>
 </LanguageData>

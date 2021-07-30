@@ -2,6 +2,6 @@
 <LanguageData>
   <!-- <DroneMining.label>Micro drone swarm (Mining)</DroneMining.label> -->
   <DroneMining.label>Mikro-Drohnenschwarm (Bergbau)</DroneMining.label>
-  <!-- <DroneMining.description>This augment produces a swarm of micro-drones, dedicated to assisting in one singular task. In this case, it's mining.</DroneMining.description> -->
-  <DroneMining.description>Dieses Augment produziert einen Schwarm von Mikro-Drohnen, dazu bestimmt bei einzelnen Aufgaben (Bergbau) Unterstützung zu gewährleisten.</DroneMining.description>
+  <!-- <DroneMining.description>A pod containing a micro-drone swarm. When installed onto a pawn, they gain the ability to summon micro-drones from their body to assist them with certain tasks. Sadly enough these swarms are very resource intensive and as such can only be assigned to a singular task. This swarm has been made with Mining in mind.</DroneMining.description> -->
+  <DroneMining.description>Eine Kapsel mit einem Mikro-Drohnenschwarm. Wird dieses im Körper des Trägers installiert, erhält dieser die Fähigkeit die Mirko-Drohnen freizulassen, welche ihm bei bestimmten Aufgaben helfen. Leider sind diese Schwärme sehr Ressourcenlastig und können somit nur an eine bestimmte Aufgabe angepasst werden. Dieser Schwarm wurde auf den Bergbau spezialisiert.</DroneMining.description>
 </LanguageData>

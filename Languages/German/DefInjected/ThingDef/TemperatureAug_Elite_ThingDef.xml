@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!-- <AvaliEliteTempControl.label>Elite Temperature Control Augment [TCA]</AvaliEliteTempControl.label> -->
-  <AvaliEliteTempControl.label>Elite Temperaturkontroll-Augment [T.C.A]</AvaliEliteTempControl.label>
-  <!-- <AvaliEliteTempControl.description>This augment, sometimes refered to as a T.C.A, has the ability to assist in regulating the body temperature of Avali.</AvaliEliteTempControl.description> -->
-  <AvaliEliteTempControl.description>Dieses Augment, auch T.C.A (Temperature Control Augment) genannt, unterstützt enorm die Regulierung der Körpertemperatur eines Avali.</AvaliEliteTempControl.description>
+  <!-- <AvaliEliteTempControl.label>Elite T.C.A.</AvaliEliteTempControl.label> -->
+  <AvaliEliteTempControl.label>Elite-T.K.A</AvaliEliteTempControl.label>
+  <!-- <AvaliEliteTempControl.description>An elite Temperature Control Augment (or just TCA). This augment uses cooling and heating systems to regulate and keep the wearer within temperature ranges where the egg-whites won’t start decaying. This is the elite version of it and is well equipped to assist the pawn in handling extreme temperatures. Because of this it’s also quite expensive, though.</AvaliEliteTempControl.description> -->
+  <AvaliEliteTempControl.description>Ein Elite-Temperaturkontroll-Augment (auch T.K.A. genannt). Dieses Augment verwendet Kühl- und Hitzesysteme, um den Träger in einem angenehmen Temperaturbereich zu halten. Dies ist die Elite-Version, mit allem ausgestattet, um den Träger selbst in extremen Temperaturen zuverlässig zur Seite zu stehen. Es ist deswegen aber auch recht teuer.</AvaliEliteTempControl.description>
 </LanguageData>
