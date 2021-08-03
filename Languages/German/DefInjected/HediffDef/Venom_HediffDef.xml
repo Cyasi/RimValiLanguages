@@ -2,8 +2,8 @@
 <LanguageData>
   <!-- <VenomTeeth.label>Venomous Teeth</VenomTeeth.label> -->
   <VenomTeeth.label>Giftzähne</VenomTeeth.label>
-  <!-- <VenomTeeth.description>This augment allows the avali it's installed on to inject a amount of venom when they bite a target. However, talking and eating become harder, as they must avoid triggering the mechanism.</VenomTeeth.description> -->
-  <VenomTeeth.description>Giftzähne setzen beim Biss eine gewisse Menge Gift frei. Allerdings ist der Auslöser des Mechanismus etwas fragil, wodurch die Sprech- und Essfähigkeit eines Avali eingeschränkt sind.</VenomTeeth.description>
+  <!-- <VenomTeeth.description>A kit of venomous teeth. This augment replaces some of the Avali’s fangs and connects them to a sac with dangerous toxins stored in it, allowing them to inject said toxin into any target they decide to bite. However, because Avali were never supposed to be venomous, it relies on a mechanical trigger and the wearer has to avoid accidentally triggering it, making both talking and eating harder.</VenomTeeth.description> -->
+  <VenomTeeth.description>Ein Satz hochgiftiger Zähne. Einige Reißzähne eines Avali werden hiermit ersetzt und mit einem Säckchen mit gefährlichem Gift darin verbunden, welches freigesetzt wird, sobald das Ziel gebissen wird. Da Avali jedoch nicht wirklich dafür gedacht sind giftig zu sein, ist ein mechanischer Auslöser nötig. Der Träger muss auf jeden Fall darauf achten, diesen Auslöser niemals versehentlich zu betätigen, was das Essen und Sprechen allerdings zu einer komplizierten Angelegenheit macht.</VenomTeeth.description>
   <!-- <VenomTeeth.comps.0.tools.0.label>Teeth</VenomTeeth.comps.0.tools.0.label> -->
   <VenomTeeth.comps.0.tools.0.label>Zähne</VenomTeeth.comps.0.tools.0.label>
   <!-- <VenomTeeth.labelNoun>a set of venomous teeth</VenomTeeth.labelNoun> -->

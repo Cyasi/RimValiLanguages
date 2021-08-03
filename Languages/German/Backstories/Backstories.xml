@@ -2,6 +2,21 @@
 <BackstoryTranslations>  
   <!-- Base Backstories -->
 
+  <!-- <AvaliRuffian>
+    <title>Ruffian</title>
+    <titleFemale></titleFemale>
+    <titleShort>Ruffian</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_NameDef] had always felt as if not all rules applied to them. Most of [PAWN_possessive] free time was spent along a thin line between legal and illegal be it through grifting valuable assets from notable personalities or having a small edge ahead of everyone else at the gambling table. It didn't take long for their acquired skills to evolve into a lifestyle and that lifestyle into a very real issue with the law. Eventually, [PAWN_pronoun] was forced to flee from their past actions and has found themselves on this planet. Their wild personality makes it very difficult for them to focus on a project for an extended period of time however.</desc>
+  </AvaliRuffian> -->
+  <AvaliRuffian>
+    <title>Rohling</title>
+    <titleFemale></titleFemale>
+    <titleShort>Rohling</titleShort>
+    <titleShortFemale></titleShortFemale>
+    <desc>[PAWN_NameDef] hatte immer schon das Gefühl, als ob nicht alle Regeln auf [PAWN_objective] zuträfen. Die meiste Zeit verbrachte [PAWN_pronoun] auf einem sehr schmalen Grat zwischen legalen und illegalen Aktivitäten. Das beinhaltete sowohl kleinere Diebstähle von bestimmten Personen, als auch ein kleiner Vorsprung am Spieltisch vor allen anderen. Es dauerte nicht lange, bis sich [PAWN_possessive]e erworbenen Fähigkeiten zu einem Lebensstil entwickelten und dieser Lebensstil zu einem sehr ernsthaften Problem mit dem Gesetz wurde. Schließlich war [PAWN_pronoun] gezwungen, vor [PAWN_possessive]en eigenen Taten zu fliehen und hat sich auf diesem Planeten wiedergefunden. Leider machte es [PAWN_NameDef]s wilde Persönlichkeit schwer, sich längere Zeit auf ein Projekt zu konzentrieren.</desc>
+  </AvaliRuffian>
+
   <!-- <AvaliHologram>
     <title>Holo-vali</title>
     <titleFemale></titleFemale>
